@@ -1,0 +1,58 @@
+#food {
+  background: green;
+}
+
+p {
+  background: orange;
+}
+
+.hotdog p.mustard {
+  background: yellow;
+}
+
+.hotdog p {
+  background: brown;
+}
+
+.btn {
+  font-size: 16px;
+}
+
+.btn-danger {
+  background: red;
+}
+
+.btn-success {
+  background: green;
+}
+
+.task {
+  /* background: maroon; */
+  /* background: #800000; */
+  /* background: rgb(128, 0, 0); */
+  /* background: rgba(128, 0, 0, .25); maroon with semi transparency 25% */
+  /* background: hsl(0, 100%, 25%); */
+  background: hsla(0, 100%, 25%, .25);
+}
+
+.count {
+  /* background: yellow; */
+  /* background: #ff0; */
+  /* background: rgb(255, 255, 0); */
+  /* background: rgba(255, 255, 0, 1); */
+  /* background: hsl(60, 100%, 50%) */
+  background: hsla(60, 100%, 50%, 1)
+}
+
+p {
+  font-size: 14px;
+}
+
+.col {
+  width: 50%;
+}
+
+.banner {
+  font-size: 14px;
+  width: 5em;
+}

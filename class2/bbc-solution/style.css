@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #000;
+    padding-right: 0 2rem 0 2rem;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+}
+li{
+    font-size: 2rem;
+    border-left: 1px solid #fff;
+    padding: 1rem;
+    text-align: center;
+    
+}
+.logo{
+    width: 10rem;
+}
+.sign-in{
+    width: 6rem;
+    font-size: 2rem;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.heading
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem 0 2rem;
+    margin: 3rem 0;
+}
+
+.heading h1{
+    font-size: 3rem;
+}
+.heading h2{
+    font-size: 3rem;
+    font-weight: 300;
+}
+.top{
+    display: flex;
+    gap: 3rem;
+    width: 90% ;
+    margin: 5rem auto;
+}
+.top-left{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.637) ), url(./img/princeMohamad-1.jpg) ;
+    background-size:cover;
+    position: relative;
+    width: 50%;
+    height: 40rem;
+}
+.top-left-text{
+    color: #fff;
+    width: 90%;
+    position: absolute;
+    bottom: 3rem;
+    left: 3rem;
+
+}
+.top-left-text h2{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+.top-left-text p{
+    font-size: 2rem ;
+    margin-bottom: 1.2rem;
+}
+.top-right{
+   display: grid;
+   grid-template-columns: 1fr 1fr ;
+   grid-template-rows: 1fr 1fr ;
+   gap: 1rem;
+   justify-items: center;
+   align-items: center;
+}
+.top-right--1,
+.top-right--2,
+.top-right--3,
+.top-right--4{
+ 
+    background-size: cover;
+    position: relative;
+    height: 18rem;
+    width: 25rem;
+}
+.top-right-text{
+    color: #fff;
+    width: 80%;
+    position: absolute;
+    bottom: 3rem;
+    left: 3rem;
+
+}
+
+.top-right--1{
+    
+    background-image: linear-gradient( rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.637) ), url(./img/flags-USA-Canada-2.jpg);
+    
+    
+    
+    
+}
+
+.top-right--2{
+  
+    background-image: linear-gradient( rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.637) ), url(./img/covid-vaccine-3.jpg);
+    
+}
+.top-right--3{
+
+    background-image: linear-gradient( rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.637) ), url(./img/Online-productivity-gyms-4.jpg);
+    
+    
+}
+.top-right--4{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.082), rgba(0, 0, 0, 0.637) ), url(./img/Victor-jara.jpg);
+
+}
+.tag-blue{
+    border-left: 2px solid blue;
+    padding-left: 4px;
+    
+}
+.tag-red{
+    padding-left: 4px;
+    border-left: 2px solid red;
+}
+.news{
+    width: 90%;
+    margin: 10rem auto;
+    gap: 2rem;
+}
+.news-heading{
+    font-size: 2rem;
+    margin: 2rem;
+    
+}
+.news-container{
+    display: flex;
+    gap: 3rem;
+}
+.news--1,
+.news--2,
+.news--3{
+    width: 30%;
+    
+}
+
+
+.news-img{
+    width: 100%;
+}
+
+
+.news-p{
+    font-size: 1.6rem;
+
+    margin: 1rem;
+}

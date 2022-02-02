@@ -1,0 +1,110 @@
+The Golden Rule
+SEPERATION OF CONCERNS
+HTML = Content / Structure
+CSS = Style
+JS = Behavior / Interaction
+------------------------------------------------------------------------------------------
+CSS
+Where does CSS go?
+Inline
+In the head
+In a separate file
+---------------------------------------------------------------------------------------
+CSS BREAK DOWN
+p{
+  color: red;
+  font-weight: bold;
+}
+-------------------------------------------------------------------------------------------
+CSS is read top to bottom
+What comes below, can override what came above
+This is called the Cascade
+p{
+  color: red;
+  font-weight: bold;
+}
+p{
+  color: blue;
+}
+----------------------------------------------------------------------------------------------
+Selecting By Relationship
+To select an element that is the direct descendent of another element use
+parent > child
+<section>				section > p{color: red;
+  <p>Hello, Twitch!</p>
+</section>
+-----------------------------------------------------------------------------------------------
+Selecting By Relationship
+select an element that is inside of another element without being directly 
+descended use parent element parent child
+<section>				section p {color: red;}
+  <article>
+    <p>Hello, Twitch!</p>
+  </article>
+</section>
+-------------------------------------------------------------------------------------------------
+Selecting By Relationship
+To select an element that is the next sibling use
+previous sibling + next sibling
+<section>				p + p {color: red;}	
+  <p>Hello, Twitch!</p>
+  <p>Hello, Youtube!</p>
+</section>
+-------------------------------------------------------------------------------------------------
+IDs
+IDs are used for selecting distinct elements
+Only one id with the same value per document
+#idName
+<section>
+  <p>Hello, Twitch!</p>
+  <p id="zebra">Hello, Youtube!</p>	#zebra {color: red;}	
+</section>
+-------------------------------------------------------------------------------------------------
+Classes
+Classes are for selecting multiple elements
+Multiple with same value allowed per document
+.className
+<section>
+  <p class="robot">Hello, Twitch!</p>
+  <p id="zebra" class="bob">Hello, Youtube!</p>		.bob {color: red;}
+  <p class="bob">Goodbye, Mixer!</p>
+</section>
+------------------------------------------------------------------------------------------------
+SPECIFICTY
+<section id="pizza">
+  <p class="jumanjiOriginalMovie">Hello, Twitch!</p>
+  <p id="car" class="hello">Hello, Youtube!</p>
+  <p>Goodbye, <span class="gone">Mixer!</span></p>
+</section>
+#pizza p span.gone {
+  color: red;
+}
+
+<section id="dietCoke">
+  <p class="robot unicorn">Hello, Twitch!</p>
+  <p id="zebra" class="bob dominosPizza">Hello, Youtube!</p>
+  <p class="bob">Goodbye, Mixer!</p>
+</section>
+#dietCoke p.robot.unicorn + .bob {
+  color: red;
+}
+
+<section id="dietCoke">
+  <p class="robot unicorn">Hello, Twitch!</p>
+  <p id="zebra" class="bob dominosPizza">Hello, Youtube!</p>
+  <p class="bob">Goodbye, Mixer!</p>
+</section>
+#dietCoke > .robot + .dominosPizza + .bob {
+  color: red !important;
+}
+----------------------------------------------------------------------------------------------
+MEDIA QUIERIES
+@media screen and (max-width: 600px) {
+    h1 {
+        color: blue;
+    }
+}
+
+TO ADD TO TEMPLATE IN HTML HEAD:-
+<meta name="viewport" content="width=device-width, initial-scale=1">
+

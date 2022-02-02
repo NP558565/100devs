@@ -1,0 +1,10 @@
+section {
+    display: inline-block;
+    margin: 0 1.0%;
+    width: 30%;
+  }
+section, header, footer{
+    border: 1px black solid;
+    border-radius: 10px;
+    height: 25px;
+}

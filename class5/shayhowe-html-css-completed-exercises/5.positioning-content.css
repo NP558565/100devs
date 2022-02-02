@@ -1,0 +1,34 @@
+code {
+  color: #666;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+section,
+.offset,
+.offset code {
+  border-radius: 6px;
+  padding: 24px 30px;
+}
+section {
+  background: #eaeaed;
+  height: 145px;
+  position: relative;
+}
+.offset,
+.offset code {
+  height: 96px;
+  /* position: absolute; */
+  width: 160px;
+}
+.offset {
+  border: 2px dashed #9799a7;
+  right: 0;
+  top: 0;
+
+}
+.offset code {
+  background: #2db34a;
+  color: #fff;
+  display: block;
+  right: 20px;
+  top: 20px;
+}

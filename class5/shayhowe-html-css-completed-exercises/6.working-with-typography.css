@@ -1,0 +1,33 @@
+html {
+  color: #555;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.special {
+  font-style: italic;
+}
+
+.firm {
+  font-variant: small-caps;
+}
+
+.daring {
+  font-weight: 600;
+}
+
+/* body {
+  line-height: 22px;
+} */
+
+.btn {
+  height: 22px;
+  line-height: 22px;
+}
+
+body {
+  font: italic small-caps 600 22px/1.5 "Consolas";
+}

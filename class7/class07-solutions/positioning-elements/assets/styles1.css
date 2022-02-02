@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 5px;
+}
+header{
+    width: 100%;
+    background-color: orange;
+    border: 1px black solid;
+    border-radius: 10px;
+    height: 50px;
+}
+section{
+    width: 30%;
+    float: left;
+    background-color: red;
+    border: 1px black solid;
+    border-radius: 10px;
+    height: 50px;
+}
+
+footer{
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 10px;
+    background-color: orange;
+    clear: both;
+}
+

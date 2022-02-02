@@ -1,0 +1,58 @@
+.notice-success {
+  background: #67b11c;
+  background: linear-gradient(#72c41f, #5c9e19);
+  border: 2px solid #467813;
+  border-radius: 5px;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 15px 20px;
+}
+
+div {
+  margin: 25px 0;
+}
+
+.div1 {
+  background: #466368;
+  background: linear-gradient(to right bottom, #648880, #293f50);
+  border-radius: 6px;
+  height: 120px;
+}
+
+.div2 {
+  background: #466368;
+  background: radial-gradient(#648880, #293f50);
+  border-radius: 6px;
+  height: 120px;
+}
+
+.div3 {
+  background: #648880;
+  background: linear-gradient(to right, #f6f1d3, #648880, #293f50);
+  border-radius: 6px;
+  height: 120px;
+}
+
+.div4 {
+  background: #648880;
+  background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
+  border-radius: 6px;
+  height: 120px;
+}
+
+.div5 {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/shay_1.jpg") 0 0 no-repeat;
+  background-size: cover;
+  border: 2px dashed #9799a7;
+  height: 240px;
+  width: 200px;
+}
+
+.div6 {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/shay_1.jpg") 0 0 no-repeat;
+  border: 2px dashed #9799a7;
+  height: 240px;
+  width: 200px;
+  background-clip: border-box;
+  background-origin: border-box;
+}

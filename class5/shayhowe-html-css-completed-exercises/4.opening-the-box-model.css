@@ -1,0 +1,32 @@
+body, p {
+  margin: 0;
+}
+
+p {
+  display: inline-block;
+}
+
+div {
+  border: 6px solid #949599;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
+}
+
+/* didn't change the height and weight as span element's display is inline by default. */
+span {
+  /* display: block; */
+  background: teal;
+  height: 200px;
+  width: 500px;
+  margin: 200px;
+  padding: 200px;
+}
+
+.border-div {
+  border: 5px double black;
+  width: 50px;
+  height: 50px;
+  border-radius: 15px 75px
+}
