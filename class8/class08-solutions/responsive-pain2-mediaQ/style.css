@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+header,
+footer {
+  height: 100px;
+  border: 3px solid black;
+  clear: both;
+}
+section {
+  height: 300px;
+  width: 33.3333%;
+  border: 2px solid black;
+  float: left;
+}
+
+@media (max-width: 600px) {
+  section {
+    width: 100%;
+    float: none;
+  }
+}
