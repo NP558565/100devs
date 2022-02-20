@@ -1,0 +1,2 @@
+go deeper with media queries, em/rems, and redo some layouts with flexbox:
+https://slides.com/leonnoel/100devs2-css-review-flexbox
