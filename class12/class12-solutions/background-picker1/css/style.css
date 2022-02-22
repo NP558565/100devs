@@ -1,0 +1,58 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+h1, h2{
+  text-align: center;
+}
+img{
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+}
+ul{
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0;
+}
+li{
+  width: inherit;
+  height: 130px;
+}
+button {
+  height: inherit;
+  width: inherit;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+#purple{
+  background: rgba(241,63,247,1);
+}
+#green{
+  background: rgba(0,253,81,1);
+}
+#blue{
+  background: rgba(0,254,255);
+}
+#red{
+  background: rgb(255, 0, 34);
+}
+#black{
+  background: rgb(3, 0, 0);
+}
+#berserk{
+  background: url(https://media.comicbook.com/2020/07/berserk-manga-guts-berserker-armor-1230243.jpeg?auto=webp&width=1204&height=628&crop=1204:628,smart);
+  background-size: cover;
+  background-position: right;
+}
