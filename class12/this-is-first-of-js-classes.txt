@@ -1,0 +1,10 @@
+Agenda:
+Lets talk- baby learns to walk
+learn - what is programming
+Build - YouTube Background picker
+Learn - JS Variables && data types
+Build - Not so great calculator
+Learn - JS Arithmetic && conditionals
+Build - Angry parent simulator
+Build - temprature convertor
+Homework  - repetition
