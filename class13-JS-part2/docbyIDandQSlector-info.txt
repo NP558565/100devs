@@ -1,0 +1,8 @@
+document.getElementById() is already expecting an ID to be used here thats why the "#" isn't required.
+When should you use onclick vs addeventlisterner 'click'? From what I understand onclick can only be used once right...so that element cant get assigned another event?
+
+I think Leon was just showing multiple ways of accomplishing the same thing. addEventListener is more flexible, it can listen for "click", "dblclick",  "keyup", "keydown", "mouseover" to name a few. while onclick is limited to on click
+
+document.querySelector() can select, elements, Classes, tags, attribute selectors, and any other way of selecting elements with CSS can be used so "." for classes and "#" for ids is important to include. 
+
+.getElementsByClassName() can be called on any element, this is looking for a class name already so you don't need the "." but this function returns a HTMLCollection. which kinda like a live array, it can change if the DOM changes
