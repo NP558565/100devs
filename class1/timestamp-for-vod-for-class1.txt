@@ -1,0 +1,38 @@
+00:26:47	#01 Agenda
+00:28:14	#02 Questions
+00:31:08	#03 Career
+00:41:36	#04 A Window Is Open
+00:48:40	#05 Trough Of Sorrow
+00:57:39	#06 Community
+01:03:51	Break Started
+01:08:50	Break Ended
+01:12:38	#07 Manage Frustration
+01:21:33	#08 Don't let your dreams be dreams
+01:22:53	#09 Course Setup
+01:23:44	#10 Materials
+01:24:42	#11 Checking in
+01:26:17	#12 Networking
+01:28:33	#13 Submitting Work
+01:30:13	#14 Coding Challenges
+01:30:49	#15 Roller Coaster
+01:34:23	#16 Syllabus
+01:36:14	#17 Community Rules
+01:40:30	#18 Before you Type Anything
+01:47:07	#19 Have you ever
+01:49:54	#20 What if there was a way to learn stuff faster, more efficiently, and forever!
+01:50:29	#21 Learning How To Learn
+01:51:18	#22 Active Recall
+01:58:26	#23 Forgetting Curve
+02:02:32	Break started
+02:07:32	Break ended
+02:09:05	#24 Resetting Forgetting Curve
+02:11:03	#25 Spaced Repetition
+02:14:57	#26 Anki
+02:17:17	#27 Why should you make your own cards?
+02:19:52	#28 Why should you use Anki every day?
+02:24:12	#29 Thank You
+02:25:05	#30 What is the internet?
+03:03:44	#29 HTML5
+03:05:25	#30 HTML5 New Features
+03:07:26	#31 The Golden Rule
+03:10:30	#32 HTML Syntax
