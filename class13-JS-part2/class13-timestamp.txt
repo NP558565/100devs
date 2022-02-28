@@ -1,0 +1,55 @@
+00:05:31	#01 Agenda
+00:07:19	#03 Checking In
+00:08:25	#05 Submitting Work
+00:13:58	#06 Impostor syndrome
+00:21:35	#07 Golden Rule
+00:22:28	#08 IDs and Classes
+00:22:33	#09 IDs
+00:23:13	#10 Classes
+00:24:14	#11 Programming
+00:24:24	#12 Computers do what you tell them to do
+00:24:47	#13 What is a program?
+00:25:21	#14 What is programming?
+00:25:50	#15 True Story
+00:27:56	#16 JavaScript
+00:29:06	#17 Has a specific Syntax
+00:33:20	#18 Variables
+00:36:12	#19 Variables
+00:36:29	#20 Variables
+00:41:21	#21 Variable conventions
+00:43:34	#22 Variables and Data Types
+00:44:04	#23 Strings
+00:44:38	#24 Strings
+00:46:09	#25 Numbers
+00:46:32	#26 Numbers Signed
+00:46:39	#27 Arithmetic
+00:49:01	#28 Making Decisions
+00:50:53	#29 Comparisons
+00:51:06	#30 Logical Operators
+01:00:44	Break Started
+01:05:43	Break Ended
+01:07:19	#31 Conditional Syntax
+01:07:46	#32 Conditional Syntax
+01:09:26	#33 Conditional Syntax
+01:11:30	#34 Danger
+01:12:43	#35 Multiple Conditions
+01:13:46	#36 Multiple Conditions
+01:15:01	#37 Let's Code Class, Weekend or Boring day
+01:33:41	#38 Let's Code Angry Parent Simulator
+01:55:53	Break Started
+02:00:54	Break Ended
+02:02:38	#39 Pseudocode
+02:07:54	#40 Let's Code Temperature Converter
+02:10:05	Timer Started
+02:12:05	Timer Ended
+02:15:53	Timer Started
+02:20:53	Timer Ended
+02:33:42	#41 Best TV Show of all time
+02:34:34	#42 The Bachelor
+02:38:52	Timer started
+02:40:52	Timer Ended
+02:45:03	Timer Started
+02:47:03	Timer Ended
+03:01:46	Timer Started
+03:03:46	Timer Ended
+03:10:06	#50 Homework
