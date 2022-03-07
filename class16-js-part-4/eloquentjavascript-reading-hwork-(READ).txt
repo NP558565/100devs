@@ -1,0 +1,3 @@
+https://eloquentjavascript.net/01_values.html
+https://eloquentjavascript.net/02_program_structure.html
+https://eloquentjavascript.net/03_functions.html
