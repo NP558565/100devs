@@ -1,0 +1,149 @@
+Getters
+=================================================================================================================
+Getters are methods that get and return the internal properties of an object. But they can do more than just 
+retrieve the value of a property! Let’s take a look at a getter method:
+
+const person = {
+  _firstName: 'John',
+  _lastName: 'Doe',
+  get fullName() {
+    if (this._firstName && this._lastName){
+      return `${this._firstName} ${this._lastName}`;
+    } else {
+      return 'Missing a first name or a last name.';
+    }
+  }
+}
+ 
+// To call the getter method: 
+person.fullName; // 'John Doe'
+Notice that in the getter method above:
+
+We use the get keyword followed by a function.
+We use an if...else conditional to check if both _firstName and _lastName exist (by making sure they both 
+return truthy values) and then return a different value depending on the result.
+We can access the calling object’s internal properties using this. In fullName, we’re accessing both 
+this._firstName and this._lastName.
+In the last line we call fullName on person. In general, getter methods do not need to be called with 
+a set of parentheses. Syntactically, it looks like we’re accessing a property.
+Now that we’ve gone over syntax, let’s discuss some notable advantages of using getter methods:
+
+Getters can perform an action on the data when getting a property.
+Getters can return different values using conditionals.
+In a getter, we can access the properties of the calling object using this.
+The functionality of our code is easier for other developers to understand.
+Another thing to keep in mind when using getter (and setter) methods is that properties cannot share the 
+same name as the getter/setter function. If we do so, then calling the method will result in an infinite 
+call stack error. One workaround is to add an underscore before the property name like we did in the example above.
+
+
+Instructions
+1.
+In robot, create a getter method named energyLevel using the get keyword. Leave function body blank for now.
+2.
+Inside the getter method, add an if statement to check if this._energyLevel is a number using the typeof operator. 
+If that condition is truthy, return 'My current energy level is ENERGYLEVEL'. Replace ENERGYLEVEL with the value of 
+this._energyLevel.
+Make sure you return the string and not logging it to the console.
+3.
+If this._energyLevel isn’t a number it could be that the _energyLevel property was altered. Let’s add a default 
+return statement for when such a scenario arises.
+Add an else statement that returns 'System malfunction: cannot retrieve energy level'.
+4.
+Log the result of calling the getter method energyLevel on robot to the console.
+Notice that the method will return a formatted response rather than just accessing a property!
+
+const robot = {
+  _model: '1E78V2',
+  _energyLevel: 100,
+  get energyLevel(){
+    if(typeof this._energyLevel === 'number') {
+      return 'My current energy level is ' + this._energyLevel
+    } else {
+      return "System malfunction: cannot retrieve energy level"
+    }
+  }
+};
+console.log(robot.energyLevel);
+------------------------------------------------------------------------------------------------------------------------
+
+Setters
+======================================================================================================================
+Setters
+Along with getter methods, we can also create setter methods which reassign values of existing properties 
+within an object. Let’s see an example of a setter method:
+
+const person = {
+  _age: 37,
+  set age(newAge){
+    if (typeof newAge === 'number'){
+      this._age = newAge;
+    } else {
+      console.log('You must assign a number to age');
+    }
+  }
+};
+Notice that in the example above:
+
+We can perform a check for what value is being assigned to this._age.
+When we use the setter method, only values that are numbers will reassign this._age
+There are different outputs depending on what values are used to reassign this._age.
+Then to use the setter method:
+
+person.age = 40;
+console.log(person._age); // Logs: 40
+person.age = '40'; // Logs: You must assign a number to age
+Setter methods like age do not need to be called with a set of parentheses. Syntactically, it looks 
+like we’re reassigning the value of a property.
+
+Like getter methods, there are similar advantages to using setter methods that include checking input, 
+performing actions on properties, and displaying a clear intention for how the object is supposed to be used. 
+Nonetheless, even with a setter method, it is still possible to directly reassign properties. For example, 
+in the example above, we can still set ._age directly:
+
+person._age = 'forty-five'
+console.log(person._age); // Prints forty-five
+
+Instructions
+1.
+Currently, in robot there is a getter method for numOfSensors but no setter method! What if we need to add 
+or remove some sensors? Let’s fix that problem.
+Add a setter method named numOfSensors using the set keyword. Provide a parameter of num. Leave the function 
+body empty for now.
+2.
+There are a couple of things we should do in the setter method:
+Add a check to see if num is a number using the typeof operator.
+num should also be greater than or equal to 0.
+If both conditions are met, reassign this._numOfSensors to num.
+3.
+Now add an else that logs 'Pass in a number that is greater than or equal to 0' to the console.
+4.
+Use the numOfSensors setter method on robot to assign _numOfSensors to 100.
+5.
+To check that the setter method worked, console.log() robot.numOfSensors.
+
+const robot = {
+  _model: '1E78V2',
+  _energyLevel: 100,
+  _numOfSensors: 15,
+  get numOfSensors(){
+    if(typeof this._numOfSensors === 'number'){
+      return this._numOfSensors;
+    } else {
+      return 'Sensors are currently down.'
+    }
+  },
+  set numOfSensors(num) {
+    if (typeof num === 'number' && num >= 0){
+      this._numOfSensors = num;
+    } else {
+      console.log('Pass in a number that is greater than or equal to 0')
+    }   
+  } 
+};
+
+robot.numOfSensors = 100;
+console.log(robot.numOfSensors);
+
+
+

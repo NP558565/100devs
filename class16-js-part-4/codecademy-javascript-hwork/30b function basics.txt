@@ -1,0 +1,163 @@
+# Functions
+
+* [What are functions?](#What-are-functions?)
+* [Function Declarations](#Function-Declarations)
+* [Calling a function](#Calling-a-function)
+* [Parameters and Arguments](#Parameters-and-Arguments)
+* [Default parameters](#Default-parameters)
+* [Return](#Return)
+* [Helper Function](#Helper-Function)
+* [Function Expressions](#Function-Expressions)
+* [Arrow Functions](#Arrow-Functions)
+* [Concise Body Arrow Functions](#Concise-Body-Arrow-Functions)
+
+
+
+## What are functions?
+In programing, we often use code to perform a specific task multiple times. Instead of rewriting the same code, we can group a block of code together and associate it with one task, the we can reuse that block of code whenever we need to perform the task again. We achieve this by creating a *function*. A function is a reusable block of code that groups together a sequence of statements to perform a specific task.
+
+## Function Declarations
+A function declaration consists of:
+
+* The `function` keyword.
+* The name of the function, or its identifier, followed by parentheses.
+* A function body, or the block of statements required to perform a specific task, enclosed in the function's curly brackets, `{ }`.
+
+We should also be aware of the *hosting* feature in JavaScript which allows access to function declarations before they're defined.
+
+Since hoisting isn’t considered good practice, we simply want you to be aware of this feature.
+
+## Calling a function
+The code inside a function body runs, or *executes*, only when the function is *called*. To call a function in your code, you type the function name followed by parentheses.
+
+```js
+function getGreeting() {
+  console.log('Hello world!');
+}
+
+getGreeting();
+```
+
+## Parameters and Arguments
+When declaring a function, we can specify its *parameters*. Parameters allow functions to accept inputs(s) and perform task using the input(s). We use paremeters as placeholders for information that will be passed to the function when it is called.
+
+```js
+function calculateArea(width, height) {
+  console.log(width * height);
+}
+```
+
+When calling a function that has parameters, we specify the values in the parentheses that follow the function name. The values that are passed to the function when it is called are called *arguments*. Arguments can be passed to the function as values or variables.
+
+`calculateArea(10, 6);`
+
+## Default parameters
+Feature added in ESC6.
+
+Default parameters allow parameters to have a predetermined value in case there is no argument passed into the function or if the argument is `undefined` when called.
+
+```js
+function greeting (name = 'stranger') {
+  console.log(`Hello, ${name}!`);
+}
+
+greeting('Nick'); // Output: Hello, Nick!
+greeting();       // Output: Hello, stranger!
+```
+
+By using a default parameter, we account for situations when an argument isn't passed into a function that is expecting an argument.
+
+## Return
+To pass back information from the function call, we use a return statement. To create a return statement, we use the `return` keyword followed by the value that we wish to return.
+
+When a `return` statement is used in a function body, the execution of the function is stopped and the code that follows it will not be executed.
+
+```js
+function rectangleArea(width, height) {
+  if (width < 0 || height < 0) {
+    return 'You need positive integers to calculate area!';
+  }
+
+  return width * height;
+}
+```
+
+If an argument for `width` or `height` is less than `0`, then `rectangleArea()` will return `'You need positive integers to calculate area!'`. The second return statement `width * height` will not run.
+
+## Helper Function
+We can also use the return value of a function inside another function. These functions being called within another function are often referred to as *helper function*.
+
+```js
+function multiplyByNineFifths(number) {
+  return number * (9/5);
+}
+
+function getFahrenheit(celsius) {
+  return multiplyByNineFifths(celsius) + 32;
+}
+
+getFahrenheit(15); // return 59
+```
+
+We can use functions to section off small bits of logic or tasks, then use them when we need to. Writing helper functions can help take large and difficult tasks and break them into smaller and more manageable tasks.
+
+## Function Expressions
+Another way to define a function is to use a *function expression*.
+
+To define a function inside an expression, we can use the `function` keyword.
+
+In a function expression, the function name is usually omitted.
+
+A function with no name is called an *anonymous function*.
+
+A function expression is often stored in a variable in order to refer to it.
+
+```js
+const calculateArea = function(width, height) {
+  const area = width * height;
+  return area;
+};
+```
+
+Declare a variable to make the variable's name be the name, or identifier, of your function. Since the release of ES6, it is common practice to use `const` as the keyword to declare the variable.
+
+## Arrow Functions
+ES6 introduced *arrow function syntax*, shorter way to write functions by using the special "fat arrow" `() =>` notation.
+
+Arrow functions remove the need to type out the keyword `function` every time you need to create a function. Instead, you first include the parameters inside the `( )` and then add an arrow `=>` that points to the function body surrounded in `{ }`.
+
+```js
+const rectangleArea = (width, height) => {
+  let area = width * height;
+  return area;
+};
+```
+
+## Concise Body Arrow Functions
+JavaScript also provides several ways to refactor arrow function syntax. The most condensed form of the function is known as *concise body*.
+
+1. Functions that take only a single parameter do not need that parameter to be enclosed in parentheses. However, if a function takes a zero or multiple parameters, parameters are required.
+
+  ```js
+  //ZERO PARAMETERS
+  const functionName = () => {};
+
+  //ONE PARAMETER
+  const functionName = paramOne => {};
+
+  //TWO OR MORE PARAMETERS
+  const functionName = (paramOne, paramTwo) => {};
+  ```
+
+2. A function body composed of single-line block does not need curly braces. Without the curly braces, whatever that line evaluates will be automatically returned. The contents of the block should immediately follow the arrow `=>` and the `return` keyword can be removed. This is referred to as *implicit return*.
+
+```js
+//SINGLE-LINE BLOCK
+const sumNumbers = number => number + number;
+
+//MULTI-LINE BLOCK
+const sumNumbers = number => {
+  const sum = number + number;
+  return sum;
+};
+```

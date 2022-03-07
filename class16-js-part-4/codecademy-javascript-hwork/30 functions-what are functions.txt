@@ -1,0 +1,57 @@
+What are Functions?
+When first learning how to calculate the area of a rectangle, there’s a sequence of steps to calculate the correct answer:
+
+Measure the width of the rectangle.
+Measure the height of the rectangle.
+Multiply the width and height of the rectangle.
+With practice, you can calculate the area of the rectangle without being instructed with these three steps every time.
+
+We can calculate the area of one rectangle with the following code:
+
+const width = 10;
+const height = 6;
+const area =  width * height;
+console.log(area); // Output: 60
+Imagine being asked to calculate the area of three different rectangles:
+
+// Area of the first rectangle
+const width1 = 10;
+const height1 = 6;
+const area1 =  width1 * height1;
+ 
+// Area of the second rectangle
+const width2 = 4;
+const height2 = 9;
+const area2 =  width2 * height2;
+ 
+// Area of the third rectangle
+const width3 = 10;
+const height3 = 10;
+const area3 =  width3 * height3;
+In programming, we often use code to perform a specific task multiple times. Instead of rewriting the same code, 
+we can group a block of code together and associate it with one task, then we can reuse that block of code whenever 
+we need to perform the task again. We achieve this by creating a function. A function is a reusable block of code 
+that groups together a sequence of statements to perform a specific task.
+
+In this lesson, you will learn how to create and use functions, and how they can be used to create clearer and more concise code.
+=========================================================================================================
+
+
+5. Function
+Here, we want you to write a function called capitalize that takes 2 parameters first_name and last_name
+How to define a function 
+Now you need to write the code inside your function.
+You need to take the first letter of first_name and make it upcase
+Same with the first letter of last_name
+To finish, you need to return the concatenation of first_name and last_name capitalized!
+Do not forget the " " between those 2 variables :)
+To access the first letter, you can use the charAt()
+To upcase a letter, you can use the toUpperCase()
+To access the everything except the first letter, you can use substring
+Incorporate all of that in your function 
+View Solution
+const capitalize = (first_name, last_name) => {
+  const first = first_name.charAt(0).toUpperCase() + first_name.substring(1);
+  const last = last_name.charAt(0).toUpperCase() + last_name.substring(1);
+  return first + " " + last
+}

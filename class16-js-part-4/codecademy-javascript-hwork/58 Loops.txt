@@ -1,0 +1,80 @@
+Loops
+A loop is a programming tool that repeats a set of instructions until a specified condition, called a 
+stopping condition is reached. As a programmer, you’ll find that you rely on loops all the time! You’ll 
+hear the generic term iterate when referring to loops; iterate simply means “to repeat”.
+
+When we need to reuse a task in our code, we often bundle that action in a function. Similarly, when we 
+see that a process has to repeat multiple times in a row, we write a loop. Loops allow us to create efficient 
+code that automates processes to make scalable, manageable programs.
+
+As illustrated in the diagram, loops iterate or repeat an action until a specific condition is met. When the 
+condition is met, the loop stops and the computer moves on to the next part of the program.
+
+/*
+A LOOP is a tool that repeats a set of instructions until a specified condition
+(STOP CONDITION) is reached.
+Loops ITERATE or repeat an action until a specified condition is met.
+*/
+
+/*
+>> The Initialization is (let counter = 5) so the loop starts counting at 5
+>> The Stopping Condition is (counter < 11) so the loop will run as long as the
+ITERATOR (counter) is less than 11
+>> The Iteration Statement is (counter++) meaning that after each loop, the value
+of (counter) will increase by 1.
+*/
+
+// The FOR Loop > syntax
+for (let counter = 5; counter < 11; counter++) {
+    console.log(counter); // Output: 5 6 7 8 9 10
+  }
+
+// Loop in Reverse > syntax
+for (let counter = 3; counter >= 0; counter--){
+    console.log(counter); // Output: 3 2 1 0 (loops backwards from 3 to 0)
+  }
+
+// Looping through Arrays > (i) is a Variable naming convention, and short-hand for the word INDEX
+const animals = ['Grizzly Bear', 'Sloth', 'Sea Lion'];
+for (let i = 0; i < animals.length; i++){
+  console.log(animals[i]); // Output: Grizzly Bear, Sloth, Sea Lion
+}
+
+// Nested Loops > compare the elements in two arrays
+// For each round of the outer FOR LOOP, the inner FOR LOOP will run completely
+const myArray = [6, 19, 20];
+const yourArray = [19, 81, 2];
+
+for (let i = 0; i < myArray.length; i++) {
+  for (let j = 0; j < yourArray.length; j++) {
+    if (myArray[i] === yourArray[j]) {
+      console.log('Both loops have the number: ' + yourArray[j]) //Output: '..: 19'
+    }
+  }
+};
+
+// The WHILE Loop > used when we want a loop to execute an undetermined number of times
+const cards = ['diamond', 'spade', 'heart', 'club'];
+let currentCard;
+while (currentCard != 'spade') {
+  currentCard = cards[Math.floor(Math.random() * 4)];
+  console.log(currentCard); //Output: random cards until evaluates to FALSE ('spade') and stops
+}
+
+// DO .. WHILE Loop > run code at least once then loop based on a specific condition
+let cupsOfSugarNeeded = 5;
+let cupsAdded = 0;
+
+do {
+  cupsAdded++
+  console.log(cupsAdded + ' cup was added');
+} while (cupsAdded < cupsOfSugarNeeded); //Output: '1 cup was added' and so forth until 5
+
+// The BREAK keyword > used to break out of the loop IF some condition is met
+const rapperArray = ["Lil' Kim", "Jay-Z", "Notorious B.I.G.", "Tupac"];
+for (let i = 0; i < rapperArray.length; i++){
+  console.log(rapperArray[i]);
+  if (rapperArray[i] === 'Notorious B.I.G.'){
+    break;
+  }
+} // The loop breaks when the index in (rapperArray[i]) is 'Notorious B.I.G'

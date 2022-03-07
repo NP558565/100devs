@@ -1,0 +1,25 @@
+Learn JavaScript: Next Steps
+You’ve completed the Learn JavaScript course! What’s next?
+
+Congratulations, you’ve successfully completed the Learn JavaScript course! You got an introduction to programming fundamentals using the latest JavaScript syntax. More specifically, you learned to:
+
+implement JavaScript data types, built-in methods, and variables
+use conditionals to control the flow of a program in JavaScript
+construct functions and pass data through them
+identify global and block-level scopes in JavaScript
+use arrays to store lists of data
+use loops to execute blocks of code multiple times
+use iterator methods to simplify the process of looping over arrays
+use JavaScript ES6 object syntax to model real-world items
+Your learning journey into JavaScript isn’t over yet! There are plenty of other topics that you can dive into to continue learning. Here are our recommendations for next steps:
+
+Learn Intermediate JavaScript
+If you want to continue learning JavaScript, check out Learn Intermediate JavaScript! We will dive into topics like classes, modules, and asynchronous programming. We will also learn more about how JavaScript operates under the hood to get a deeper understanding about the language.
+
+Learn HTML and Learn CSS
+If you are new to web development and want to learn how to create your own websites, check out Learn HTML and Learn CSS! Together with JavaScript, HTML and CSS are the three main tools you need to build a website. Learn how to create web pages using HTML and style them using CSS.
+
+Building Interactive JavaScript Websites
+If you are interested in learning how you can combine HTML and CSS with JavaScript, check out Building Interactive JavaScript Websites! This Skill Path will walk you through concepts to lay the foundation for adding interactivity to websites. It will also help you to bridge the gap between learning JavaScript principles and applying JavaScript to real web development projects.
+
+Once again, congratulations on finishing your Learn JavaScript course! We are excited to see what you accomplish next. Happy coding!

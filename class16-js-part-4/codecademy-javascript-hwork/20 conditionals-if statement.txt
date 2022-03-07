@@ -1,0 +1,39 @@
+If Statement
+We often perform a task based on a condition. For example, if the weather is nice today, then we will go outside. 
+If the alarm clock rings, then we’ll shut it off. If we’re tired, then we’ll go to sleep.
+
+In programming, we can also perform a task based on a condition using an if statement:
+
+if (true) {
+  console.log('This message will print!'); 
+}
+// Prints: This message will print!
+Notice in the example above, we have an if statement. The if statement is composed of:
+
+The if keyword followed by a set of parentheses () which is followed by a code block, or block statement, 
+indicated by a set of curly braces {}.
+Inside the parentheses (), a condition is provided that evaluates to true or false.
+If the condition evaluates to true, the code inside the curly braces {} runs, or executes.
+If the condition evaluates to false, the block won’t execute.
+=======================================================================================================
+
+3. Conditional
+Let’s start by defining a variable word that has a string for value, any word you want.
+Now you need to test if word starts with the letter "B".
+It it does, you should output true to the console, otherwise you should output false in the console.
+To help you, you can use the startsWith() Javascript function.
+eg: "Benjamin".startsWith("B") will return true
+If you do not remember the syntax of an if else in Javascript:
+    if (condition) {
+        code if the condition is true;
+    } else {
+        code if condition is false;
+    }
+View Solution
+ if (word.startsWith("B") === true) {
+      console.log(true);
+  } else {
+      console.log(false);
+  }
+ console.log(word.startsWith("B"));
+The function startsWith() already returns us true or false meaning we actually don’t need to use a condition here 

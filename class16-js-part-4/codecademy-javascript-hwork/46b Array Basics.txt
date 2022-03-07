@@ -1,0 +1,190 @@
+# Arrays
+
+* [Arrays](#Arrays)
+* [Create an Array](#Create-an-Array)
+* [Accessing Elements](#Accessing-Elements)
+* [Update Elements](#Update-Elements)
+* [Arrays with let and const](#Arrays-with-let-and-const)
+* [The .length property](#The-.length-property)
+* [The .push() Method](#The-.push()-Method)
+* [The .pop() Method](#The-.pop()-Method)
+* [More Arrays Methods](#More-Arrays-Methods)
+* [Arrays and Functions](#Arrays-and-Functions)
+* [Nested Arrays](#Nested-Arrays)
+
+
+## Arrays
+Arrays are JavaScript's way to making lists. Arrays can store any data types (including strings, numbers, and booleans). like lists, arrays are ordened, meaning each item has a numbered position.
+
+Example of array:
+
+```js
+let concepts = ['creating arrays', 'array structures', 'array manipulation']
+```
+
+## Create an Array
+*array literal* is an one way we can create an array. An array literal creates an array by wrapping items in square brackets `[]`.
+
+Arrays can store any data type, we can have an array that holds all the same data types or an array that holds different data types.
+
+`['element example', 10, true]`
+
+We can also save an array to a variable.
+
+```js
+let newYearsResolutions = ['Keep a journal', 'Take a falconry class', 'Learn to juggle'];
+```
+
+## Accessing Elements
+Each element in an array has a numbered position knows as its *index*. We can access individual items using their index.
+
+Arrays in JavaScript are *zero-indexed*, meaning the positions start counting from `0` rather than `1`.
+
+You can also access individual characters in a string using bracket notation and the index. For instance:
+
+```js
+const hello = 'Hello World';
+console.log(hello[6]);
+// Ouput: W
+```
+
+## Update Elements
+Once you have access to an element in an array, you can update its value.
+
+```js
+let seasons = ['Winter', 'Sprint', 'Summer', 'Fall'];
+seasons[3] = 'Autumn';
+console.log(seasons);
+// Output: ['Winter', 'Spring', 'Summer', 'Autumn']
+```
+The line, `seasons[3] = 'Autumn';` tells our program to change the item at index 3 of the `seasons` array to be `'Autumn'` instead of what is already there.
+
+## Arrays with let and const
++ Variables declared with `let` can be reassigned.
++ Variables declared with `const` cannot be reassigned.
+
+However, elements in array declared with `const` remain mutable. Meaning that we can change the contents of a `const` array, but cannot reassign a new array or a different value.
+
+## The .length property
+One of an array's built-in properties is `length` and it returns the number of items in the array.
+
+```js
+const newYearsResolutions = ['Keep a journal', 'Take a falconry class'];
+
+console.log(newYearsResolutions.length);
+// Output: 2
+```
+
+## The .push() Method
+`.push()` is a built-in JavaScript method that allows us to add items to the end of an array.
+
+```js
+const itemTracker = ['item 0', 'item 1', 'item 2'];
+itemTracker.push('item 3', 'item 4');
+
+console.log(itemTracker);
+// Output: ['item 0', 'item 1', 'item 2', 'item 3', 'item 4']
+```
+
++ Notice that `.push()` changes, or *mutates*, `itemTracker`. You might also see `.push()` referred to as a *destructive* array method since it changes the initial array.
+
+## The .pop() Method
+Another array method, `.pop()`, removes the last item of an array.
+
+```js
+const newItemTracker = ['item 0', 'item 1', 'item 2'];
+
+const removed = newItemTracker.pop();
+
+console.log(newItemTracker);
+// Output: ['item 0', 'item 1']
+
+console.log(removed);
+// Output: item 2
+```
+
++ `.pop()` returns the value of the last element and it can be stored in in a variable to be used for later.
++ `.pop()` is a method that mutates the initial array.
+
+## More Arrays Methods
+You can read about all of the array methods that exist on the [Mozilla Developer Network (MDN) array documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
+
+Some arrays methods that are available to JavaScript developers include: `.join()`, `.slice()`, `.splice()`, `.shift()`, `.unshift()` and `.concat()` amongst many others.
+
+Below, we will explore some methods that we have not learned yet.
+
+1. Use the `.shift()` method to remove the first item from the array `groceryList`.
+```js
+const groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+
+groceryList.shift();
+console.log(groceryList);
+// Output: ['bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains']
+```
+
+2. Use the `.unshift()` method to add `'popcorn'` to the beginning of the grocery list.
+```js
+groceryList.unshift('popcorn');
+console.log(groceryList);
+
+// Output: ['popcorn', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains']
+```
+
+3. If you want to get `'bananas'`, `'coffe beans'` and `'brown rice'` from the grocery list. You can use `.slice()` to get a list of these three things.
+```js
+console.log(groceryList.slice(1, 4));
+// Output: ['bananas', 'coffee beans', 'brown rice'];
+```
++ `.slice()` is non-mutating, that mean that this method does not change the original array.
+
+4. If you want to get the index of a particular element in an array, you can use `.indexOf()` method.
+```js
+const pastaIndex = groceryList.indexOf('pasta');
+console.log(pastaIndex);
+// Output: 4
+```
+
+## Arrays and Functions
+Throughout the lesson we went over arrays being mutable, or changeable. Well what happens if we try to change an array inside a function? Does the array keep the change after the function call or is it scoped to inside the function?
+
+Take a look at the following example where we call `.push()` on an array inside a function. Recall, the `.push()` method mutates, or changes, an array:
+
+```js
+const flowers = ['peony', 'daffodil', 'marigold'];
+
+function addFlower(arr) {
+    arr.push('lily');
+}
+
+addFlower(flowers);
+
+console.log(flowers);
+// Output: ['peony', 'daffodil', 'marigold', 'lily']
+```
++ We call `addFlower()` with an argument of `flowers` which will execute the code inside `addFlower`.
++ We check the value of `flowers` and it now includes the `'lily'` element, The array was mutated.
+
+So when you pass an array into a function, if the array is mutated inside the function, that change will be maintained outside the function as well. You might also see this concept explained as *pass-by-reference* since what we're actually passing the function is a reference to where the variable memory is stored and changing the memory.
+
+## Nested Arrays
+When an array contains another array it is known as a *nested array*.
+
+`const nestedArr = [[1], [2, 3]];`
+
+To access the nested arrays we can use backet notation with the index value.
+
+```js
+const nestedArr = [[1], [2, 3]];
+console.log(nestedArr[1]);
+// Output: [2, 3]
+```
+
+Then, if we wanted to access the elements within the nested array we can *chain*, or add on, more bracket notation with index values.
+
+```js
+const nestedArr = [[1], [2, 3]];
+
+console.log(nestedArr[1]); // Output: [2, 3]
+
+console.log(nestedArr[1][0]); //Output: 2
+```
