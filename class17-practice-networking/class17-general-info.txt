@@ -1,0 +1,7 @@
+this class was a 20+ minute course lecture, recap on what we learnt about
+networking.
+
+after leon finished his talk - everyone in this class17 moved to network with
+colleagues -chat / talk about all things in web dev topics, goals etc.
+
+he also went thru with some Javascript concepts and loops (see video playlist)
