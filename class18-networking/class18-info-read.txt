@@ -1,0 +1,3 @@
+This class - leon chats about all things web dev, and answers questions, and talks
+about tonights networking with colleagues.
+26minutes of talk - then network with collleagues within 100devs (different tables)
