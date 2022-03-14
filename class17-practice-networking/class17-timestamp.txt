@@ -1,0 +1,82 @@
+TIMESTAMP DAY 17
+Here are timestamps for the slides, for whomever needs them:
+
+00:06:18	#2 Questions
+00:10:29	#1 Agenda
+00:11:06	#3 Checking In
+00:12:15	#4 Submitting Work
+00:13:34	#5 Thinking by Walter D Wintle
+00:17:59	#6 Javascript Should NOT Make Sense YET
+00:19:55	#7 You Should Still Struggle With CSS
+00:21:00	#8 You Should Still Stumble Choosing HTML Tags
+00:21:43	#9 THIS IS ALL NORMAL YOU CAN AND WILL DO THIS
+00:24:08	#10 But What About Freelancing?
+00:27:17	#11 I'm NOT GOING TO
+00:29:34	#12 There Are No Other 100Devs Classes or Teachers
+00:35:38	#13 Stream Team Assemble
+00:39:37	#14 Please Be Kind
+00:41:37	#15 Want to be fancy?
+00:43:54	#17 What's Next?
+00:45:02	#18 The Golden Rule
+00:45:22	#19 IDs & Classes
+00:45:31	#20 IDs
+00:45:35	#21 Classes
+00:45:46	#22 Programming
+00:45:49	#23 A computer do what you tell it
+00:45:54	#24 What is a program?
+00:46:05	#25 What is a programming?
+00:47:06	#26 True Story
+00:47:58	#27 JAVASCRIPT
+00:48:25	#28 Has a specific Syntax
+00:48:39	#29 Variables
+00:48:58	#30 Variables
+00:49:10	#31 Variables
+00:49:39	#32 Variable Conventions
+00:49:59	#33 Variables & Data Types
+00:50:30	#34 Strings
+00:52:20	#35  Strings
+00:52:21	#36 Numbers
+00:52:25	#37 Numbers
+00:52:30	#38 Arithmetic in JavaScript
+00:53:57	Break Started
+01:01:17	Break Ended
+01:02:16	#39 Let's Code Variable Fun Time
+01:03:01	Timer Started
+01:08:01	Timer Ended
+01:32:12	#40 Making Decisions
+01:32:35	#41 Comparisons
+01:32:47	#42 Logical Operators
+01:34:06	#43 Conditional Syntax
+01:34:13	#44 Conditional Syntax
+01:34:53	#45 Conditional Syntax
+01:35:37	#46 DANGER
+01:36:14	#47 Multiple Conditions
+01:36:38	#48 Multiple Conditions
+01:36:51	#49 Let's Code Age Checker
+01:38:03	Timer Started
+01:45:15	Timer Ended
+01:53:50	#50 Best TV show of all time?
+01:54:08	#51 The Bachelor
+01:54:10	#52 Functions
+01:54:35	#53 Functions
+01:55:03	#54 Functions
+01:56:38	#55 Functions
+01:58:57	#56 Functions
+02:01:20	Break Started
+02:06:20	Break Ended
+02:06:54	#57 Let's Code Simple Functions
+02:12:44	Timer Ended
+02:31:49	#58 Loops
+02:33:35	#60 Loops - For
+02:34:18	#61 Loops - For
+02:43:02	#62 Let's Code 21 Savage Loop
+02:44:26	Timer Started
+02:46:26	Timer Ended
+02:52:32	#63 Loops - While
+02:53:19	#64 Let's Code Stop Night Snacking
+02:54:40	Timer Started
+02:57:44	Timer Ended
+03:07:56	#65 Let's Code Being It On
+03:08:03	#66 Let's Code Bring it On Again
+03:10:14	Timer Started
+03:14:14	Timer Ended
