@@ -1,0 +1,5 @@
+review HTML, CSS, And Go DEEP Into Reviewing Javascript. Plenty of time for questions and detailed examples. Let's make things make sense!
+
+If you would like your questions answered live, please share your questions here: slido.com with #424608
+
+this review / all folders contain the solution/s to the questions in JS and css, html etc
