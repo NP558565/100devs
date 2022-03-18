@@ -1,0 +1,5 @@
+Review - functions and loops
+Learn 	- Arrays
+Learn	- Array Iteration
+Learn	- Array Methods
+Homework - Objects
