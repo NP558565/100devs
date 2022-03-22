@@ -1,0 +1,8 @@
+Agenda
+Questions? 
+Let's Talk -  #100Devs
+Review - Functions && Loops
+Review - Arrays
+Learn - Objects*
+Learn - Basic APIs*
+Homework - Array Work and Read Ahead
