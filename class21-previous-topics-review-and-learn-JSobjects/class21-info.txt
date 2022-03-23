@@ -1,0 +1,70 @@
+Leon — Today 22/03/2022 at 21:30
+
+Tonight I'm sharing the BEST NEWS EVER, we are getting in some light review, and then jumping into OBJECTS! 
+
+Class-21 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1506382754010726403
+
+Here are the slides if you would like to follow along live: https://slides.com/d/wlUe8tE/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-javascript-objects
+
+Our SUPER REVIEW can be found here: https://youtu.be/AkXLGS57MS4
+
+Also, as part of a live extra class, I want to review your portfolios and resumes so that others can see examples and common critiques. If you would be open to having your portfolio and/or resume reviewed live, please fill out this form: https://forms.gle/VkbSwgnyRo6VkTFL8
+
+Submit Your Homework:
+None Tonight
+
+Homework (Due Tuesday - Mar. 24th):
+Read: https://javascript.info/array-methods
+Do: https://javascript30.com/ Day 04 Array Cardio (PLEASE DO IT AGAIN)
+Read: https://javascript.info/object
+Do: All the tasks 👆🏾
+Do: Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!
+
+⭐ Next Class Thursday - 6:30pm ET ⭐ 
+
+⭐ Office Hours Sunday - 1pm ET ⭐ 
+
+Also, the files you’ll need for class / homework are attached! Don't forget to unzip the folder! (edited)
+Attachment file type: archive
+class21-materials.zip
+2.49 MB
+
+========================================================================================================
+
+Leon — Today 23/03/2022 at 01:51
+
+Thanks for making this community such an amazing place! 100+ Jobs down with MANY MANY MORE to come! We'll get more practice / learning in with Objects on Thursday, but please get through the objects reading below before class and don't forget your codewars! 
+
+Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1506382754010726403
+
+
+Our SUPER REVIEW can be found here: https://youtu.be/AkXLGS57MS4
+
+Here are our slides from tonight: https://slides.com/leonnoel/100devs2-javascript-objects
+
+Check out this amazing guide on how to sign up for codewars by our very own @blawblawLaw: https://blog.barbaralaw.me/i-want-to-do-codewars-uh-how-do-i-do-that
+
+And here's a 4min video of them walking through filtering for an 8kyu fundamentals kata and completing it: https://www.loom.com/share/015bac0dbeb343409bcd27550fa2963a
+
+Want to be fancy? Submit your class 21 clips here: slido.com with #726907
+
+Homework (Due Thursday - Mar. 24th):
+Read: https://javascript.info/array-methods
+Do: https://javascript30.com/ Day 04 Array Cardio (PLEASE DO IT AGAIN)
+Read: https://javascript.info/object
+Do: All the tasks 👆🏾
+Do: Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!
+
+⭐ Next Class - Thursday 6:30pm ET ⭐ 
+
+⭐  Office Hours (feat. Array Review) - Sunday 1:00pm ET ⭐ 
+
+All of our solutions form today attached!
+Attachment file type: archive
+class21-solutions.zip
+2.49 MB
+
