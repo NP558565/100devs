@@ -1,0 +1,2 @@
+class 23 - slides
+ https://slides.com/leonnoel/100devs2-javascript-objects-fun-time
