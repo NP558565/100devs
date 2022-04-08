@@ -1,0 +1,1 @@
+Make the NASA API handle all the data types including video

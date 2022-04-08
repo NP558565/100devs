@@ -1,0 +1,92 @@
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+.alignright {
+  float: right;
+  padding: 0 0 10px 10px; /* note the padding around a right floated image */
+}
+
+.alignleft {
+  float: left;
+  padding: 0 10px 10px 0; /* note the padding around a left floated image */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+  color: #000;
+  font-size: 12px;
+  line-height: 1.4;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* Center the container */
+#container {
+  width: 960px;
+  margin: auto;
+}
+
+header {
+}
+
+footer {
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+body {
+  background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
+  background-size: cover;
+  background-repeat: round;
+}
+
+.nasa_img {
+  border: 10px solid rgb(10, 0, 0) !important;
+  height: 550px;
+  width: 550px;
+}
+
+.custom_font {
+  color: white;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: bolder;
+}
+
+.nasa_info {
+  background-color: rgba(0, 0, 0, 0.979);
+  border-radius: 10px;
+}
+
+.text-bg {
+  opacity: 72%;
+}

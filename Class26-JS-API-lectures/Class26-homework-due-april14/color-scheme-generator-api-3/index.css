@@ -1,0 +1,243 @@
+/*------------------------------------*\
+  #CSS-VARIABLES
+\*------------------------------------*/
+
+:root {
+    --body-padding: 0;
+}
+
+
+
+/*------------------------------------*\
+  #BASE
+\*------------------------------------*/
+
+* {
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: inherit;
+    color: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    padding: var(--body-padding);
+    background: #1C1C1C;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button, select, input {
+    appearance: none;
+    -webkit-appearance: none;
+    border-radius: 0;
+    border: none;
+    cursor: pointer;
+    font-size: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+button {
+    font-size: 0.75rem;
+}
+
+
+
+/*------------------------------------*\
+  #TOP-BAR
+\*------------------------------------*/
+
+.top-bar {
+    padding: 25px 15px;
+    box-shadow: 0px 4px 11px rgba(0,0,0,0.15);
+    background: #FFFFFF;
+}
+
+form {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+form > * {
+    min-height: 42px;
+}
+
+input[type=color] {
+    flex-shrink: 0;
+    width: 61px;
+}
+
+::-webkit-color-swatch-wrapper {
+    background: #D1D5DB;
+    padding: 4px 5px;
+}
+
+::-webkit-color-swatch {
+    border: 0.5px solid #313131;
+}
+
+
+.select-wrapper {
+    flex-grow: 5;
+    position: relative;
+}
+
+.select-arrow {
+    position: absolute;
+    right: 13px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.top-bar select,
+.top-bar button {
+    border: 1px solid #D1D5DB;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.05);
+}
+
+.top-bar select:hover, .top-bar button:hover,
+.top-bar select:focus, .top-bar button:focus {
+    box-shadow: 0px 2px 12px rgba(0,0,0,0.05);
+}
+
+.top-bar select {
+    border-radius: 6px;
+    padding: 9px 13px;
+    width: 100%;
+    height: 100%;
+}
+
+
+.top-bar button {
+    border-radius: 4px;
+    padding: 13px 11px;
+    flex-grow: 1;
+    font-weight: 500;
+}
+
+.top-bar button:active {
+    box-shadow: inset 0px 2px 4px rgba(0,0,0,0.05);
+}
+
+
+
+/*------------------------------------*\
+  #COLOR-STRIPS
+\*------------------------------------*/
+
+.color-strips {
+    height: 100%;
+}
+
+.color-strips ul {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+
+.color-strip {
+    flex-grow: 1;
+    min-width: 100px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.color-name:focus,
+.color-strip:hover {
+    z-index: 1;
+}
+
+.color-name:focus
+.color-strip:hover > .color-name {
+    background: #F8F8F8;
+}
+
+.color-strip:hover {
+    box-shadow: 0 0 0 0.1rem;
+}
+
+.color-strip:focus-within {
+    z-index: 1;
+    box-shadow: 0 0 0 0.1rem;
+}
+
+.color-strip:focus-within .color-name:focus {
+    outline: none;
+}
+
+.color-block {
+    height: 100%;
+}
+
+.color-name {
+    text-align: center;
+    background: #FFFFFF;
+    /*box-shadow: 0px 4px 11px rgba(0,0,0,0.15);*/
+    padding: 1em 1.5em;
+}
+
+.color-name::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.color-name.color-name:active {
+    background: #F0F0F0;
+}
+
+
+
+/*------------------------------------*\
+  #POP-UP
+\*------------------------------------*/
+
+.pop-up {
+    font-size: 0.75rem;
+    text-align: center;
+    position: absolute;
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    padding: 1em 1.5em;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 11px rgba(0,0,0,0.15);
+    pointer-events: none;
+    opacity: 0;
+    border-radius: 4px;
+    transition: opacity 1s linear;
+}
+
+
+
+@media (min-width: 600px) {
+    :root {
+        --body-padding: 5vmax;
+    }
+
+    main {
+        height: calc(100vh - (var(--body-padding) + var(--body-padding)));
+        max-height: 700px;
+    }
+}

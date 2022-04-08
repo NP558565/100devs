@@ -1,0 +1,1 @@
+Make the cocktailDB api work with spaces between the names
