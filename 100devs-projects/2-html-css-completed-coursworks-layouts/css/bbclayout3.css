@@ -1,0 +1,97 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+     background-color: black;
+     color: white;
+     border: 2px solid red;
+     height: 50px;
+}
+nav > img, nav > a, nav > ul, nav > form {
+     float: left;
+     margin-right: 150px;
+     /*background: black;*/
+     color: white;
+}
+nav > ul > li {
+     float: left;
+     margin-right: 55px;
+     display: inline;
+}
+nav > ul > li > a {
+     color: white;
+}
+
+.subHeadline > section {
+     float:left;
+     width: 50%;
+     height: 75px;
+     /*border: 2px solid black;*/
+}
+
+.subHeadline > section > span {
+     display: block;
+     /*border: 2px solid black;*/
+     text-align: right;
+}
+
+.headline, .top {
+     float:left;
+     width: 50%;
+     /*border: 2px solid black;*/
+     height: 400px;
+}
+
+.headline {
+     background-image: url("../images/bbclayout3/headlinePic.png");
+     color: white;
+}
+
+
+.top > section {
+     float:left;
+     width: 50%;
+     height: 200px;
+     /*border: 1px solid black;*/
+}
+
+.bottom > section {
+     float:left;
+     width: 33.3333%;
+     /*border: 1px solid black;*/
+}
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

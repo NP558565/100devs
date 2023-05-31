@@ -1,0 +1,143 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+
+}
+
+header, main, .bottomSection {
+     background: #f5f9fc;
+}
+
+
+/******************************************
+/* Header
+/*******************************************/
+header {
+     height: 100px;
+     width: 100%;
+}
+header > *, ul > * {
+     float: left;
+}
+nav > ul > li {
+     margin: 0 20px;
+}
+nav > ul {
+     margin: 0;^2
+}
+header > img {
+     margin-right: 33%;
+}
+header > span {
+     margin-left: 35%;
+     background: black;
+     color: white;
+}
+.threeLines {
+     display: none;
+}
+
+
+/******************************************
+/* Main
+/*******************************************/
+main {
+     height: 400px;
+}
+
+main > * {
+     float: left;
+     width: 50%;
+}
+main > section > .placeholder {
+     float:left;
+     background: #e1e9f0;
+     color: black;
+     width: 50%;
+     margin: 0;
+     padding: 0;
+}
+main > section > .button {
+     float:left;
+     background: black;
+     color: white;
+}
+p {
+     margin-top: 70px;
+     clear:both;
+}
+
+
+
+/******************************************
+/* Bottom Section
+/*******************************************/
+.bottomSection {
+     height: 250px;
+}
+.bottomSection > * {
+     float:left;
+     width: 25%;
+}
+
+/******************************************
+/* Footer Section
+/*******************************************/
+footer > div {
+     height: 100px;
+     width: 80%;
+     background: #e1e9f0;
+     margin-left: 10%
+}
+
+li {
+     list-style: none;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+@media screen and (max-width: 600px) {
+     header > nav > ul > *, header > span, .bottomSection, footer {
+          display: none;
+     }
+     header > img + img {
+          margin-left: 3%;
+     }
+     main > *, main > section > .placeholder {
+          width: 100%;
+     }
+     main > section > .button {
+          float:left;
+          background: black;
+          color: white;
+          width: 100%;
+          text-align: center;
+     }
+     .threeLines {
+          display: block;
+     }
+
+}

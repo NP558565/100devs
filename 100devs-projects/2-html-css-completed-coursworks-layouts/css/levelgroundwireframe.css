@@ -1,0 +1,166 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+
+}
+
+
+/******************************************
+/* Header
+/*******************************************/
+header {
+     height: 60px;
+     background-color: rgba(102, 118, 138, 0.59);
+}
+
+header * {
+     float: left;
+     color: white;
+}
+header > a {
+     margin: 0 10px;
+}
+header > img {
+     margin-left: 40%;
+}
+header > .lastA {
+     margin-left: 46%;
+}
+
+
+/******************************************
+/* Main
+/*******************************************/
+main {
+     height: 500px;
+     background-color: rgba(102, 118, 138, 0.59);
+     clear: both;
+     border: 1px solid rgba(102, 118, 138, 0.59);
+}
+main * {
+     color: white;
+     text-align: center;
+     display: block;
+}
+
+
+/******************************************
+/* Section 1
+/*******************************************/
+.section1 {
+     height: 300px;
+     background-color: white;
+}
+.section1 * {
+     color: black;
+     text-align: center;
+}
+
+
+/******************************************
+/* Section 2
+/*******************************************/
+.section2 {
+     height: 600px;
+     background-color: rgba(219, 223, 226, 0.59);
+}
+.section2 > section {
+     width: 50%;
+}
+.section2 > * {
+     float: left;
+     color: black;
+}
+.section2 > section * {
+     text-align: center;
+     display: block;
+}
+.section2 > section > div {
+     background-color: #66768a;
+     margin: 20px 15%;
+     width: 70%;
+     padding: 10%;
+     height: 100px;
+}
+
+
+/******************************************
+/* Section 3
+/*******************************************/
+.section3 {
+     width: 100%;
+     clear:both;
+     height: 300px;
+     background-color: white;
+}
+.section3 * {
+     color: black;
+     display: block;
+     text-align: center;
+}
+
+/******************************************
+/* Footer
+/*******************************************/
+.footerUp > section, .footerBottom > section {
+     width: 50%;
+     text-align: right;
+}
+.footerUp > * {
+     float: left;
+     height: 200px;
+     background-color: black;
+}
+.footerUp > section > * {
+     display: block;
+     color: white;
+     text-align: left;
+}
+.footerUp > section + section > * {
+     text-align: right;
+}
+
+.footerBottom > section {
+     border-top: 1px solid white;
+}
+.footerBottom > * {
+     float: left;
+     height: 100px;
+     background-color: black;
+     /*border-top: 2px solid white;*/
+}
+.footerBottom > section > * {
+     display: block;
+     color: white;
+     text-align: left;
+}
+.footerBottom > section + section > * {
+     float: right;
+     text-align: right;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

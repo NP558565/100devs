@@ -1,0 +1,378 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+     color: white;
+}
+
+li {
+     list-style: none;
+}
+
+a {
+     color: white;
+     text-decoration: none;
+}
+
+.start {
+     color: black;
+     text-align: center;
+}
+
+/******************************************
+/* Header
+/*******************************************/
+nav {
+     background: #1a2130;
+     height: 50px;
+     padding: 0;
+     margin: 0;
+     border: 2px solid black;
+}
+
+nav > img {
+     float: left;
+}
+
+nav > ul > * {
+     float: right;
+}
+
+nav > ul > li > a {
+     margin-left: 20px;
+}
+
+/*nav > ul > li:first-child {*/
+/*     margin-left: 750px;*/
+/*}*/
+
+nav > ul > li:first-child > a {
+     background: #3b414f;
+     padding: 5px;
+}
+
+
+/******************************************
+/* Main
+/*******************************************/
+main {
+     background: #1a2130;
+     height: 350px;
+}
+
+main > * {
+     float: left;
+     width: 50%;
+}
+
+.div1 {
+     background: #dee0e9;
+     height: 250px;
+     margin: 20px;
+     border: 30px solid white;
+     border-radius: 10px;
+}
+
+main img {
+     display: block;
+     margin: 0 auto;
+     margin-top: 3%;
+}
+
+main > section > .firstAnchor {
+     background: white;
+     color: black;
+     margin: 5px;
+     padding: 5px;
+}
+
+
+/******************************************
+/* Section1
+/*******************************************/
+.section1 {
+     background: #f8f8fa;
+     height: 600px;
+}
+
+.section1 > .sec1Head > a > * {
+     display: block;
+     float: right;
+     margin-right: 1%;
+}
+
+.section1 > .sec1Main {
+     float: left;
+     width: 50%;
+}
+
+.section1 > .sec1Main > section {
+     float: left;
+     width: 50%;
+}
+
+.section1 > * {
+     color: black;
+}
+
+.section1 > .sec1Main > a {
+     background: black;
+     color: white;
+     margin: 5px;
+     padding: 5px;
+}
+
+.sec1Main > section > img {
+     display: block;
+     margin: 0 auto;
+}
+
+.sec1Main > section > h4, .sec1Main > section > span {
+     display: block;
+     text-align: center;
+     background: white;
+     padding: 0;
+     margin: 0 0 0 30%;
+     width: 188px;
+}
+
+
+/******************************************
+/* Section2
+/*******************************************/
+.section2 {
+     background: #f8f8fa;
+     height: 400px;
+}
+
+.section2 > * {
+     float: left;
+     width: 50%;
+}
+
+.section2 > * {
+     color: black;
+}
+
+.section2 > section > a {
+     background: black;
+     color: white;
+     margin: 5px;
+     padding: 5px;
+}
+
+.section2 > section > div {
+     background: #dee0e9;
+     height: 200px;
+     margin: 50px 0 0 150px;
+     width: 60%;
+}
+
+.section2 > section > h4 {
+     margin: 50px 0 0 0;
+}
+
+.section2 img {
+     display: block;
+     margin: 0 auto;
+     padding: 4%;
+}
+
+
+/******************************************
+/* Section3
+/*******************************************/
+.section3 {
+     background: #f8f8fa;
+     height: 700px;
+     border: 1px solid #f8f8fa;
+}
+
+.section3 > section + section > * {
+     float: left;
+     width: 50%;
+}
+
+.section3 div {
+     background: #dee0e9;
+     height: 200px;
+     margin: 0 0 0 150px;
+     width: 60%;
+}
+
+.section3 img {
+     display: block;
+     margin: 0 auto;
+     padding: 4%;
+}
+
+.section3 > section > * {
+     color: black;
+}
+
+.section3 > section:first-child > * {
+     display: block;
+     text-align: center;
+}
+
+.innerBoxCol1 {
+     float: left;
+     width: 20%;
+}
+
+.innerBoxCol2 {
+     float: left;
+     width: 80%;
+}
+
+.innerBox > *, .section3 > section > section > img  {
+     float: left;
+}
+
+.section3 > a {
+     clear: both;
+     background: black;
+     color: white;
+     width: 10%;
+     margin-left: 45%;
+     padding: 5px;
+     display: block;
+     text-align: center;
+}
+
+.section3 > span, .section3 > h4 {
+     display:block;
+     color:black;
+}
+
+
+/******************************************
+/* Section4
+/*******************************************/
+.section4 {
+     background: black;
+     height: 1000px;
+}
+
+.section4 > section {
+     display: inline;
+     float: left;
+     background: white;
+     border-radius: 20px;
+     width: 30%;
+     margin: 25px 50px;
+}
+
+.section4 h4, .section4 p {
+     color: black;
+     padding: 0 10px;
+}
+
+.section4 img {
+     padding: 20px 10px;
+}
+
+
+/******************************************
+/* Section5
+/*******************************************/
+.section5 {
+     background: white;
+     height: 400px;
+     color: black;
+     text-align: center;
+}
+
+.section5 > section {
+     float: left;
+     width: 80%;
+}
+
+.section5 > .image {
+     width: 10%;
+     margin-top: 4%;
+}
+
+
+/******************************************
+/* Section6
+/*******************************************/
+.section6 {
+     background-color: black;
+     color: white;
+     height: 200px;
+     padding: 2%;
+}
+.section6 > section {
+     float:left;
+     width: 60%;
+     padding-left: 20%;
+}
+.section6 > a {
+     float: left;
+     /*display: block;*/
+     width: 10%;
+     margin: 2% 1% 2% 1%;
+     padding: 10px;
+     text-align: center;
+}
+.section6 > a:first-of-type {
+     margin-left: 75px;
+     background-color: #323642;
+     color: #d2d4da;
+}
+.section6 > a:last-of-type {
+     background-color: #edeff4;
+     color: #181c27;
+}
+.section6 h4 {
+     color: #696f7c;
+}
+
+
+/******************************************
+/* Footer
+/*******************************************/
+footer {
+     background: white;
+     color: #abb3bd;
+}
+footer > section {
+     float:left;
+     width: 16%;
+     padding: 2%;
+}
+footer span {
+     display: block;
+}
+footer h4 {
+     color: black;
+}
+.noTitle > span:first-of-type {
+     margin-top: 50px;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

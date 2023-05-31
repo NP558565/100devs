@@ -1,0 +1,507 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+html {
+     font-size: 62.5%;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+body {
+     color: black;
+     background-color: white;
+}
+h1 {
+     font-size: 5rem;
+}
+h2 {
+     font-size: 3rem;
+}
+p,a  {
+     font-size: 2rem;
+}
+span {
+     font-size: 2rem;
+}
+input, button {
+     height: 3rem;
+}
+i {
+     font-size: 2rem;
+}
+
+/******************************************
+/* Header
+/*******************************************/
+header {
+     background-color: white;
+     color: black;
+}
+header > img, header ul {
+     display: block;
+     float: left;
+}
+header > img {
+     margin: 0;
+     width: 5%;
+}
+header > ul {
+     width: 80%;
+     text-align: center;
+     margin: 0;
+     padding: 10px 0;
+}
+header > span {
+     width: 15%;
+     text-align: right;
+}
+header span {
+     display: block;
+     float: right;
+     text-transform: uppercase;
+     color: black;
+     padding: 10px 10px;
+}
+header ul li {
+     list-style: none;
+     display: inline-block;
+     padding: 0 10px;
+}
+header ul li a {
+     text-decoration: none;
+     text-transform: uppercase;
+     color: black;
+}
+
+
+/******************************************
+/* Main
+/*******************************************/
+main {
+     background-color: #ab9c9b;
+     height: 800px;
+     background-image: url("../images/hairdresser/backgroundUpper.png");
+     background-size: contain;
+     background-repeat: no-repeat;
+     background-position: right;
+     border: 0.1px solid white;
+}
+main > h1, main > p {
+     color: white;
+     margin-left: 25%;
+     padding-top: 30px;
+}
+main a, main h1, main p, main span {
+     text-transform: uppercase;
+}
+main .topBox a {
+     background-color: black;
+     padding: 15px;
+     color: white;
+     text-decoration: none;
+     font-size: 1rem;
+     margin-left: 25%;
+     margin-top: 300px;
+}
+main .bottomBox {
+     background-color: black;
+     width: 25%;
+     margin-top: 75px;
+     margin-left: 25%;
+     border: 0.1px solid black;
+     /*height: 25%;*/
+}
+main .bottomBox > span {
+     padding-top: 10px;
+     display: inline-block;
+}
+main .bottomBox > * {
+     color: white;
+     margin: 30px;
+}
+main .bottomBox a {
+     background-color: white;
+     padding: 15px;
+     color: black;
+     text-decoration: none;
+     font-size: 1rem;
+     display: inline-block;
+}
+main .bottomBox p span {
+     font-size: 4rem;
+}
+
+
+/******************************************
+/* Section 1
+/*******************************************/
+.section1 {
+     height: 500px;
+}
+.section1 section {
+     float: left;
+     width: 33%;
+}
+.section1 > section > * {
+     text-align: center;
+}
+.section1 h2, .section1 p {
+     padding: 0 15%;
+}
+.section1 img {
+     padding: 0 45%;
+     margin-top: 50px;
+}
+.section1 h2 {
+     text-transform: uppercase;
+}
+
+
+/******************************************
+/* Section 2
+/*******************************************/
+.section2 {
+     height: 350px;
+     background-color: #f3f4f6;
+}
+.section2 section {
+     float: left;
+     width: 45%;
+}
+.section2 section:last-of-type {
+     padding: 40px;
+}
+.section2 > video {
+     width: 800px;
+}
+.section2 > section:first-of-type > * {
+     margin: 30px 5% 30px 45%;
+}
+.section2 a {
+     background-color: black;
+     padding: 1rem;
+     color: white;
+     text-decoration: none;
+     text-transform: uppercase;
+}
+.section2 h2 {
+     text-transform: uppercase;
+     margin-top: 70px;
+}
+
+
+/******************************************
+/* Section 3
+/*******************************************/
+.section3 {
+     /*height: 450px;*/
+     margin: 8% 20%;
+}
+.section3 section {
+     float: left;
+     width: 33%;
+}
+.section3 div {
+     position: relative;
+     bottom: 30px;
+}
+.section3 span {
+     display: block;
+     margin: 0 20%;
+     background-color: black;
+     padding: 1rem;
+     color: white;
+     text-align: center;
+}
+.section3 > section > div > span:first-child {
+     text-transform: uppercase;
+}
+
+/******************************************
+/* Section 4
+/*******************************************/
+.section4 {
+     /*height: 350px;*/
+     background-color: #f2f2f3;
+     margin: 32% 30%;
+}
+.section4 section {
+     float: left;
+     width: 50%;
+}
+.section4 > section > * {
+     text-transform: uppercase;
+     margin: 0 15%;
+}
+.section4 > section:first-child > * {
+     margin: 35px 0%;
+     margin-left: 3%;
+}
+.section4 > section:first-child {
+     padding-top: 8%;
+     padding-left: 12%;
+}
+.section4 a {
+     background-color: black;
+     padding: 1rem;
+     color: white;
+     text-decoration: none;
+     font-size: 1rem;
+}
+.section4 img {
+     height: 60%;
+     padding: 3% 0 50px 0;
+}
+.section4 h3 > span {
+     font-size: 4rem;
+     font-weight: bold;
+}
+.section4 h3 {
+     font-size: 1.5rem;
+}
+
+
+/******************************************
+/* Section 5
+/*******************************************/
+.section5 {
+     clear: both;
+     margin:25% 25%;
+}
+.section5 h2 {
+     text-align: center;
+     margin: 0;
+}
+.section5 h2:first-of-type {
+     margin-top: 75px;
+}
+.section5 section {
+     float: left;
+     width: 33%;
+}
+.section5 img {
+     padding: 5px;
+     width: 100%;
+}
+.firstUneven {
+     height: 250px;
+}
+.secondUneven {
+     height: 500px;
+}
+.firstEven {
+     height: 500px;
+}
+.secondEven {
+     height: 250px;
+}
+
+
+@media screen and (max-width: 1200px){
+     header span {
+          font-size: 1.5rem;
+     }
+     .section2 {
+          height: 430px;
+     }
+     main {
+          height: 700px;
+     }
+     main > h1, main > p {
+          padding-top: 10px;
+     }
+     main .bottomBox {
+          margin-top: 50px;
+     }
+     main .bottomBox > * {
+          margin: 10px;
+     }
+     .section1 {
+          height: 550px;
+     }
+     .section2 {
+          height: 340px;
+     }
+     .section2 > section:first-of-type > * {
+          margin: 30px 5% 30px 10%;
+     }
+     .section2 video {
+          max-width: 350px;
+     }
+     .section3 {
+          height: 75px;
+          margin: 8% 10%;
+     }
+     .section3 img {
+          max-width: 150px;
+     }
+     .section3 span {
+          font-size: 1.5rem;
+     }
+     .section4 {
+          height: 180px;
+          margin: 32% 15%;
+     }
+     .section5 {
+          margin:10% 10%;
+     }
+}
+
+@media screen and (max-width: 600px) {
+     header > img {
+          width: 20%;
+     }
+     header > ul {
+          width: 65%;
+          padding: 5px 0;
+     }
+     header > span {
+          width: 15%;
+          font-size: 1rem;
+     }
+     header ul li a {
+          font-size: 1rem;
+     }
+     main > h1, main > p, main .topBox a, main .bottomBox {
+          margin-left: 5%;
+     }
+     main .bottomBox {
+          width: 50%;
+          margin-top: 140px;
+     }
+     main .bottomBox > * {
+          margin: 10px;
+     }
+     main .bottomBox p span {
+          font-size: 3rem;
+     }
+     main .bottomBox p {
+          font-size: 1.5rem;
+     }
+     .section1 h2 {
+          font-size: 1.5rem;
+     }
+     .section1 p {
+          display: none;
+     }
+     .section1 section {
+          width: 100%;
+     }
+     .section1 > section > img {
+          float: left;
+          height: 50px;
+          padding: 1%;
+          margin-top: 2%;
+          margin-left: 5%;
+     }
+     .section1 > section > h2 {
+          /*margin: 10%;*/
+          float: left;
+          width: 75%;
+          padding: 10px;
+     }
+     .section1 {
+          height: 190px;
+          margin: 20px 10px;
+     }
+     .section2 {
+          height: 510px;
+          padding: 5px;
+     }
+     .section2 section {
+          float: none;
+          width: 100%;
+     }
+     .section2 section:last-of-type {
+          padding: 0;
+     }
+     .section2 > section:first-of-type > * {
+          margin: 30px 5% 30px 10%;
+     }
+     .section2 video {
+          max-width: 320px;
+          margin: 40px 10%;
+     }
+     .section2 a {
+          background-color: black;
+          padding: 1rem;
+          font-size: 1.5rem;
+     }
+     .section2 h2 {
+          font-size: 2.5rem;
+     }
+     .section3 {
+          height: 150px;
+          margin: 8% 10%;
+     }
+     .section3 img {
+          max-width: 100px;
+     }
+     .section3 span {
+          font-size: 1rem;
+     }
+     .section3 span {
+          margin: 0 10%;
+          padding: 0.5rem;
+     }
+     .section4 {
+          height: 350px;
+          margin: 10% 10%;
+     }
+     .section4 > section:first-child {
+          padding-top: 4%;
+          padding-left: 6%;
+     }
+     .section4 img {
+          max-width: 150px;
+     }
+     .section5 {
+          margin:5% 5%;
+     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+
+}
+
+footer {
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
