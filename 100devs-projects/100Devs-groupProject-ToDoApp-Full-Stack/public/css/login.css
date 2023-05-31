@@ -1,0 +1,80 @@
+.container {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	/* columns: 8; */
+	align-items: center;
+}
+.login-container {
+	/* display: grid; */
+	/* columns: 8; */
+    width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding: 3rem;
+	border: 2px solid lightgray;
+	border-radius: 0.5rem;
+	box-shadow: 5px 8px 5px -1px #00000036;
+
+}
+h1 {
+	text-align: center;
+	/* margin-top: 3rem;
+	margin-bottom: 3rem; */
+}
+p{
+    text-align: center;
+}
+.form-container{
+    width: 60%;
+    margin-left: auto;
+	margin-right: auto;
+}
+.signup-form{
+    text-align: center;
+}
+.input-container{
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+input{
+    width: 80%;
+    padding: .5rem;
+    border: 1px solid grey;
+    border-radius: .5rem;
+}
+.button-container {
+	text-align: center;
+}
+.dhave_ac{
+	color: rgb(136, 216, 238);
+}
+a{
+	text-decoration: none;
+}
+.btn {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	padding: 0.5rem 1rem;
+	border-radius: 0.5rem;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.btn-primary {
+	background: dodgerblue;
+	color: white;
+	border: 2px solid dodgerblue;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .2 );
+}
+.btn-primary:hover {
+	background: deepskyblue;
+	border: 2px solid deepskyblue;
+	box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .2 );
+}
+.btn-primary:active {
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, .2 );
+}
+

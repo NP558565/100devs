@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do - Task lists</title>
+    <link rel="stylesheet" href="../css/taskList.css">
+</head>
+<body>
+    <%- include('partials/navbar'); %> 
+    <!-- navbar ejs to keep code dry (logout button) -->
+
+    <main>
+        <%- include('partials/img'); %> 
+
+        <section>
+    <h1><%= user.userName %> Lists.</h1>
+    
+    <div class="form_container">
+        <form class="form" action="list" method="POST">
+            <input type="text" name="listName" id="listName" placeholder="Create your list">
+        </form>
+      </div>
+
+        <section class="tasklist">
+            <div class="listName_container">
+        <ul>
+                <% if (listName.length == 0) { %>
+
+                      <li colspan='2' class="no-list"><h2>No task list</h2></i>
+
+                    <% } else {%>
+                <% listName.forEach(el => { %>
+                    <li data-name='<%= el %>' class="listN"> <%= el %> </li>
+                <% }) %>
+          <% } %>
+        </ul>
+            </div>
+    </section>
+</main>
+
+
+    <script src="../js/tasklist.js"></script>
+
+
+</body>
+</html>

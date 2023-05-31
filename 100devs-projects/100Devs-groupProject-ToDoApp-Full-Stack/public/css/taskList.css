@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+}
+main {
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding:  0 20px;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+}
+
+.btn {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: white;
+	background: dodgerblue;
+	border: 2px solid dodgerblue;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .2 );
+}
+.btn-primary:hover {
+	background: deepskyblue;
+	border: 2px solid deepskyblue;
+	box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .2 );
+}
+.btn-primary:active {
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, .2 );
+}
+
+
+#listName {
+  border: 2px solid lightgray;
+border-radius: 8px;
+padding: 10px;
+outline: none;
+}
+
+#listName::placeholder{
+  color: black;
+}
+h1 {
+  margin: 0;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  width: 50%;
+  border: 2px solid lightgrey;
+  padding: 1rem;
+  border-radius: .5rem;
+  box-shadow: 5px 8px 5px -1px #00000036;
+}
+
+.listN {
+  cursor: pointer;
+  font-weight: bold;
+  color: rgb(0, 166, 255);
+}
+
+.tasklist {
+  width: 50%;
+  border: 2px solid lightgray;
+  border-radius: 8px;
+  text-align: center;
+  padding: 5px 0;
+  max-height: 300px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.form_container {
+  width: 50%;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+h2 {
+  margin: 0
+}
+
+img {
+  width: 100px;
+}
+
+.listName_container{
+
+  width: 100%;
+}

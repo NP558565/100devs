@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= listName%> To Do's</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/todo.css">
+</head>
+
+<body>
+ <%- include('partials/filtered_navbar'); %> 
+    <!-- navbar ejs to keep code dry (logout button) -->
+    <div class="container">
+    <%- include('partials/img'); %> 
+
+        <div class="todo-container">
+            <div class="todo-header">
+                <h1 class="">
+                    To Do`s
+                </h1>
+                <h3 class="">
+                   <%= user.userName %> has <%= left %> things left to do.
+                </h3>
+            </div>
+            <div class="">
+                <form action="createfromFilteredTodoList" method="POST" class="signup-form">
+                        <h2> <%= listName %> list </h2>
+                        <div class="input-container">
+                            <input type="text" class="form-control"
+                                name="todoItem" placeholder="Enter Todo Item">
+                        </div>
+                        <div class="">
+                            <button type="submit" class="btn btn-primary" name="listName" value="<%= listName %>">
+                               + To Do
+                            </button>
+                        </div>
+                    </form>
+            </div>
+            <div class="todoItem-container">
+                <ul class="">
+                    <% todos.forEach( el => { %>
+                        <li class='todoItem' data-id='<%=el._id%>'>
+                            <span class='<%= el.completed === true ? 'completed' : 'not' %>'>
+                                <%= el.todo %>
+                            </span>
+                                <button
+                                    class='del btn btn-danger'>
+                                    Delete
+                                </button>
+                        </li>
+                        <% }) %>
+                </ul>
+            </div>
+            <div class="">
+        </div>
+    </div>
+
+    <script src="../js/main.js"></script>
+    
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+/* h1{
+    color: red;
+} */
+.completed{
+    color: green;
+}
+.not{
+    color: lightcoral;
+}
+
+.container {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+img{
+    width: 100px;
+}
+
+
+.white {
+	color: white;
+ }
+
+ .blue{
+	color: dodgerblue;
+ }
