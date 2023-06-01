@@ -1,0 +1,405 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 0.8rem 8.2rem 0 8.2rem;
+}
+
+.background-img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: scaleX(-1);
+  z-index: -1;
+  overflow: hidden;
+}
+
+.background-img img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2.4rem;
+  list-style-type: none;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  align-items: flex-start;
+  width: 80%;
+  margin-top: 8.2rem;
+  padding-bottom: 11rem;
+}
+
+.hero-title {
+  font-size: 4.2rem;
+  font-weight: 600;
+  width: 50%;
+}
+
+.form-control {
+  display: flex;
+  align-items: flex-start;
+}
+
+.form-control .location-input {
+  width: 24rem;
+  font-weight: 600;
+  padding: 0.9rem;
+  border: none;
+  outline: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  position: relative;
+  box-shadow: 0 0rem 0.5rem 0.2rem rgba(0, 0, 0, 0.1);
+}
+.location-btn {
+  background-color: orangered;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 0.8rem 1.6rem;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  text-decoration: none;
+}
+
+.social-status {
+  display: flex;
+  gap: 3.2rem;
+  margin-top: 1.2rem;
+}
+
+.status-part {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.status-part i {
+  font-size: 1.2rem;
+  color: orangered;
+}
+
+.status-part span {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.about-us-images {
+  width: 100%;
+  display: flex;
+  position: absolute;
+  left: 0;
+  z-index: -1;
+  overflow: hidden;
+  height: 130vh;
+}
+
+.about-us-images img {
+  width: 100%;
+  position: absolute;
+  opacity: 0.9;
+  object-fit: cover;
+}
+
+.about-us-section {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 1.2rem;
+  margin: 0 auto;
+  padding-top: 6.2rem;
+  padding-bottom: 7.2rem;
+  border-radius: 10px;
+  margin-right: 10rem;
+}
+
+.section-name {
+  color: orangered;
+  font-size: 1.4rem;
+}
+
+.about-us-section .section-name {
+  margin-left: -0.4rem;
+}
+
+.section-title {
+  font-size: 4.1rem;
+  font-weight: 600;
+}
+
+.about-desc {
+  line-height: 1.6;
+  white-space: pre-line;
+}
+
+.about-us-section .location-btn {
+  align-self: flex-start;
+  margin-top: 1.2rem;
+  border-radius: 7px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8.2rem;
+}
+
+.menu .menu-types {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 3.8rem;
+  font-size: 1.2rem;
+  margin-top: 2.4rem;
+  box-shadow: 0 0rem 0.5rem 0.2rem rgba(0, 0, 0, 0.05);
+  padding: 1.2rem 3.2rem;
+}
+
+.menu-types .active {
+  color: orangered;
+}
+
+.menu-cards {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 3.2rem;
+  gap: 1.8rem;
+}
+
+.menu-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.menu-card-img {
+  width: 100%;
+  height: 30rem;
+}
+
+.menu-card-img img {
+  height: 25rem;
+  width: 25rem;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.menu-card:hover img {
+  filter: brightness(0.5);
+}
+
+.menu-card:first-child img {
+  filter: brightness(0.5);
+}
+
+.menu-card-details {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s ease-in-out;
+}
+
+.menu-card:hover .menu-card-details {
+  opacity: 1;
+  visibility: visible;
+}
+
+.menu-card:first-child .menu-card-details {
+  opacity: 1;
+  visibility: visible;
+}
+
+.meal-price {
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.meal-rating {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  color: orange;
+}
+
+.meal-name {
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.menu-card-details .location-btn {
+  border-radius: 7px;
+}
+
+.contact-us {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6.2rem;
+}
+
+.section-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.section-header i {
+  margin-top: 1.8rem;
+  color: orangered;
+  font-size: 1.8rem;
+  padding: 1.2rem;
+  border: orangered solid 1px;
+  border-radius: 50%;
+}
+
+.section-image {
+  margin-top: 4.2rem;
+  max-width: 100%;
+  justify-content: center;
+}
+
+.section-image img {
+  max-width: 100%;
+}
+
+.phone-num {
+  font-size: 2rem;
+  font-weight: 600;
+  color: orangered;
+}
+
+.opening-hours {
+  width: 50%;
+  margin-top: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.days p:last-child {
+  margin-top: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.testimonial {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6.2rem;
+  padding-bottom: 3.2rem;
+}
+
+.testimonial img {
+  width: 6.2rem;
+  border-radius: 50%;
+  margin-top: 2.8rem;
+}
+
+.testimonial-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 60%;
+}
+
+.testimonial i {
+  color: orange;
+  margin: 1.2rem 0;
+}
+
+.customer-name {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 1.2rem;
+}
+
+.customer-position {
+  font-size: 1rem;
+  color: #aaa;
+}
+
+.customer-comment {
+  font-style: italic;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 847px) {
+  html {
+    font-size: 62.5%;
+  }
+
+  .about-us-section {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  html {
+    font-size: 50%;
+  }
+
+  .about-us-section {
+    width: 100%;
+  }
+
+  .about-us-section .section-title {
+    font-size: 3.2rem;
+  }
+  .menu-cards {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .menu-card-img {
+    align-self: center;
+  }
+}
+
+@media screen and (max-width: 421px) {
+  html {
+    font-size: 30%;
+  }
+
+  .menu-cards {
+    flex-wrap: wrap;
+  }
+}
