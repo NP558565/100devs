@@ -1,0 +1,467 @@
+Css
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+*{
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+     margin:0;
+     padding:0;
+     border: 0;
+     font-size: 10px;
+}
+
+html{
+  font-size: 10px;
+}
+header > nav{
+  overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin:0;
+  padding:0;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignright {
+	float: right;
+	padding: 0 0 10px 10px; /* note the padding around a right floated image */
+}
+
+.alignleft {
+	float: left;
+	padding: 0 10px 10px 0; /* note the padding around a left floated image */
+}
+
+.floatL{
+  display: block;
+  float: left;
+}
+.floatR{
+  display:block;
+  float: right;
+}
+
+.displayBlock{
+  display: block;
+}
+
+.inBlock{
+  display: inline-block;
+}
+
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+     color: #000;
+     font-size: 10px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+font-size: 1.4rem;
+}
+
+nav{
+  border-bottom: 1px solid gray;
+  height:3.5vh;
+}
+
+footer {
+
+}
+.border{
+  border: 1px solid rgba(197,197,197,1);
+}
+
+
+
+nav section.floatR{
+  /* text-align: right; */
+}
+/******************************************
+/* WIDTH PERCENTAGES
+/*******************************************/
+.five{
+  width:5%;
+}
+.eight{
+  width:8%;
+}
+.eleven{
+  width: 11%;
+}
+.fourteen{
+  width: 14%;
+}
+.seventeen{
+  width:17%;
+}
+.twenty{
+  width:20%;
+}
+.quarter{
+  width:25%;
+}
+.thirty{
+  width:30%;
+}
+.third{
+  width:33.3333%;
+}
+.twoThirds{
+  width: 66.19%;
+}
+.thirtyFive{
+  width:35%;
+}
+.forty{
+  width:40%;
+}
+.fortyFour{
+  width:44%;
+}
+.fifty{
+  width:50%;
+}
+.sixty{
+  width:60%;
+}
+.seventy{
+  width:70%;
+}
+.seventyFive{
+  width: 75%;
+}
+.full{
+  width:100%;
+}
+.specialWidth{
+  width: 39.6%;
+}
+.specialHalf{
+  width:49.63%;
+}
+
+/******************************************
+/* ELEMENTS
+/*******************************************/
+ul, li{
+  list-style-type: none;
+}
+/* .floatR a{
+  text-align:center;
+  margin-left: auto;
+} */
+.rightNav{
+  text-align:center;
+  margin-right:7px;
+}
+.a{
+  margin: 0;
+}
+/******************************************
+/* BG & COLOR
+/*******************************************/
+.red{
+  color: red;
+}
+.blue{
+  color: rgba(106,135,162,.8);
+}
+
+/******************************************
+/* utility
+/*******************************************/
+.button{
+  background-color: rgba(106,135,162,.8);
+  border:2px solid rgba(115,143,171,1);
+  border-radius: 3px;
+  padding: ;
+
+}
+.img{
+  /* object-fit: none; */
+  /* height: 380px; */
+  width: 40%;
+  margin: auto;
+  padding-left:
+}
+.trumpIMG{
+  width:98%;
+}
+
+.tAlign{
+  text-align: center;
+}
+.borderBottom{
+  border-bottom: 4px solid black;
+}
+.grayBorderBottom{
+  border-bottom: 1px solid rgba(197,197,197,1);
+}
+h4.grayBorderBottom{
+  border-bottom: 3px solid rgba(197,197,197,1);
+  padding-top: 1rem;
+
+}
+.marginAuto{
+  margin:auto;
+}
+.margin-L-R{
+  margin-left:3px;
+  margin-right:3px ;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.font13{
+  font-size: 1.3rem;
+}
+.font15{
+  font-size: 1.5rem;
+}
+.font18{
+  font-size: 1.8rem;
+}
+.font26{
+  font-size: 2.6rem;
+}
+.font32{
+  font-size: 3.2rem;
+}
+.lightBold{
+  font-weight: lighter;
+}
+
+
+
+.leftCaption{
+  font-style: italic;
+  font-weight:  600;
+  padding-top: 2rem;
+  padding-left: .5rem;
+}
+
+.noMarginPadding{
+  padding:0;
+  margin: 0;
+}
+.list{
+  list-style: circle;
+}
+.unimportant{
+  color: rgba(197,197,197,1);
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+.zeroMarginPadding{
+  margin: 0;
+  padding: 0;
+}
+.marginLeft{
+  margin-left: 2rem;
+}
+.secondColumn-Margin{
+margin-left:1rem;
+}
+.headerMarginTop{
+  margin: 2.5rem 0 0 0;
+  padding: 0;
+}
+.opinionMarginTop{
+  padding: 2rem 0 0 0;
+  margin: 0;
+}
+.listPadding{
+  padding: 0 0 0 2rem;
+}
+.bold{
+  .font-weight:bold;
+}
+.paddingTop1{
+  padding-top:1rem;
+}
+.paddingTop{
+  padding-top:2rem;
+}
+.paddingTop2{
+  padding-top:4rem;
+}
+.paddingLeft{
+  padding-left:1rem;
+}
+.paddingLeft2{
+  padding-left:2rem;
+}
+.borderBox{
+  box-sizing: border-box;
+}
+.paddingRight{
+  padding:0 1rem 0 0;
+}
+.borderTop{
+  border-top: 1px solid rgba(197,197,197,1);
+}
+
+.borderRight{
+  border-Right: 1px solid rgba(197,197,197,1);
+}
+.borderLeft{
+  border-Left: 1px solid rgba(197,197,197,1);
+}
+.paddingBottom{
+  padding-bottom: 1.5rem
+}
+.paddingBottom1{
+  padding:0 0 2rem 0rem;
+}
+.paddingBottom2{
+  padding:0 0 4rem 0rem;
+}
+.marginBottom{
+  margin:0 0 1.2rem 0rem;
+}
+/******************************************
+/* MEDIA QUERIES
+/*******************************************/
+@media only screen and (max-width: 610px){
+  #image{
+    width: 100%;
+  }
+  #geo{
+    display: none;
+  }
+  #nyt{
+    border-bottom: 3px solid black;
+    margin-bottom: 1rem;
+    padding-bottom: .3rem;
+  }
+  section section  a.subscribe, .logIn{
+    display: none;
+  }
+  .language{
+    display: none;
+  }
+  .burger{
+    width: 25%;
+  }
+  .search{
+    display: none;
+  }
+  .settings{
+    width: 25%;
+  }
+  .sections{
+    display: none;
+  }
+  main#main{
+    width: 100%
+  }
+  #mainTrump{
+    width:100%;
+    box-sizing: border-box;
+    /* padding-right:1rem; */
+  }
+  #opinion{
+    display: none;
+  }
+  #mainLeft{
+    width: 100%;
+  }
+  #opinion{
+    display: none;
+  }
+}
+@media(max-width: 788px) and (min-width:611px){
+
+  #mainTrump{
+    width:100%;
+    box-sizing: border-box;
+    padding-right:1rem;
+  }
+  main#main{
+    width: 100%
+  }
+  #opinion{
+    display: none;
+  }
+  #mainLeft{
+    display: none;
+  }
+  .sections{
+    display:none;
+  }
+  section section  a.subscribe, .logIn{
+    display: none;
+  }
+}
+@media(max-width: 975px) and (min-width:789px){
+  #opinion{
+    display: none;
+  }
+  main#main{
+    width:100%;
+  }
+}
+
+@media(max-width: 1222px) {
+  #firstOpinion{
+    width: 100%;
+    border-right: none;
+  }
+  #secondOpinion{
+    width: 100%;
+  }
+  .subscribe{
+    width: 32%;
+  }
+  .specialWidth{
+    width:30%;
+  }
+
+  #main{
+    width: 69%;
+  }
+  #ad1,#ad2{
+    width:100%;
+  }
+  #ad2{
+    border-top: 1px solid rgba(197,197,197,1);
+    padding-top: .5rem;
+  }
+  #nav2{
+    display: none;
+  }
+  #geo{
+    margin-bottom: 1rem;
+  }
+}
