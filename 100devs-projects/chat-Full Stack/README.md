@@ -5,4 +5,5 @@ The Back End of integrating into ChatGPT with a messaging app.<br>
 Technologies used:-
 VScode, React, Redux Toolkit, Node, Express, OpenAI integration.
 
-<img width="506" alt="chatapp" src="https://github.com/NP558565/chat/assets/76566329/f61f521c-6e24-4fed-8223-6e1848614727">
+<img width="448" alt="chat-screenshot" src="https://github.com/NP558565/100devs/assets/76566329/f169654d-cb99-4f52-aa51-379edf0543e5">
+
