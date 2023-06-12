@@ -1,0 +1,71 @@
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+    -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+       -moz-box-sizing: border-box; /* Firexfox */
+            box-sizing: border-box; /* IE */
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignRight {
+	float: right;
+}
+
+.alignLeft {
+	float: left;
+}
+
+/***********************************
+personal code
+***********************************/
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-right: 100px;
+}
+
+
+/* .rotate{
+          transform: rotate(20deg);
+} */
+
+/***********************************
+media query
+***********************************/
+
+@media screen and (min-width: 1441px) { /*big screen*/
+
+}
+
+@media only screen and (max-width: 768px) { /*tablet*/
+
+}
+
+@media only screen and (max-width: 425px) { /*phone*/
+
+}
