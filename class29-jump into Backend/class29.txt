@@ -1,0 +1,37 @@
+Leon — Today 26/04/2022 at 22:32
+
+His email recived 26/04/2022:-
+Tonight we are learning about our jump into BACKEND WEB DEV and reviewing variables, functions, conditionals, loops, arrays, objects, & APIs plus getting in a lot of practice!
+Day 29
+
+Class-29 of #100Devs starts in 60 minutes, live on Twitch: https://leonnoel.com/twitch
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-javascript-review-back-from-break
+
+Our API class using the CocktailDB API can be found here: https://youtu.be/WcSTeotmJtw
+
+Homework Due Today:
+Do: Catch Up
+Do: Intro JS Course https://www.codecademy.com/learn/introduction-to-javascript (~30 Hours)
+Do: Professional Checklist https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+No actual submission
+
+HOMEWORK DUE (Tues. May 3rd):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md
+Do: 7 Codewars
+DO: FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Want To Push (Due: Tues. May 3rd)?
+Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html
+
+Next Class Thursday - 6:30pm ET
+
+OFFICE HOURS SUNDAY 1pm ET
+
+Also, the files you’ll need for class / homework are attached! Don't forget to unzip the folder!
+Attachment file type: archive
+class29-materials.zip
+1.48 MB
+
+
