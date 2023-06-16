@@ -1,0 +1,60 @@
+https://www.youtube.com/watch?v=EOjUT746oLs
+
+Timestamp:
+00:01:34	Question of the Day: What did you do over your break?
+00:17:32	#01 Agenda
+00:18:09	#02 Questions
+00:23:24	#03 This Week
+00:24:39	#04 Next Week
+00:25:06	#05 THEN BACKEND
+00:25:44	#06 Checking In
+00:26:06	#07 Catching up on Discord
+00:29:38	#08 Gonna Get Funky
+00:31:04	#09 No Networking Until May
+00:31:43	#10 Client Deadline
+00:31:54	#11 Client Alternatives
+00:31:56	#12 Grassroots Volunteer*
+00:32:10	#13 Free Software / Open Source
+00:32:53	#14 !youtube
+00:33:06	#15 !newsletter
+00:35:16	#16 Discord Update
+00:38:16	#17 Live Crafting Your Story
+00:40:50	#18 OFFICE HOURS
+00:41:44	#19 Enough for a job? Yes
+01:00:43	Break Started
+01:05:43	Break Ended
+01:08:58	#20 HUGE ANNOUNCEMENT NEXT WEEK
+01:10:23	#21 Programming
+01:11:26	#22 What is a program?
+01:12:03	#23 What is a programming?
+01:12:09	#24 JAVASCRIPT
+01:12:29	#25 Variables
+01:13:04	#26 Conditional Syntax
+01:13:34	#27 Multiple Conditions && AND
+01:14:38	#28 Multiple Conditions
+01:14:48	#29 Functions What are functions?
+01:15:15	#30 Functions sets of instructions
+01:15:29	#31 Functions
+01:15:55	#32 Functions
+01:16:24	#33 Loops What are loops?
+01:16:38	#34 Loops Repeat an action
+01:16:51	#35 Loops - For
+01:17:42	#36 Let's Code Boulder Badge
+01:18:55	Timer Started
+01:29:14	Timer Ended
+01:49:02	#37 Arrays
+01:49:41	#38 Toasters
+01:49:44	#39 Arrays ordered collection
+01:50:20	#40 Declaring Arrays Literal
+01:51:08	#41 Declaring Arrays
+01:51:32	#42 Array Indexing
+01:51:49	#43 Array Indexing Access
+01:52:16	#44 Array Indexing Update
+01:52:25	#45 Array Length
+01:52:49	#46 Array Iteration
+01:54:07	Break Started
+01:59:08	Break Ended
+02:00:41	#47 Let's Code Cascade Badge
+02:02:38	Timer Started
+02:12:38	Timer Ended
+02:58:41	#66 Homework
