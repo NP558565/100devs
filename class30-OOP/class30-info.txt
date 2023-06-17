@@ -1,0 +1,70 @@
+Leon — 28/04/2022
+
+OOP class Class-30 of #100Devs 
+
+regular deck: https://slides.com/leonnoel/100devs2-javascript-oop
+
+API class using DATA FROM NASA can be found here: https://youtu.be/b5rjEW-_6po
+
+
+And PLEASE watch this before class (12s): https://youtu.be/_cF377eW0nU
+
+
+Here are the links to our classrooms for working on the project: 
+https://live.remo.co/e/100devs-networking-night-group-0
+https://live.remo.co/e/100devs-networking-night-group-0-1
+https://live.remo.co/e/100devs-networking-night-group-0-2
+If Remo does not work for you, please jump into one of our Discord Voice Channels! 
+
+
+HOMEWORK DUE (Tues. May 3rd):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md
+Do: 7 Codewars
+DO: FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Want To Push (Due: Tues. May 3rd)?
+Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html
+
+
+CRAFTING YOUR STORY CLASS FRIDAY - 6:30pm ET
+
+OFFICE HOURS SUNDAY 1pm ET
+
+Also, the files you’ll need for class / homework are attached! Don't forget to unzip the folder!
+Attachment file type: archive
+class30-materials.zip
+806.82 KB
+++=================================================================================================================
+
+Leon — 29/04/2022
+OOP BABY! AND THE FUN DONT STOP! CANT STOP! WONT STOP! IT IS GOIN DOWN ON REMO AND THE VOICE CHANNELS! :angryzoom: 
+
+Here are the links to our classrooms for working on TICTACTOE: 
+https://live.remo.co/e/100devs-networking-night-group-0
+https://live.remo.co/e/100devs-networking-night-group-0-1
+https://live.remo.co/e/100devs-networking-night-group-0-2
+If Remo does not work for you, please jump into one of our Discord Voice Channels! 
+
+Our API class using DATA FROM NASA can be found here: https://youtu.be/b5rjEW-_6po
+
+Also, our good friends @mewtru  & @VapeJuiceJordan n launched their new creator platform blip! We watched them build this live during our raids! They are looking for creators to join! Feel free to apply today or share with folx you think could be a good fit! http://blip.so/creator/apply
+
+
+HOMEWORK DUE (Tues. May 3rd):
+Watch / Do: https://youtu.be/PFmuCDHHpwk
+Read / Do: JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md
+Do: 7 Codewars
+DO: FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Want To Push (Due: Tues. May 3rd)?
+Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html
+
+CRAFTING YOUR STORY CLASS TOMORROW FRIDAY - 6:30pm ET
+
+OFFICE HOURS SUNDAY 1pm ET
+
+Solutions below!
+Attachment file type: archive
+class30-solutions.zip
+807.03 KB
