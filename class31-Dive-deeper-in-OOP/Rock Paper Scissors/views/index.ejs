@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Your description goes here">
+    	<meta name="keywords" content="one, two, three">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Rock Paper Scissors</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<h1>Rock Paper Scissors</h1>
+		<form action="/rng" method="POST">
+			<input type="text" placeholder="name" name="choice">
+			<button type="submit">Submit</button>
+		</form>
+
+        <h2> Outcomes </h2>
+        <ul class="outcomes">
+            <% for(let i = 0; i < outcomes.length; i++) {%>
+                <li class="outcomes">
+                    <span>Player's Choice: <%= outcomes[i].playerChoice %></span><br>
+                    <span>Computer's Choice: <%= outcomes[i].pcChoice %></span><br>
+                    <span>Result: <%= outcomes[i].result %></span>
+                </li>
+            <% } %>
+        </ul>
+
+        <div>
+            <button id="delete-button">Reset Outcomes</button>
+        </div>
+
+		<script src="/main.js"></script>
+	</body>
+</html>
