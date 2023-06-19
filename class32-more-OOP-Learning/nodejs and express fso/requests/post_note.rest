@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+content-type: application/json
+
+{
+    "content": "Postman is a good tool for testing a REST-api",
+    "important": true
+}
