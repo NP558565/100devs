@@ -1,0 +1,16 @@
+Read MDN: Async/AwaitCLASS 33 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+
+•Watch The Async/Await Episode - https://www.youtube.com/watch?v=vn3tm0quoqE (he goes really fast so slow it down or watch it a couple of times) CLASS 33
+
+•Type out all examples! CLASS 33
+
+•Read Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 (the article also links to a video course which is free, if you prefer that) CLASS 33
+
+•Watch Node.js crash course (just get through it) CLASS 33 - https://www.youtube.com/watch?v=fBNz5xF-Kx4
+
+•Start prepping THE BANKCLASS 33
+
+Extras
+•Watch our Crafting your story class from last cohort CLASS 33 - https://www.youtube.com/watch?v=QoweoDsi5ZI
+
+•Read Javascript.info: Async/Await and do the tasksCLASS 33 - https://javascript.info/async
