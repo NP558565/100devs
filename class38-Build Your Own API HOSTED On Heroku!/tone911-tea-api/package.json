@@ -1,0 +1,15 @@
+{
+  "name": "tone911-tea-api",
+  "version": "1.0.0",
+  "description": "Tea Api during Office Hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RayAnthoney",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
