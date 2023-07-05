@@ -1,0 +1,135 @@
+Leon — 02/06/2022 22:32
+Hey @everyone 
+
+Tuesday was Finesse and tonight is Success! We are going to skip the review and dive right back into CRUD, creating an API, and getting it LIVE ON HEROKU! All the parts we rushed we are going to take our sweet sweet time with tonight! 
+
+
+✅ Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1532474747346247681
+
+
+:pikahello: Class-39 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Here are the slides if you would like to follow along live: https://slides.com/d/9qvt0q0/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-node-express-again
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+⭐️ HOMEWORK DUE (TODAY):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read / Play With: Our Code From Today
+Dream: About The API You Are Going To Build THURSDAY! 
+
+🗓️ HOMEWORK DUE (Tuesday):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)
+Do: Make Your Own API and Push To Heroku
+
+⚡️CAR  CLASS FRIDAY 6:00pm ET ⚡️
+
+  OFFICE HOURS SUNDAY 1pm EST
+
+No new files tonight!
+
+================================================================================================================================================
+
+
+
+Leon — 03/06/2022 02:44
+Hey @everyone 
+
+WOOOOOOOOOO!!! WE ARE BUILDING REAL STUFF! LETS GOOOOO!!!! Thanks for running all that back! See you tomorrow for CAR practice and then Sunday to build ANOTHER API! 
+
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1532474747346247681
+
+
+Code From Tonight: https://github.com/100devs/rap-names-api
+Live Site: https://rapper-api-100devs-class39.herokuapp.com/
+
+
+👉🏾 @Mayanwolfe (Stream Team) Stream building out an API & installing Heroku:  https://www.twitch.tv/videos/1315269230
+
+
+🗓️ HOMEWORK DUE (Tuesday):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts 
+Read: Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)
+Do: Make Your Own API and Push To Heroku
+
+⚡️CAR  CLASS FRIDAY 6:00pm ET ⚡️
+
+🔥 OFFICE HOURS SUNDAY 1pm EST  🔥
+Leon — 03/06/2022 22:04
+Hey @everyone 
+
+:pikahello: We'll be reviewing "How To Interview" with a special focus on CAR in 60 mins live here on Discord!
+
+Also, I just shared our mind blowing client, volunteer, contribution numbers on Twitter: 
+https://twitter.com/leonnoel/status/1532828874995773440
+
+https://discord.com/events/735923219315425401/982388384901247027
+
+See you all soon! 
+
+Leon Noel 🔥 (@leonnoel)
+Our #100Devs cohort was tasked with getting a paid client, volunteering for a grass roots org, or contributing to open source. The result:
+
+🤯 $500,000+ in paid client work
+🤯 300+ contributed to open source
+🤯 250+ volunteered
+
+Never too late to join us! https://t.co/NEIb3k8bNt
+Likes
+110
+
+Twitter•03/06/2022 21:57
+Leon — 04/06/2022 20:04
+Hey @everyone 
+
+:pikahello: Our JavaScript Super Review is now on Youtube: https://youtu.be/1sRJYuaqoiI
+
+If you missed it and want to get caught up on the JS you'll need for the backend, definitely give it a watch. If you do, I'd appreciate a like and letting the video run to help with the algorithm. Lots of folx finding us on Youtube because you help boost the videos, Thanks! 
+
+Also, in case you missed the tweet ( https://twitter.com/leonnoel/status/1532828874995773440 ) here are the results of this cohort, getting a client, volunteering, or contributing to open source:
+
+🤯 $500,000+ in paid client work
+🤯 300+ contributed to open source
+🤯 250+ volunteered 
+
+MIND BLOWN & Super proud of this community! 
+
+See you all tomorrow for office hours!
+YouTube
+Leon Noel
+JavaScript Crash Course in 2022! Free Coding Bootcamp! #100Devs
+Image
+
+Leon Noel 🔥 (@leonnoel)
+Our #100Devs cohort was tasked with getting a paid client, volunteering for a grass roots org, or contributing to open source. The result:
+
+🤯 $500,000+ in paid client work
+🤯 300+ contributed to open source
+🤯 250+ volunteered
+
+Never too late to join us! https://t.co/NEIb3k8bNt
+Likes
+911
+Retweets
+390
+
+Twitter•03/06/2022 21:57
+Leon — 05/06/2022 17:30
+Hey @everyone YOUR CHILL Office Hours start in 30 Minutes! on https://www.twitch.tv/learnwithleon
+
+🔥  If you have questions for office hours, ask them here: slido.com with #4224209
+
+ 👉🏾 Our JavaScript Super Review can be found here: https://youtu.be/1sRJYuaqoiI
