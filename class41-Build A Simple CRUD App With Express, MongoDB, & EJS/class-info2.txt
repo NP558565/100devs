@@ -1,0 +1,84 @@
+
+Leon — 14/06/2022 22:41
+Hey @everyone 
+
+Hope you are enjoying your break! 
+
+For folx taking the time to catch up, all of our past classes will be on Youtube Ad free! Classes 36-38 have already been added and the rest will keep going live at 7am every day until Friday! 
+
+👉🏾 JavaScript Event Loop For Beginners! (Class 36): https://youtu.be/nv5SequVETI
+
+👉🏾 No Express! Fullstack App Just Node! (class 37): https://youtu.be/6rsA_RCe5YM
+
+👉🏾 Build Your Own API HOSTED On Heroku! (class 38): https://youtu.be/000ai6I6Aow
+
+🙌🏾 Also, our full playlist:  https://www.youtube.com/watch?v=o3IIobN4xR0&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S
+
+Take care! You are missed!
+blawblawLaw — 21/06/2022 03:04
+sneaks in... pssst! 👀
+
+Hey @everyone! I've snuck my way into this channel to let you know that even though we're on a break, I miss you all and will be hopping ON THE STAGE right here on the Discord tomorrow, Tuesday, at 6pm Eastern for an hour to talk through PREP and help you get some practice before those technical interviews start rolling in.
+
+Hope to see you then! 
+blawblawLaw — 21/06/2022 23:00
+@everyone  Going live on the stage right now to talk PREP!
+Leon — 28/06/2022 21:15
+Hey @everyone 
+
+Over break my wife and I had a secret mission. We brought a beautiful baby into the world. I had planned on resuming our classes today, but unfortunately yesterday while swaddled and on their back they stopped breathing. We had a small bluetooth device that was monitoring them and let us know things were not okay. I picked up their limp body and tried to rouse them. It didn’t work and we called 911. I was put on fuckin hold… We rushed to our car and my wife continued CPR. Luckily in the middle of a busy L.A. street they started crying again and a group of Firefighters / EMTs met us and rushed them to the ER. They are stable and all of the big scary tests are coming back with everything looking great, but we’ll be in intensive care for some time. I had planned on keeping this part of my life private, but I think there is something really important to share here. A little piece of tech saved my little one's life… and while we are here to get the bag and unlock a wonderful career you all have a REAL FUCKING SUPER POWER. I’ll take all your prayers, well wishes, and good vibes, but those are for my baby. For me, I would love if you took this week to put your super powers into action. PLEASE BUILD SOMETHING that helps others. A simple informational website, a web app that helps, or anything your skills can muster. Know that your skills have value and you could build something that makes someone's day just a little safer, easier, or better.
+
+You are missed and loved,
+Leon & Baby
+blawblawLaw — 30/06/2022 17:50
+Hey @everyone 
+
+The outpouring of support and love following @Leon's message on Tuesday was beautiful to see. I hope you’re all taking his message to heart and working on creating something that helps others and brings some good into this world! 
+
+Though class is on hold this week, @dvkr (on hiatus) and I will be going live at 6:30pm Eastern tonight for an hour on the stage, right here on the Discord, to talk all things 100 hours project. We’ll be discussing what the 100 hours project is, answering common questions surrounding it, and sharing the reality of how it was to work on ours. We’re also hoping to hear some of the ideas you have and will be answering your questions (or trying to!). 
+
+We hope you can join us!
+Leon — 05/07/2022 22:31
+Hey @everyone 
+
+Thank you for all of the well wishes, kind words, and all the action you took to build some really wonderful apps to help folx! My little one is doing better and we are finally out of the hospital, but I will be taking this week to be there for them. We'll be back with a force next Tuesday and I have some dope surprises up my sleeve! 
+
+Tonight @dvkr (on hiatus) and @Mariam S. will be leading a Discord Stage at 6:30pm ET right here in 60 mins! They'll be checking in on how you're doing, hearing from people at different stages in the cohort, and answering any question/concerns ya'll might have! I hope you will join them soon! 
+
+https://discord.com/events/735923219315425401/993991303375376536
+
+Please if you have time this week, make sure you are ready to hit the ground running next Tuesday. Please make sure you are putting effort into the bank, that you have completed your professional links, you've created all your accounts (Heroku, Mongo Atlas, and Postman), you've worked through the Fullstack Open & Zell Homework,  you are completing a coding challenge every day, and that you are all caught up on the recent classes: 
+
+👉🏾 Build Your Own API HOSTED On Heroku! (class 38): https://youtu.be/000ai6I6Aow
+
+👉🏾 CRUD APIs For Beginners! (class 39): https://youtu.be/zHq0v5RD_Zk
+
+👉🏾 What is MongoDB? CRUD Apps For Beginners! (class 40): https://youtu.be/3eafTTnEfMw
+
+👉🏾 Build A Simple CRUD App With Express, MongoDB, & EJS! (class 41): https://youtu.be/LHf_STV_rLE
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+Excited to have you back in the classroom next Tuesday and enjoy the Discord Stage Tonight!
+Leon — 12/07/2022 21:03
+Hey @everyone 
+
+Unfortunately, I need one more week. We'll get started again on Tuesday July 19th at 6:30pm! 
+
+We are coming back to building Full Stack CRUD Apps, Adding Authentication, Kicking Off MEGA SUMMER, Starting The Hunt, Bring Back Friday With Friends (WITH SOME AMAZING GUESTS ALREADY LINED UP) and Launching The 100Devs Agency! Really excited to start this next chapter and to be back in the classroom with you all.
+
+If you have not already, please make sure you are taking time this week to practice the bank, PREP through a coding challenge each day, make sure your professional links including your portfolio are all up to date, and that you are fully caught up on the break work / our last few classes. Really want to hit the ground running and make the most of the tail end of program! 
+
+Also, if you haven't recently, check out the 🎉celebrations channel. So many great jobs and awesome wins! Pumped to finish strong and see your message in there too!
+Leon — 19/07/2022 23:07
+Hey @everyone 
+
+Sorry, one last push to Thursday July 21st @ 6:30pm! 
+
+Come ready to crush the next few weeks together and get ready to land those jobs! 
+
+My apologies for the delay, but I promise to make the wait worth it!
+
+See you Thursday! 
