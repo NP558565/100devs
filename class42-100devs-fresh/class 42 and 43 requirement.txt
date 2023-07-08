@@ -1,0 +1,1 @@
+Work with a group to comment every line of this to-do list and submit a pull request with your completed code

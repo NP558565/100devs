@@ -1,0 +1,26 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "a basic social network for uploading text and pictures to share with friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "social",
+    "network"
+  ],
+  "author": "Josef Kretz",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
