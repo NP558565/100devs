@@ -1,0 +1,229 @@
+Leon — 21/07/2022 22:32
+Hey @everyone 
+
+WE ARE BACK! LETTTTSSS GOOOOOO!!!! Come ease back into #100Devs class time and learn about the next few weeks!
+
+Super excited to be back together tonight! See you soon!
+
+
+✅  Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1550231707135053824
+
+
+:pikahello:  Class-42 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+🔥 If you have questions, ask them here: slido.com with #3477905
+
+
+Here are the slides if you would like to follow along live: https://slides.com/d/7D5wxOY/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs-fresh
+
+
+👉🏾 LAST CLASS - Build A Simple CRUD App With Express, MongoDB, & EJS! (class 41): https://youtu.be/LHf_STV_rLE
+
+👉🏾 Our JavaScript Super Review can be found here: https://youtu.be/1sRJYuaqoiI
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+
+🗓️ ️HOMEWORK DUE (Tuesday 07/26):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open) - https://fullstackopen.com/en/part3/node_js_and_express
+Read: https://zellwk.com/blog/crud-express-mongodb
+Do:  Your Own CRUD APP & Push To Heroku (assigned before break)
+
+🔥  Next Class Tuesday  🔥
+
+================================================================================================================================================
+
+Leon — 22/07/2022 01:10
+Hey @everyone 
+
+So good to be back and great to see so many of you tonight! Really excited for these next few weeks and pumped to dive back into CRUD on Tuesday. See you then! 
+
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1550231707135053824
+
+
+🗓️ ️HOMEWORK DUE (Tuesday 07/26):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open) - https://fullstackopen.com/en/part3/node_js_and_express
+Read: https://zellwk.com/blog/crud-express-mongodb
+Do:  Your Own CRUD APP & Push To Heroku (assigned before break)
+
+🔥  Next Class Tuesday  🔥 
+
+Leon Noel 🔥 (@leonnoel)
+WE ARE BACK! LETTTSSSS GOOOO!!!!
+
+WE DON'T GET GOT! WE GO GET!
+
+#100Devs a free software engineering bootcamp starts in 60mins!
+
+Join us live (6:30pm ET): https://t.co/Eql2s7goKc
+
+#technology #100DaysOfCode
+Likes
+1785
+Retweets
+1653
+
+Twitter•21/07/2022 22:30
+Fullstack part3 |
+Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..
+Image
+Building a Simple CRUD app with Node, Express, and MongoDB | Zell Liew
+Mega walkthrough on what CRUD, Express, MongoDB are. And how to use them to build a simple web application.
+Image
+
+=====================================================================================================================================================
+
+
+Leon — 26/07/2022 22:33
+Hey @everyone 
+
+On Thursday chat exploded with I want this and I will help! Let's live those two ideals and ease back into class with a project night starting at 6:30pm ET (normal class time)! 
+
+Please take tonight to work with others and comment every line of this of this Todo List: https://github.com/100devs/todo-list-express
+Work together to understand each line and support folx when things don't make sense right away! 
+
+We'll be building this todo list live during Thursdays class, but I want everyone to have the chance to work through the code before then. Also, I'll ask you to submit your commented code on Thursday. I'll pick one person who submits and complete the first half of their HITLIST for them live during a future class! I'll find the jobs, write the intro messages, and get your HUNT started RIGHT! 
+
+Here are the links to our classrooms for working on the project in 60mins: 
+https://live.remo.co/e/100devs-networking-night-group-0
+https://live.remo.co/e/100devs-networking-night-group-0-1
+If Remo does not work for you, please jump into one of our Discord Voice Channels (start with your study community)!
+
+🗓️ ️HOMEWORK DUE (Thursday 07/28):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open) - https://fullstackopen.com/en/part3/node_js_and_express
+Read: https://zellwk.com/blog/crud-express-mongodb
+Do:  Your Own CRUD APP & Push To Heroku (assigned before break)
+Do: Finish Commenting The Todolist Code
+
+No checkin tonight (no new friends)! See you on Remo soon! 
+
+🔥  Next Class Thursday  🔥
+GitHub
+GitHub - 100devs/todo-list-express
+Contribute to 100devs/todo-list-express development by creating an account on GitHub.
+GitHub - 100devs/todo-list-express
+#100Devs Work Together Night - Group 01
+#100Devs mingle, chat, and get to know each other.
+Image
+#100Devs Work Together Night - Group 02
+#100Devs mingle, chat, and get to know each other.
+Image
+Fullstack part3 |
+Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..
+Image
+Building a Simple CRUD app with Node, Express, and MongoDB | Zell Liew
+Mega walkthrough on what CRUD, Express, MongoDB are. And how to use them to build a simple web application.
+Image
+Leon — 27/07/2022 02:38
+Hey @everyone 
+
+Thank you for a great project night! Feel free to submit a PR with your comments (that is how you will submit next class)!
+
+Excited to jump back into CRUD and work through the list together on Thursday! See you then!
+
+🗓️ ️HOMEWORK DUE (Thursday 07/28):
+Do: Start prepping THE BANK
+Do: Complete Your Professional Links
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open) - https://fullstackopen.com/en/part3/node_js_and_express
+Read: https://zellwk.com/blog/crud-express-mongodb
+Do:  Your Own CRUD APP & Push To Heroku (assigned before break)
+Do: Finish Commenting The Todolist Code
+
+Please don't forget your daily coding challenge. You CAN do this!
+
+🔥  Next Class Thursday  🔥
+Leon — 28/07/2022 22:37
+Hey @everyone 
+
+Switching it up a little bit tonight and pushing our CRUD class to Tuesday. I want everyone to have a class period to do the following and get back into the groove:
+
+1. Network - 1 connection and 1 coffee chat by Tuesday's Class (100Devs Folx COUNT FOR THIS WEEK!)
+2. Do a code challenge - FULL PREP
+3. Work on THE BANK
+4. Complete Your Professional Checklist - SUPER IMPORTANT
+
+🔥 YOU DON'T HAVE TO DO IT ALONE! 🔥 
+
+Here are the links to our classrooms for working on these things in 60mins: 
+https://live.remo.co/e/100devs-networking-night-group-0
+https://live.remo.co/e/100devs-networking-night-group-0-1
+If Remo does not work for you, please jump into one of our Discord Voice Channels (start with your study community)!
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+And then please finish the Homework by Tuesday!
+
+🗓️ ️HOMEWORK DUE (Tuesday 08/02):
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open) - https://fullstackopen.com/en/part3/node_js_and_express
+Read: https://zellwk.com/blog/crud-express-mongodb
+Do:  Your Own CRUD APP & Push To Heroku (assigned before break)
+Do: Finish Commenting The Todolist Code
+
+"We were on a break" but now we have to bring these things back into play daily 🙂 
+
+❤️ CRUD CLASS TUESDAY ❤️
+#100Devs Work Together Night - Group 01
+#100Devs mingle, chat, and get to know each other.
+Image
+#100Devs Work Together Night - Group 02
+#100Devs mingle, chat, and get to know each other.
+Image
+Google Docs
+Professional Checklist
+PROFESSIONAL CHECKLIST Due: Tuesday, April 26th Submission Form Bio Blurb Portfolio Resume Github Twitter LinkedIn Angelist Cover Letter Cover Email TOOLS TO INSTALL Grammarly Buffer Story BLURB This is your bio blurb (80-120 words), which will be published on the publi...
+Image
+Google Docs
+Interview Questions (Behavioral / Technical) - The Bank
+Any questions on this list are fair game for technical interviews. Resources with most answers at the end. Behavioral Questions 1. Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started? 2. Tell me about a t...
+Image
+Fullstack part3 |
+Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..
+Image
+Leon — 29/07/2022 02:50
+Hey @everyone 
+
+Thank you for taking some time to network, prep, banki, and finish that checklist! 
+
+As we move into the end of program, finding time for these things will be super important! We'll have MEGA AUTUMN daily so you won't have to do it alone, but please try and start incorporating these into your daily practice. I promise it will pay off as we move into THE HUNT!
+
+We are back on TWITCH getting CRUDY on Tuesday. 
+
+If you want a sneak peak, you should check out @Mayanwolfe (Stream Team) 6+ hour stream walking through the todolist as it will get you super prepared: https://www.twitch.tv/videos/1544735467
+
+
+🗓️ ️HOMEWORK DUE (Tuesday 08/02):
+Create: Heroku, Mongo Atlas, and Postman Accounts
+Read: Node.js and Express (Fullstack Open) - https://fullstackopen.com/en/part3/node_js_and_express
+Read: https://zellwk.com/blog/crud-express-mongodb
+Do:  Your Own CRUD APP & Push To Heroku (assigned before break)
+Do: Finish Commenting The Todolist Code
+
+❤️ CRUD CLASS TUESDAY ❤️
+Twitch
+Let's Review Leon's CRUD Code homework! #100Devs - mayanwolfe on Tw...
+Image
+Fullstack part3 |
+Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..
+Image
+Building a Simple CRUD app with Node, Express, and MongoDB | Zell Liew
+Mega walkthrough on what CRUD, Express, MongoDB are. And how to use them to build a simple web application.
+Image
