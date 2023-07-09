@@ -1,0 +1,49 @@
+Leon — 02/08/2022 22:31
+Hey @everyone 
+
+Let's Review CRUD And Work Our Way Through The TODOLIST! 
+
+We are going to take our time and go into detail about each CRUD Operation. Please come ask lots of questions and have this app / crud make sense!
+
+
+✅  Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1554580351984422912
+
+
+:pikahello:  Class-43 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Here are the slides if you would like to follow along live: https://slides.com/d/Ex8VYBY/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-todo-list
+
+
+👉🏾 Build A Simple CRUD App With Express, MongoDB, & EJS! (class 41): https://youtu.be/LHf_STV_rLE
+
+👉🏾 Our JavaScript Super Review can be found here: https://youtu.be/1sRJYuaqoiI
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+⭐ HOMEWORK SUBMISSION (Today): 
+Do: Make Your Own APP and Push To Heroku (from over break)
+Submit here please: https://github.com/100devs/simple-express-app-submission
+
+
+🗓️ ️HOMEWORK DUE (Tuesday 08/09):
+Do: Start prepping THE BANK
+Do: Comment The Todolist
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+
+🔥 Next Class Thursday 🔥
+
+==================================================================================================================================================
+
+Leon — 04/08/2022 22:38
+Hey @everyone
+
+Unfortunately, I can't hold class tonight. I need just a little more time to adjust my family schedule, but we should be set going forward. Please take this time to work on the homework and work on your daily goals (BANKI, Code Challenge, & Networking).
+
+Though I haven't been able to go live, I've been working hard on the end of program so that we can make up the time and finish strong! Really excited to dig deeper into CRUD, get you interview ready, and I have A LOT planned to help you on THE HUNT. 
+
+You are missed, sorry for the delay, and see you on Tuesday!
