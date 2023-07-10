@@ -1,0 +1,12 @@
+li {
+    list-style-type: none;
+}
+
+li.in-process {
+    list-style-type: circle;
+}
+
+li.done::before {
+    content: "\2713";
+    color: #32CD32;
+}
