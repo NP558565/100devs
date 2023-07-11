@@ -1,0 +1,53 @@
+Leon — 11/08/2022 22:31
+Hey @everyone 
+
+Tonight let's UPDATE AND DELETE like it is 1998! We'll finish up our basic CRUD API and talk through all the glue!
+
+
+✅  Please check-in by liking and retweeting this tweet before class:  https://twitter.com/leonnoel/status/1557841864111230976
+
+
+:pikahello:  Class-45 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Code for tonight: https://github.com/100devs/todo-list-express
+
+Here are the slides if you would like to follow along live: https://slides.com/d/SP4JQPA/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-todo-list-cohort-2
+
+
+👉🏾 Build A Simple CRUD App With Express, MongoDB, & EJS! (class 41): https://youtu.be/LHf_STV_rLE
+
+👉🏾 Our JavaScript Super Review can be found here: https://youtu.be/1sRJYuaqoiI
+
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+
+
+🗓️ ️HOMEWORK DUE (Tuesday 08/16):
+Do: Start prepping THE BANK
+Do: Comment The Todolist
+Watch: DevMarketer's MVC video: https://youtu.be/1IsL6g2ixak
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Tuesday 🔥 
+
+=================================================================================================================================================
+
+Leon — 14/08/2022 20:30
+Hey @everyone 
+
+Happy Sunday! 
+
+🍿stream-team member @Mayanwolfe (Stream Team) is holding office hours live now on Twitch: https://www.twitch.tv/mayanwolfe
+
+They are reviewing how to ask better questions in the help channels, how to embed/format code snippets instead of screenshots, and working through some of our past assignments!
+
+See you over there!
+Twitch
+Mayanwolfe - Twitch
+Image
