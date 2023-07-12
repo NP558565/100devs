@@ -1,0 +1,120 @@
+Leon — 16/08/2022 22:32
+Hey @everyone 
+
+Let's add some Architecture to our Node Apps Tonight! MVC or bust! See you soon!
+
+
+✅  Please check-in by liking and retweeting this tweet before class:  https://twitter.com/leonnoel/status/1559654124253196288
+
+
+:pikahello:  Class-46 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Code for tonight: https://github.com/100devs/todo-mvc
+
+
+👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+
+
+🗓️ ️HOMEWORK DUE (Thursday 08/18):
+Do: Build a MVC lecture
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 Office Hours Sunday 🔥
+
+===============================================================================================================================================
+
+Leon — 17/08/2022 03:00
+Hey @everyone 
+
+Thanks for hanging through the first pass of MVC. For homework please build out a lecture on MVC! This practice will serve you well on the job! You'll join a team. Look at the codebase and see so many new things that you have to get up to speed on quickly! Take this time to practice that skillset and I'll see you on Thursday to help make things make sense + dive deeper into the code that will be the spring board for your projects going forward! 
+
+1. Manage Frustration
+2. Be Consistent
+3. Take Care Of Yourself 
+
+YOU GOT THIS! 
+
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1559654124253196288
+
+
+👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+
+
+🗓️ ️HOMEWORK DUE (Thursday 08/18):
+Do: Build a MVC lecture
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 Office Hours Sunday 🔥
+
+=====================================================================================================================================
+
+Leon — 18/08/2022 22:32
+Hey @everyone 
+
+We've got some more MVC TO DO! Let's take a look at updating, deleting, using datasets, and how the whole codebase FUNCTIONS ::: dad jokes intensify ::: !
+
+
+✅  Please check-in by liking and retweeting this tweet before class:  https://twitter.com/leonnoel/status/1560378673957482496
+
+
+:pikahello:  Class-47 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Code for tonight: https://github.com/100devs/todo-mvc
+
+If you have questions about MVC, ask them here (we'll answer some today and Sunday):  slido.com with #2218654
+
+
+👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+
+
+🗓️ ️HOMEWORK DUE (Thursday 08/18):
+Do: Build a MVC lecture
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 Office Hours Sunday 🔥
+
+==================================================================================================================================================
+
+Leon — 19/08/2022 02:24
+Hey @everyone 
+
+Thanks for going deeper with MVC and for a great week! 
+
+See you Sunday for office hours where we'll break things down from the beginning again! Come with questions and I'll have answers! 
+
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: 
+https://twitter.com/leonnoel/status/1560378673957482496
+
+
+👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+
+
+🗓️ ️HOMEWORK DUE (Thursday 08/18):
+Do: Build a MVC lecture
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 Office Hours Sunday 🔥
