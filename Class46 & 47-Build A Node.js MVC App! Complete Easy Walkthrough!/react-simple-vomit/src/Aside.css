@@ -1,0 +1,7 @@
+/* basic styling for the Aside component */
+.Aside{
+  height: 300px;
+  width: 20%;
+  background: lightgreen;
+  float: left;
+}
