@@ -1,0 +1,177 @@
+Leon — 21/08/2022 17:44
+Hey @everyone 
+
+🔥 YOUR CHILL Office Hours start in 50 Minutes (1:30pm ET)! on https://www.twitch.tv/learnwithleon
+
+It's been a while, so bring your SPICY questions and let's also review some MVC! See You SOON! 
+
+ :pikahello: If you have questions for office hours, ask them here: slido.com with #9597921
+
+
+ ⭐ 👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+Twitch
+LearnWithLeon - Twitch
+Image
+YouTube
+Leon Noel
+How To Build Fullstack Apps With Javascript! Easy To Understand! (c...
+Image
+
+=============================================================================================================================================
+
+Leon — 23/08/2022 22:36
+Hey @everyone 
+
+💰 Tonight we start prepping for THE HUNT! Please don't miss this SHORT class if you want a job. 
+
+
+✅  Please check-in by liking and retweeting this tweet before class:  https://twitter.com/leonnoel/status/1562190629513228288
+
+
+:pikahello:  Class-48 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+I got the job!! I’ll start my first role as a software developer next month. Thank you @Leon and the #100Devs community for this truly life changing experience and opportunity. I can’t believe it. 100Devs you’ve got this! It’s possible 💗 #womenintech - https://twitter.com/alannac111/status/1560688418463461377
+
+During this summer I took the opportunity to become a Software Developer Intern. Today, I received an offer letter and got promoted as a Software Developer 1. Thanks @Leon  and #100Devs for the amazing support. Let's go get! - https://discord.com/channels/735923219315425401/735936014832369687/1011316023376478268
+
+After being contacted by a inside recruiter and going through my first interview ever... I got the job as a Software Engineer! I am so happy. I can't believe it, because I totally felt like I could never get a job like that, felt like it was out of my reach. I will be making more than my father is making and he worked at one company for 10+ years. - https://discord.com/channels/735923219315425401/735936014832369687/1010214897474347018
+
+
+Here are the slides if you would like to follow along live: https://slides.com/d/KSTr3aM/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-the-hunt
+
+
+👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+
+⭐ Homework Due Today:
+MVC Lecture - https://forms.gle/YDt3FP4vRw1nD7Qg6
+
+🗓️ ️HOMEWORK DUE (Thursday 08/25):
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Thursday 🔥
+
+==================================================================================================================================================
+
+Leon — 25/08/2022 22:37
+Hey @everyone 
+
+💰 As we start prepping for the hunt, we have quite a bit off stuff on our plates. Let's take tonight to work through those things together! 
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1562916763053854720
+
+Here is the link to our classroom for working on these things in 60mins: 
+https://live.remo.co/e/100devs-the-hunt
+REMO recently had a big update and it works much better, but if it does not work for you please jump into one of our Discord Voice Channels (start with your study community)!
+
+⭐️This Week: 
+1 coffee chat / 3 connections ( REMO TONIGHT COUNTS FOR THIS WEEK )
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Read About String Methods: https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961
+Add them to an Interview Anki
+Due 5 Codewars (tagged as strings!)
+
+Due Aug. 30th - 
+Checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Due Sept 6th -
+Team Project: We'll start next week
+
+Due Sept. 13th -
+Hitlist: https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit?usp=sharing
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+👉🏾 Build A CRUD TODO List (Class 44&45): https://youtu.be/jZ-kmmgi_d0
+Would appreciate a like and comment to help the algorithm!
+
+
+⭐ Homework Due Today:
+MVC Lecture - https://forms.gle/YDt3FP4vRw1nD7Qg6
+Watch: https://youtu.be/SBvmnHTQIPY (Node.js App From Scratch | Express, MongoDB & Google OAuth) THIS IS A BEAST just get through it, so all the topics are not brand new next week! 
+Take A Peek: https://github.com/100devs/todo-mvc-auth-local
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 Office Hours Sunday 🔥
+
+Leon Noel 🔥 (@leonnoel)
+Tonight #100Devs we are taking some time to start THE HUNT Together!
+
+See you on REMO and Discord at 6:30pm ET!
+
+Twitter•25/08/2022 22:36
+#100Devs - The Hunt
+Come Start The Hunt Together!
+Google Docs
+Interview Questions (Behavioral / Technical) - The Bank
+Any questions on this list are fair game for technical interviews. Resources with most answers at the end. Behavioral Questions 1. Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started? 2. Tell me about a t...
+Image
+Medium
+Essential JavaScript String Methods
+The 13 most important JavaScript functions for working with strings. Index, slice, split, and trim your way through JS strings methods.
+Essential JavaScript String Methods
+Google Docs
+Professional Checklist
+PROFESSIONAL CHECKLIST Due: Tuesday, April 26th Submission Form Bio Blurb Portfolio Resume Github Twitter LinkedIn Angelist Cover Letter Cover Email TOOLS TO INSTALL Grammarly Buffer Story BLURB This is your bio blurb (80-120 words), which will be published on the publi...
+Image
+Leon — 26/08/2022 19:32
+Hey @everyone 
+
+Thanks for working together yesterday to start prepping for the hunt! 
+
+🎉 Classes 46 & 47 are now on Youtube (Learn MVC & Apply It To Your Node Apps):  https://youtu.be/SVX_HMum0n4
+:thankyou: I would really appreciate a  like and letting the video play to help the algorithm!
+
+
+Some 🎉celebrations !:
+
+"From Trucker to Tech! As of last week, I have accepted a job offer as an Application Admin!" - https://discord.com/channels/735923219315425401/735936014832369687/1011842952991084585
+
+"Fat Thank You to Leon and all the organizers involved for helping me build a strong foundation in Software Dev. I recently got a chance to take a crack at Amazon's SDE intern position and was able to pass the Online Assessments and Interview Round to get finally get the offer: - https://discord.com/channels/735923219315425401/735936014832369687/1012011945018277978
+
+"Honestly lost hope for a bit but FINALLY LANDED MY FIRST CLIENT YESTERDAY AND ALREADY HAVE A 2ND POTENTIAL LEAD TODAY. " - https://discord.com/channels/735923219315425401/735936014832369687/1011735714041446460
+
+"Today is my 1-year anniversary at my job!"- https://discord.com/channels/735923219315425401/735936014832369687/1011689212141125742
+
+"Introduced myself to a team, and quickly started working on a project someone suggested. We worked it through, for the past three days, little sleep, and I created the website myself. The past three days I've just remembered Leon's voice saying "Let's go" and kicked at it, we pitched today and won the grand prize!" - https://discord.com/channels/735923219315425401/735936014832369687/1010783497457254481
+
+
+Also, my most recent tweet was a * joke* and the result of me continuing my trashy tv watching ways with Selling The OC https://www.netflix.com/title/81447330 (Highly Recommended)
+
+🔥 See you all Sunday For OFFICE HOURS! 🔥
+YouTube
+Leon Noel
+Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47) -...
+Image
+Watch Selling The OC | Netflix Official Site
+The Oppenheim Group expands to Orange County, where an all-new real estate team shows off lavish oceanfront listings and big personalities make waves.
+Watch Selling The OC | Netflix Official Site
+Leon — 28/08/2022 18:03
+Hey @everyone 
+
+Unfortunately, I need to push office hours today! Please take the time to continue prepping THE HUNT and catching up on class. Will try a power hour tomorrow!
+
+🎉 Classes 46 & 47 are now on Youtube (Learn MVC & Apply It To Your Node Apps):  https://youtu.be/SVX_HMum0n4
+YouTube
+Leon Noel
+Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47) -...
+Image
+
+============================================================================================================================================
+
