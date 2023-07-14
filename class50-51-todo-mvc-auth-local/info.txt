@@ -1,0 +1,219 @@
+Leon — 29/08/2022 21:35
+Hey @everyone 
+
+Going to sneak in an OFFICE HOURS POWER HOUR in 30mins here on Discord. If you have time and questions, swing on by https://discord.com/events/735923219315425401/1013908927596994711
+
+Submit your questions here: slido.com with #1278916
+
+Then we'll head over to @Rufio stream!
+Leon — 30/08/2022 22:33
+Hey @everyone 
+
+Tonight we add authentication to our Node Apps and start our PROJECT WEEK! 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1564727546385555456
+
+
+:pikahello:  Class-50 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Code for tonight: https://github.com/100devs/todo-mvc-auth-local
+
+Here are the slides if you would like to follow along live: https://slides.com/d/2IX6kLc/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-auth-project-night
+
+Here are the group pairings: 
+https://docs.google.com/spreadsheets/d/1-ei7jX7r2GdslTvBAGU1mLysmIheM5OmgIjRya6ZHTE/edit?usp=sharing
+And Here are the links to our classrooms for working on your project: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. If you do not have a group, please join REMO Room 02 on the 5th floor and up to find folx to work with for the project! 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+This Week: 
+1 coffee chat / 3 connections ( REMO TONIGHT COUNTS FOR THIS WEEK )
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Read About String Methods: https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961
+Add them to an Interview Anki
+Due 5 Codewars (tagged as strings!)
+REDO your 5 from last week
+
+⭐ Due  TODAY  ⭐ - 
+:ricflair: Submit Your Checklist: https://forms.gle/MUdE5XCY7VGKup1y8
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, please do not submit fake / incomplete stuff... You are just making more work for me and it won't help...
+
+Due Sept 6th -
+Team Project: We'll start tonight! 
+
+Due Sept. 13th -
+Hitlist: https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit?usp=sharing
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 NO STREAM SUNDAY - Labor Day Weekend! (US Holiday) 🔥
+
+==================================================================================================================================================
+
+Leon — 31/08/2022 01:42
+Hey @everyone 
+
+See you all on REMO and then Thursday to go deeper! 
+
+
+Here are the group pairings: 
+https://docs.google.com/spreadsheets/d/1-ei7jX7r2GdslTvBAGU1mLysmIheM5OmgIjRya6ZHTE/edit?usp=sharing
+And Here are the links to our classrooms for working on your project: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. If you do not have a group, please join REMO Room 02 on the 5th floor and up to find folx to work with for the project! 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1564727546385555456
+
+
+Code for tonight: https://github.com/100devs/todo-mvc-auth-local
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+⭐ Due  TODAY  ⭐ - 
+:ricflair: Submit Your Checklist: https://forms.gle/MUdE5XCY7VGKup1y8
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, please do not submit fake / incomplete stuff... You are just making more work for me and it won't help...
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 NO STREAM SUNDAY - Labor Day Weekend! (US Holiday) 🔥
+Leon — 01/09/2022 22:33
+
+===========================================================================================================================
+
+Hey @everyone 
+
+Let's GO DEEPER into Auth with slides for each step and then continue PROJECT NIGHT! 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1565452220727906309
+
+
+:pikahello:  Class-51 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Code for tonight: https://github.com/100devs/todo-mvc-auth-local
+
+Replit Template To Make It Easier To Work Together: https://replit.com/@100devs/todo-mvc-auth-local?v=1
+
+Here are the slides if you would like to follow along live: https://slides.com/d/mrbBH3E/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs2-auth-project-night2-cohort-2
+
+Here are the group pairings: 
+https://docs.google.com/spreadsheets/d/1-ei7jX7r2GdslTvBAGU1mLysmIheM5OmgIjRya6ZHTE/edit?usp=sharing
+And Here are the links to our classrooms for working on your project: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. If you do not have a group, please join REMO Room 02 on the 5th floor and up to find folx to work with for the project! 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections ( REMO TONIGHT COUNTS FOR THIS WEEK )
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Read About String Methods: https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961
+Add them to an Interview Anki
+Due 5 Codewars (tagged as strings!)
+REDO your 5 from last week
+
+⭐ Due  TODAY  ⭐ - 
+:ricflair: Submit Your Checklist: https://forms.gle/MUdE5XCY7VGKup1y8
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, please do not submit fake / incomplete stuff... You are just making more work for me and it won't help...
+
+Due Sept 6th -
+Team Project: Work On It Tonight! 
+
+Due Sept. 13th -
+Hitlist: https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit?usp=sharing
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 NO STREAM SUNDAY - Labor Day Weekend! (US Holiday) 🔥
+Twitch
+LearnWithLeon - Twitch
+Image
+GitHub
+GitHub - 100devs/todo-mvc-auth-local
+Contribute to 100devs/todo-mvc-auth-local development by creating an account on GitHub.
+GitHub - 100devs/todo-mvc-auth-local
+replit
+100devs
+todo-mvc-auth-local - Node.js Repl
+MVC Todolist With Local Auth
+todo-mvc-auth-local - Node.js Repl
+Slides
+#100Devs - Auth & Project Night Part 02 (cohort 2)
+Class 51 of our Free Web Dev Bootcamp for folx affected by the pandemic. Join live T/Th 6:30pm ET leonnoel.com/twitch and ask questions here: leonnoel.com/discord
+#100Devs - Auth & Project Night Part 02 (cohort 2)
+Leon — 02/09/2022 01:13
+Hey @everyone 
+
+PROJECT NIIIIIGGGGGHHHHHHHTTTTT! #COMMUNITYTAUGHT 
+
+Here are the group pairings: 
+https://docs.google.com/spreadsheets/d/1-ei7jX7r2GdslTvBAGU1mLysmIheM5OmgIjRya6ZHTE/edit?usp=sharing
+And Here are the links to our classrooms for working on your project: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. If you do not have a group, please join REMO Room 02 on the 5th floor and up to find folx to work with for the project! 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1565452220727906309
+
+
+Code for tonight: https://github.com/100devs/todo-mvc-auth-local
+Replit Template To Make It Easier To Work Together: https://replit.com/@100devs/todo-mvc-auth-local?v=1
+
+
+🔥 :pikahello: 🔥   @Mayanwolfe (Stream Team) 4 Hour Walk Through Of Our Auth Code: https://www.twitch.tv/videos/1578277286 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+⭐ Due  TODAY  ⭐ - 
+:ricflair: Submit Your Checklist: https://forms.gle/MUdE5XCY7VGKup1y8
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, please do not submit fake / incomplete stuff... You are just making more work for me and it won't help...
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 NO STREAM SUNDAY - Labor Day Weekend! (US Holiday) 🔥
