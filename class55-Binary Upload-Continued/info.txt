@@ -1,0 +1,265 @@
+Leon — 15/09/2022 22:39
+Hey @everyone 
+
+Let's see me speed run adding comments to our Social Media App and then jump into groups to do it together! See One, Do One, Teach One! #communitytaught 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1570527569166086144
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+:pikahello:  Class-55 of #100Devs starts in 50 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Code for tonight: 
+https://github.com/100devs/binary-upload-boom
+
+And here are the links to our classrooms for working on adding comments: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Review Array Methods (AGAIN:
+Read this: https://javascript.info/array-methods
+Read this: https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+Watch this: https://youtu.be/R8rmfD9Y5-c
+Add them to an Interview Anki
+Due 5 Codewars (tagged as Arrays!)
+Redo your 5 from last week!
+
+
+⭐ Due  TODAY  ⭐ - 
+:ricflair: Submit Your Hitlist Link: https://forms.gle/8qWjZSihPaG5uyHX8
+
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 Office Hours Power Hour - Sunday 1pm ET 🔥
+
+======================================================================================================================================================
+
+Leon — 16/09/2022 00:43
+Hey @everyone 
+
+We are #communitytaught and jumping on Remo to work together to add comments! 
+
+And here are the links to our classrooms for working on adding comments: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+Code for tonight: 
+https://github.com/100devs/binary-upload-boom
+I pushed my comment code to the comments branch!
+
+My speed run from tonight VOD:
+https://www.twitch.tv/videos/1591969062
+
+@Mayanwolfe (Stream Team) VOD from yesterday (MongoDB & Cloudinary):
+https://www.twitch.tv/videos/1591115051
+
+GOOD LUCK AND SEE YOU ON REMO!
+#100Devs Project Night - Room 01
+Team Work Make The Dream Work!
+Image
+#100Devs Project Night - Room 02
+Team Work Make The Dream Work!
+Image
+GitHub
+GitHub - 100devs/binary-upload-boom: The 100Devs Social Network
+The 100Devs Social Network. Contribute to 100devs/binary-upload-boom development by creating an account on GitHub.
+GitHub - 100devs/binary-upload-boom: The 100Devs Social Network
+Twitch
+Comments ANY% Speed Run! !100Devs !Discord !slides - learnwithleon ...
+learnwithleon went live on Twitch. Catch up on their Software and Game Development VOD now.
+Twitch
+Let's Explore Binary Upload Boom! #100Devs - mayanwolfe on Twitch
+
+==============================================================================================================================================
+
+Leon — 16/09/2022 02:40
+Hey @everyone 
+
+Thank you for working together to add MESSAGE COMMENTS LIKE COMMENTS ON INSTA, not commenting your code tonight lol! Hope you had some fun working together and building some cool stuff!
+
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1570527569166086144
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+Code for tonight: 
+https://github.com/100devs/binary-upload-boom
+I pushed my comment code to the comments branch!
+
+My speed run from tonight VOD:
+https://www.twitch.tv/videos/1591969062
+
+@Mayanwolfe (Stream Team) VOD from yesterday (MongoDB & Cloudinary):
+https://www.twitch.tv/videos/1591115051
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Review Array Methods (AGAIN:
+Read this: https://javascript.info/array-methods
+Read this: https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+Watch this: https://youtu.be/R8rmfD9Y5-c
+Add them to an Interview Anki
+Due 5 Codewars (tagged as Arrays!)
+Redo your 5 from last week!
+
+
+⭐ Due  TODAY  ⭐ - 
+:ricflair: Submit Your Hitlist Link: https://forms.gle/8qWjZSihPaG5uyHX8
+
+Due Next Thursday
+A PR with your code adding COMMENTS TO YOUR POSTS LIKE INSTA (not commenting your code) 😁 
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 Office Hours Power Hour - Sunday 1pm ET 🔥
+
+===========================================================================================================================================
+
+Leon — 18/09/2022 17:32
+Hey @everyone 
+
+🔥 OFFICE HOURS POWER HOUR in 30mins here on Discord!
+
+Here is the slido for your questions: slido.com with #1423655
+
+https://discord.com/events/735923219315425401/1021095596527988756
+Leon — 20/09/2022 22:32
+Hey @everyone
+
+100Hours Project MVPs are due in one week aka next Tuesday! To give everyone some class time to finish, we won't meet on Twitch tonight! Remo will be open and also feel free to jump into voice channels in 60 minutes, so you are not working alone! #communitytaught
+
+Remember if you want to participate in HUNTOBER, your MVP, client signature or grass roots volunteer or open source contribution are due on TUESDAY!
+
+No Checkin - let's just get right to work :angryzoom: 
+
+And here are the links to our classrooms for working on your BEAUTIFUL MVP: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Review Array Methods (AGAIN - yes third week, they are important!):
+Read this: https://javascript.info/array-methods
+Read this: https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+Watch this: https://youtu.be/R8rmfD9Y5-c
+Add them to an Interview Anki
+Due 5 Codewars (tagged as Arrays!)
+Redo your 5 from last week!
+
+===================================================================================================================================================
+
+:pikahello: New STUFF!
+Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html
+Mentally beak your favorite website down into reusable components! 
+AND SEE COMPONENTS EVERYWHERE!
+
+
+⭐ Due  TODAY  ⭐ - 
+Submit Your Hitlist Link: https://forms.gle/8qWjZSihPaG5uyHX8
+
+Due Thursday
+Submit PR with your code adding COMMENTS TO YOUR POSTS (not commenting your code) 😁: https://github.com/100devs/binary-upload-boom
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+
+Happy Coding!
+Leon — 21/09/2022 02:47
+Hey @everyone
+
+Thanks for putting 3 more hours into your 100Hours projects! Excited to see some BEAUTIFUL MVPs next Tuesday! Have a great rest of your day and see you all Thursday!
+
+
+:pikahello: New STUFF!
+Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html
+Mentally beak your favorite website down into reusable components! 
+AND SEE COMPONENTS EVERYWHERE!
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Review Array Methods (AGAIN - yes third week, they are important!):
+Read this: https://javascript.info/array-methods
+Read this: https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+Watch this: https://youtu.be/R8rmfD9Y5-c
+Add them to an Interview Anki
+Due 5 Codewars (tagged as Arrays!)
+Redo your 5 from last week!
+
+⭐ Due  TODAY  ⭐ - 
+Submit Your Hitlist Link: https://forms.gle/8qWjZSihPaG5uyHX8
+
+Due Thursday
+Submit PR with your code adding COMMENTS TO YOUR POSTS (not commenting your code) 😁: https://github.com/100devs/binary-upload-boom
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+🔥 Next Class Thursday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+==============================================================================================================================================
