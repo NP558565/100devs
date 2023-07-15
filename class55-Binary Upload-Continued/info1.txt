@@ -1,0 +1,1 @@
+Work together with a group to add comments to Binary Upload Boom and submit a pull request with your completed code.
