@@ -1,0 +1,83 @@
+Leon — 22/09/2022 22:31
+Hey @everyone
+
+We are going to go live for a quick stream to talk through MVPs, see some examples, talk through how to get some quick design/style wins to make yours look Beautiful by TUESDAY, and then start working together!
+
+Also, at this point it is just getting ridiculous... check all the jobs in the 🎉celebrations channel 🥳 
+
+NO CHECKIN! - we want to start spacing things out too to throw off the scent! 
+
+
+:pikahello:  Class-56 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+And here are the links to our classrooms for working on your BEAUTIFUL MVP: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Review Array Methods (AGAIN - yes third week, they are important!):
+Read this: https://javascript.info/array-methods
+Read this: https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/
+Watch this: https://youtu.be/R8rmfD9Y5-c
+Add them to an Interview Anki
+Due 5 Codewars (tagged as Arrays!)
+Redo your 5 from last week!
+
+
+:pikahello: New STUFF!
+Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html
+Mentally beak your favorite website down into reusable components! 
+AND SEE COMPONENTS EVERYWHERE!
+
+
+⭐ Due  TODAY  ⭐ - 
+Submit PR with your code adding COMMENTS TO YOUR POSTS (not commenting your code) 😁: https://github.com/100devs/binary-upload-boom
+
+Due Sept. 27th -
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+=============================================================================================================================================
+
+Leon — 23/09/2022 00:25
+Hey @everyone 
+
+And here are the links to our classrooms for working on your BEAUTIFUL MVP: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better, but please use a voice channel if it does not work for you.
+
+Also, the REMO classrooms will be open 24/7 for the next week! 
+#100Devs Project Night - Room 01
+Team Work Make The Dream Work!
+Image
+#100Devs Project Night - Room 02
+Team Work Make The Dream Work!
+Image
+Leon — 24/09/2022 22:15
+Hey @everyone 
+
+I'm still recovering from being sick this past week and was hoping my voice would recover by now. 
+
+Unfortunately, I don't think I could make it through the second half of our Super Review Tomorrow. We'll have to postpone until next Sunday. 
+
+Best of luck finishing your beautiful MVPs and I'm excited to get into REACT this week!
