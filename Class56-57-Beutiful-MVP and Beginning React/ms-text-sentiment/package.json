@@ -1,0 +1,22 @@
+{
+  "name": "How_Bad_Is_It",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.0.1",
+    "cloudinary": "^1.26.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "https-proxy-agent": "^3.0.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.17.0",
+    "multer": "^1.4.2"
+  }
+}
