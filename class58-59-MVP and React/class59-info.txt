@@ -1,0 +1,117 @@
+Leon — 04/10/2022 22:43
+Hey @everyone
+
+Let's REACT Together and submit our work for #HUNTOBER2022!
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/huntoberTweets/status/1577350336339230752
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+:pikahello:  Class-59 of #100Devs starts in 50 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Here are the slides if you would like to follow along:  https://slides.com/d/XBGgiOM/live 
+After: https://slides.com/leonnoel/100devs2-see-react-together
+
+
+⭐ Due  TODAY  ⭐ 
+#HUNTOBER2022 submissions are due today! 
+Please fill out everything in this link even if you submitted things in the past. 
+
+⚠️ 🚨 ⚠️ If you didn't complete the work for Huntober that is okay, but please do not submit this form. False, incomplete, or attempts to finesse this form will just make extra work for me at a time where every second counts and will result in a full ban. ⚠️ 🚨 ⚠️
+
+If in doubt, don't fill it out... https://forms.gle/ibS4sx8wKXgegVFZ7
+
+
+☝🏾 We'll chat more about this tonight! 
+
+
+And here are the links to our classrooms for tonight: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+:queen: Newer STUFF!
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Please RUN BACK the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate - we'll cover this soon), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+
+Due Oct. 11th -
+Completed 100Hours Project
+
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥 
+
+==================================================================================================================================================
+
+Leon — 05/10/2022 02:53
+Hey @everyone 
+
+We did not come this far as a community to not stay a whole community, so #HUNTOBER2022 for all!
+
+We are NOT going to put any content behind artificial barriers just because some folx have the privilege of being in the front of the rollercoaster. Tonight didn't sit right, so we are going to make some changes. 
+
+🔥 Everyone will have access to #HUNTOBER2022 standups and all the daily practice should they choose to participate. 
+
+Verifications will be rolling. So folx that are ready and fill out the #HUNTOBER2022 form in the next 24 hours will be eligible for a letter from me signing their praises and highlighting their accomplishments thus far. They will also be added to #📚house-turing which will act as a 🔥ask-leon for folx ready for the job hunt. If I make it through everyone, we'll open it back up again. 
+
+Then we'll do the same thing in November. That means if you are not ready for the first wave, you know exactly what you need to be ready for the next. 
+
+This is going to be a massive amount of work and it is going to take a bit to iron out all the kinks! Give me some time to give it the good ol' #100Devs try and we'll find systems that work for everyone! 
+
+If you are ready, and completed all the work in good faith please submit this #HUNTOBER2022 first wave form (it is the same as before): https://forms.gle/ibS4sx8wKXgegVFZ7
+
+No one is getting banned, but please be respectful of my time and understand you may not be included in the first wave if everything is not done. I've also added a question where you can highlight any concerns you may have about your submission to better help me determine if you are a good fit for the first wave.
+
+Best of luck with the REACT homework and see you all Thursday! 
+
+Much love,
+Leon
+Google Docs
+#HUNTOBER2022 Submission
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, do not submit fake / incomplete stuff... You are just making more work for me and it won't help...
+Image
+Leon — 06/10/2022 00:09
+Hey @everyone 
+
+@Mayanwolfe (Stream Team) is live right now working through the homework string methods you’ll need for #HUNTOBER2022
+
+https://www.twitch.tv/mayanwolfe
+Twitch
+Mayanwolfe - Twitch
+Image
