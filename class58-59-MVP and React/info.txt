@@ -1,0 +1,255 @@
+Leon — 27/09/2022 22:39
+Hey @everyone
+
+PLEASE keep your eye on how far you have come! From struggling with tags in HTML, trying to get things centered in CSS,  understanding what a function is, building up to objects and classes, battling through codewars, building servers with RAW http and fs modules, learning express, adding MongoDB into the mix, creating FULLSTACK APPs with authentication, now building fullstack apps of your own, and finally getting all your professional skills in place to start the glory that is THE HUNT next week! 
+
+Now Today is the day! Your Beautiful MVPs are due! I know so many of you are so close, but need just a little more time. SO, we are going to do a quick stream to celebrate how far we have come and then you'll have the rest of the evening to make the deadline. We'll start React on Thursday! 
+
+NO CHECKIN! - we want to start spacing things out too to throw off the scent! 
+
+
+:pikahello:  Class-57 of #100Devs starts in 50 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+⭐ Due  TODAY  ⭐ - 
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+Submit here: https://forms.gle/zBbPVW486pCdWorX6
+
+
+
+And here are the links to our classrooms for working on your BEAUTIFUL MVP: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Please research the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate - we'll cover this soon), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+
+:pikahello: New STUFF!
+Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html
+Mentally beak your favorite website down into reusable components! 
+AND SEE COMPONENTS EVERYWHERE!
+
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+================================================================================================================================================
+
+Leon — 29/09/2022 22:31
+Hey @everyone
+
+It's Time To REACT! Let's jump into the basics of React.js and understand WHY we would actually use it going forward! We are being baddies and understanding Components, Props, And State! 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1575599063075987457
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+:pikahello:  Class-58 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+⭐ Due  TUESDAY  ⭐ - 
+Paid Client Contract, Volunteer For Grass Org, or Actual Open Source PR
+100Hours Project BEAUTIFUL MVP
+Submit here: https://forms.gle/zBbPVW486pCdWorX6
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+:queen: New STUFF!
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Please research the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate - we'll cover this soon), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+===================================================================================================================================================
+
+Leon — 30/09/2022 02:10
+Hey @everyone
+
+Woot, thanks for jumping into WHY we might use React going forward! Best of luck finishing up your work for Huntober and see you all on Sunday to continue the super review! 
+
+
+✅ Please check-in by liking and retweeting this tweet:  https://twitter.com/leonnoel/status/1575599063075987457
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+:queen: Homework! New STUFF!
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react (as much as you can before Tuesday)
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Please research the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate - we'll cover this soon), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+
+Due Oct. 11th -
+Completed 100Hours Project
+10 Premium Apps (well cover in detail soon)
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+=================================================================================================================================================
+
+Leon — 30/09/2022 02:21
+Hey @everyone
+
+ALSO, @Mayanwolfe (Stream Team) VODs working through the REACT Docs / React Basics!:
+
+https://www.twitch.tv/videos/1601219327
+
+https://www.twitch.tv/videos/1603986282
+Twitch
+Let's Explore the Basics of React! #100Devs - mayanwolfe on Twitch
+Image
+Twitch
+PART 2: Let's Explore the Basics of React! #100Devs - mayanwolfe on...
+Leon — 02/10/2022 17:37
+Hey @everyone 
+
+Managed to lock myself out while walking the dogs…
+
+Super review part 2 will be delayed an hour! 
+
+See you all at 2pm ET!
+
+==================================================================================================================================================
+
+Leon — 03/10/2022 21:22
+Hey @everyone 
+
+💰 #HUNTOBER2022 IS UPON US!  💰 
+
+We are kicking off #THEHUNT tonight at 8pm ET here on Discord with @fairystephanie (RC's Fairy Job Mother)! They have helped hundreds of folx get jobs as software engineers and talked directly with hundreds of employers. Nobody and I mean NOBODY has a better pulse on what it takes to be successful on #THEHUNT then them. SO they are dishing all their best advice and answering your questions for a POWER HOUR!
+
+https://discord.com/events/735923219315425401/1026570973937402006
+
+
+✅ Please like and retweet: https://twitter.com/leonnoel/status/1577030578452385792
+(This really helps other experts want to give their time & experience to the community)
+
+
+🔥 Also, @blawblawLaw has been cooking up some magic with https://twitter.com/huntoberTweets Def. follow so you do not miss any of the DAILY fun!
+
+
+@Mayanwolfe (Stream Team) Spent 7+ hours working through the React Crash Course Homework Live. Here is the VOD in case you missed it: https://www.twitch.tv/videos/1606478478
+
+
+And we spent 4+ hours working through our Fullstack App w/ Auth yesterday! Part 2 of 3 of our Back End Super Review can be found here: https://www.twitch.tv/videos/1607516619
+
+
+:excited: So excited for this MONTH! :excited:
+Leon — 04/10/2022 02:34
+Hey @everyone 
+
+WOOOOOOOOOOOOOOOOOOOO #THEHUNT HAS BEGUN!!! 
+
+Thanks to @fairystephanie for helping us kick it off in style!
+
+Here is their twitter: https://twitter.com/scastanos_ 
+(The'll share the templates and such there first, so give them a follow please!)
+
+And while you are there don't forget to follow @blawblawLaw's Daily #HUNTOBER2022 twitter: https://twitter.com/huntoberTweets 
+
+Do YOU FEEL IT? I FEEL IT.... 
