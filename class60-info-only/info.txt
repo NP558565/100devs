@@ -1,0 +1,120 @@
+Leon — 06/10/2022 22:33
+Hey @everyone
+
+
+Let's try this again 😁 and talk #HUNTOBER2022 For All and then React! 
+
+
+:pikahello:  Class-60 of #100Devs starts in 50 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+:kermittea: TEA SPILL TOMORROW FRIDAY 6pm ET with @Nicolas L  :kermittea: 
+
+
+✅  Please check-in by liking and retweeting this tweet:  https://twitter.com/huntoberTweets/status/1578075112225415169
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+Here are the slides if you would like to follow along:  https://slides.com/d/XBGgiOM/live 
+After: https://slides.com/leonnoel/100devs2-see-react-together
+
+
+And here are the links to our classrooms for tonight: 
+https://live.remo.co/e/100devs-project-night-room-01
+https://live.remo.co/e/100devs-project-night-room-02
+REMO recently had a big update and it works much better. 
+
+
+👉🏾 Classes 46 & 47 - MVC:  https://youtu.be/SVX_HMum0n4
+Would appreciate a like and comment to help the algorithm!
+
+
+:queen: Newer STUFF!
+Watch  - https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Do - https://egghead.io/courses/the-beginner-s-guide-to-react
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+Please RUN BACK the following string methods:
+charAt
+charCodeAt
+concat
+includes
+indexOf
+match
+repeat
+replace
+search
+slice
+split
+substr
+toLowerCase
+toUpperCase
+trim
+
+Give a short description of what the method does, how it works, it's time complexity (if appropriate - we'll cover this soon), and give three examples of it in action!
+
+5 Codewars tagged as strings (minimum) 
+
+
+Due Oct. 11th - Wave 001 -
+Completed 100Hours Project
+
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥 
+
+================================================================================================================================================
+
+Leon — 07/10/2022 22:36
+Hey @everyone THE TEA SPILLITH! Daddy_Anki Tells ALL! EVERYTHING IS ON THE TABLE! 
+
+Come learn how @Nicolas L went from fixing tech at McDonalds to landing an 83k offer at a HOT LA STARTUP! with NO CODING CHALLENGE QUESTIONS! :mindblown:
+
+They want to SPILL ALL THE TEA! Salaries, offers, the good, and the bad! 
+
+:pikahello:    We are meeting here on our Discord Stage in 25mins: https://discord.com/events/735923219315425401/1028057582440562718
+
+🙏🏾  Instead of checking-in, please follow this brave soul who agreed to share all the nitty gritty details:
+https://twitter.com/scrappycoder
+
+Then come ask all your questions that are TOO HOT FOR TWITCH!
+slido.com with #8664241
+Leon — 08/10/2022 00:11
+Hey @everyone 
+
+🙏🏾   THE BIGGEST THANK YOU I can muster to @Nicolas L for spilling all of the tea tonight! 
+
+If you haven't already, please give them a follow:
+https://twitter.com/scrappycoder
+
+💰 Also, you heard first hand tonight how important their behavioral prep was to them sealing the deal, so PLEASE take some time to get back into BANKI this weekend! 
+
+See you all TUESDAY for daily standup #1 at 6pm ET! 
+
+No super review / monday standup due to Canadian Thanksgiving & Indigenous Peoples day in the US
+Leon — 08/10/2022 19:55
+Hey @everyone 
+
+:pikahello: Classes 48 - 52 are now on Youtube! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+💰 Also, here is @Nicolas L template to negotiating a higher salary once you get an offer:
+
+Hey [RECRUITER_NAME]! That sounds aweeesome! I really appreciate you going to bat for me and I'm really excited about this offer! I'm pretty deep in my interviewing with a few other companies right now like [name a few you got rejected from or interviewing now that this recruiter is unaware of] and I'm expecting offers from them around the [insert salary range ex: 95-120k]. I understand [COMPANY_NAME] is looking for someone in the [companies salary range ex: 90-95k], but if you were to send me on paper in an official offer letter a salary at [salary that would make you happy ex: 118k], I would shut down my search and go with this company immediately because it sounds like from both ends it would be a great fit!
+
+
+
+Have a great weekend! Excited for #HUNTOBER2022 to continue on Tuesday!
+YouTube
+Leon Noel
+Easily Add Authentication To Your Node Apps! Email Logins with Pass...
+Image
+
+======================================================================================================================================================
+
