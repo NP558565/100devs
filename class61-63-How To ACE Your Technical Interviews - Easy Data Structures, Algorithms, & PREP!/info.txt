@@ -1,0 +1,243 @@
+Leon — 11/10/2022 22:40
+Hey @everyone
+
+
+Tonight, I'm giving you the cheat codes you need to do well during your interviews! If you plan on interviewing now or in the near future, PLEASE don't skip this class. 
+
+#HUNTOBER2022's First Standup is 6:00pm Tonight on our #Huntober2022 stage: https://discord.com/events/735923219315425401/1029508355980546138
+(I'll be using this to gauge how many people will be joining us daily, but we will probably switch platforms once I see the final numbers.)
+
+:pikahello:  Class-61 of #100Devs starts in 50 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+✅  Please check-in by liking and retweeting this tweet:  https://twitter.com/helloitsrufio/status/1579483421402976256
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+:kermittea: TEA SPILL FRIDAY 6pm ET :kermittea: 
+
+
+Here are the slides if you would like to follow along:  https://slides.com/d/FypmYf8/live
+After: https://slides.com/leonnoel/100devs2-interview-secrets
+
+
+👉🏾 Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+⭐ Complete: Scoth.io Ultimate Algorithms Course -http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms
+
+
+Due Oct. 18th - Wave 001 -
+Completed 100Hours Project
+
+
+
+🔥 Next Class Thursday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+====================================================================================================================================================
+
+Leon — 13/10/2022 00:40
+Hey @everyone 
+
+@Mayanwolfe (Stream Team) is working through The Ultimate Guide to JavaScript Algorithms Course homework live right now! 
+
+Come learn about the basics of data structures and algorithms, and also learn how to run test cases and benchmarks!
+
+Join them for a  fun stream with some new tools! https://www.twitch.tv/mayanwolfe
+
+#communitytaught
+Twitch
+Mayanwolfe - Twitch
+==================================================================================================================================================
+
+Leon — 13/10/2022 22:30
+Hey @everyone
+
+
+Tonight lets gently introduce Data Structures & Algorithms! Come open another door for #THEHUNT
+
+
+:pikahello:  Class-62 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+✅  Please check-in by liking and retweeting this tweet:  https://twitter.com/mayanwolfe/status/1580231634271768576
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+:kermittea: TEA SPILL FRIDAY 6pm ET :kermittea: 
+
+
+Here are the slides if you would like to follow along:  https://slides.com/d/vp3A0Zc/live
+After: https://slides.com/leonnoel/100devs2-intro-ds-algorithms/
+
+
+👉🏾 Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+This Week: 
+1 coffee chat / 3 connections
+Push Code Every Day
+Study The Bank: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
+⭐ Complete: Scoth.io Ultimate Algorithms Course -http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms
+
+
+Due Oct. 18th - Wave 001 -
+Completed 100Hours Project
+
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+=====================================================================================================================================================
+
+Leon — 14/10/2022 02:25
+Hey @everyone
+
+Thanks for dipping your toes into DS & Algorithms. We'll go deeper on Tuesday!
+
+:kermittea: TEA SPILL TOMORROW FRIDAY 6pm ET with @blawblawLaw  :kermittea: 
+(no standup straight to the spill)
+
+
+✅  Please check-in by liking and retweeting this tweet:  https://twitter.com/mayanwolfe/status/1580231634271768576
+Real Gs move in silence like lasagna... We are going to slow our class announcement tweets, so your timelines look fresh for THE HUNT. Let's help boost others doing great work as we !checkin
+
+
+👉🏾 👉🏾 👉🏾 Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+New Homework: 
+
+⭐ Complete: Scoth.io Ultimate Algorithms Course -http://web.archive.org/web/20210616161653/https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms
+
+@Mayanwolfe (Stream Team) VOD working through the course: https://www.twitch.tv/videos/1622588809
+
+
+Due Oct. 18th - Wave 001 -
+Completed 100Hours Project
+
+
+🔥 Next Class Tuesday 🔥
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+
+==================================================================================================================================================
+
+Leon — 14/10/2022 22:01
+Hey @everyone :kermittea: THE TEA SPILLITH In 60mins!  :kermittea: 
+
+Come meet MOD EXTRAORDINAIRE @blawblawLaw  who locked down a $140k(tc) offer with in just two weeks of starting their Hitlist and whose technical interview consisted of WRITING A FOR LOOP!!! 
+
+They want to SPILL ALL THE TEA! Salaries, offers, the good, and the bad! 
+
+:pikahello: We are meeting on our Discord Stage in 60mins (6pm ET): https://discord.com/events/735923219315425401/1030585687763845130
+
+🙏🏾 Instead of checking-in, please follow this brave soul who agreed to share all the nitty gritty details: https://twitter.com/BlawblawLaw
+
+Then come ask all your questions that are 🔥 TOO HOT FOR TWITCH! 🔥 
+
+
+❤️ Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+YouTube
+Leon Noel
+Easily Add Authentication To Your Node Apps! Email Logins with Pass...
+
+================================================================================================================================================
+
+Leon — 15/10/2022 00:04
+Hey @everyone 
+
+:bigthanks:  A MASSIVE THANK YOU to @blawblawLaw for spilling ALL THE TEA and for ALL you do for this community! 
+
+🙏🏾  If you haven't already, please give them a follow:
+https://twitter.com/BlawblawLaw
+
+
+❤️ Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥 BACKEND SUPER REVIEW CONTINUES - Sunday 1pm ET 🔥
+YouTube
+Leon Noel
+Easily Add Authentication To Your Node Apps! Email Logins with Pass...
+
+=================================================================================================================================================
+
+Leon — 17/10/2022 00:08
+Hey @everyone 
+
+Thanks for hanging out for 4+ hours and wrapping up the BACKEND SUPER REVIEW! 
+
+Here is the template we created: https://github.com/100devs/fullstack-template
+And here is the quick recipe app we made with it: https://github.com/100devs/recipe-app-from-template
+
+🎃 #HUNTOBER2022 continues tomorrow at 7pm ET with @fairystephanie They are sharing all of the templates you will need for every step of #THEHUNT 
+
+
+💗 Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+
+:angryzoom: See you tomorrow, and Tuesday for More BigO + DS/Algos, and Wed for standup, and Thursday for HITLIST LIVE, and Friday for TEA SPILL! :angryzoom:
+GitHub
+GitHub - 100devs/fullstack-template
+Contribute to 100devs/fullstack-template development by creating an account on GitHub.
+GitHub - 100devs/fullstack-template
+GitHub
+GitHub - 100devs/recipe-app-from-template
+Contribute to 100devs/recipe-app-from-template development by creating an account on GitHub.
+GitHub - 100devs/recipe-app-from-template
+YouTube
+Leon Noel
+Easily Add Authentication To Your Node Apps! Email Logins with Pass...
+
+=====================================================================================================================================================
+
+Leon — 17/10/2022 23:05
+Hey @everyone 
+
+💰 #HUNTOBER2022 CONTINUES in 60 MINUTES!  💰 
+
+Join us tonight at 7pm ET here on Discord with @fairystephanie (RC's Fairy Job Mother)! They have helped hundreds of folx get jobs as software engineers and talked directly with hundreds of employers. Tonight they are walking us through all the conversation templates you need for each stage of #THEHUNT
+
+https://discord.com/events/735923219315425401/1031676282301333547
+
+
+✅ Please like and retweet: https://twitter.com/leonnoel/status/1582130249084477441
+(This really helps other experts want to give their time & experience to the community)
+
+
+And we spent 4+ hours building out a reusable fullstack template / building a super simple recipe app! Part 3 of 3 of our Back End Super Review can be found here: https://www.twitch.tv/videos/1626080668
+
+
+👉🏾 Classes 48 - 52! Add authentication to your Node Apps: https://youtu.be/z5UgtXOxEEk
+Would appreciate a like and letting the video play to help the algorithm!
+Leon — 18/10/2022 01:38
+Hey @everyone 
+
+Thanks to @fairystephanie  for another great #HUNTOBER2022 Session!
+
+If you haven't followed them yet... :stressed: : https://twitter.com/scastanos_ 
+
+Here is the link to the notion that we will be adding more templates to throughout #THEHUNT: https://resilientcoders.notion.site/100devs-Email-Templates-ea2a8c9bef5646549b3b1702281b0a45
+(Click duplicate to get your own copy!)
+
+See you all tomorrow for more DS, Algorithms, & Big O!
+Resilient Coders on Notion
+#100devs Email Templates
+PEOPLE CARE ABOUT HOW YOU WRITE...let’s review some email etiquette.
