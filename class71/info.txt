@@ -1,0 +1,604 @@
+Leon — 22/12/2022 22:32
+Hey @everyone
+
+🔥 WOOT! MICROSOFT SPONSORED CLASS! COME HELP US #FUNDTHEAGENCY & GET COMFORTABLE WITH GITHUB / GITHUB ISSUES SO WE CAN WORK ON LARGER PROJECTS TOGETHER! ALSO, RAFFLING OFF FREE EXCLUSIVE MERCH (complete form below to be eligible)! 🔥 
+
+
+✅  Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1606054631355736064
+🙏🏾 And by filling out this form:  https://aka.ms/learnwithleon
+
+❤️ Microsoft will definitely be taking a look at the activity on Twitter, how many fill out the form, and how may folx look at the Github introduction. Please show out, so they and other sponsors want to support our community in the future!
+
+
+:pikahello:  Class-71 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+Here are the slides if you would like to follow along live: https://slides.com/d/G4hOc9Y/live
+
+And here is the regular deck: https://slides.com/leonnoel/100devs-git-github-zero-to-hero
+
+
+🚨 BEFORE CLASS (if you would like to type along) 🚨
+Please fill out the form here: https://aka.ms/learnwithleon
+Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):
+https://github.com/git-guides/install-git
+https://www.theodinproject.com/courses/foundations/lessons/setting-up-git
+(If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl) 
+
+
+Homework For JOBUARY - Our 1 week getting a job crash course starting Jan 3rd:
+(Due Tues - Jan. 3rd):
+🚨 Do: https://aka.ms/learnwithleon (Intro. To Github)
+:this: This link is a great intro to github & part of our sponsored class. Please use this link and fill out the form, so Microsoft can see how many folx are participating!
+
+
+🔥 Tea Spill Tomorrow 6pm ET on Discord! 🔥
+Leon — 23/12/2022 03:05
+Hey @everyone
+
+Thank you for helping #FUNDTHEAGENCY and helping us take the first steps towards making learning to code more equitable for all. Hope you had fun seeing the power of Git/Github and are ready to put your skills in action during #JOBUARY
+
+
+🙏🏾  IMPORTANT: If you haven't checked-in please show Microsoft Azure some love on this tweet: https://twitter.com/leonnoel/status/1606054631355736064
+🙏🏾 And by filling out this form:  https://aka.ms/learnwithleon
+
+❤️ Microsoft will definitely be taking a look at the activity on Twitter, how many fill out the form, and how may folx look at the Github introduction. Please show out, so they and other sponsors want to support our community in the future!
+
+
+
+Homework For #JOBUARY - Our 1 week getting a job crash course starting Jan 3rd:
+(Due Tues - Jan. 3rd):
+🚨 Do: https://aka.ms/learnwithleon (Intro. To Github)
+:this: This intro will cover in more detail branching, issues, pull requests, and more which we will need for #JOBUARY
+
+
+🔥 Tea Spill Tomorrow 6pm ET on Discord! 🔥
+
+Leon Noel 🔥 (@leonnoel)
+We are going from Zero To Hero with Git & Github!
+
+@Microsoft @Azure are sponsoring our #100Devs class in 60mins at (6:30pm ET) on https://t.co/oGOgB6SDbu
+
+Raffling SWAG all stream!
+
+Also, check out https://t.co/lgRdet69EC for more Github Courses!
+
+#100DaysOfCode #LearnToCode
+Likes
+979
+Retweets
+856
+
+Twitter•22/12/2022 22:30
+Leon — 23/12/2022 22:32
+Hey @everyone 
+
+Scheduling is a little tough during the Holidays, so we'll have an OFFICE HOURS POWER HOUR today and pick up Tea Spills again in the new year!
+
+🔥 OFFICE HOURS POWER HOUR 🔥  in 30 mins: https://discord.com/events/735923219315425401/1055975337583976489
+
+#THEHUNT related questions raise your hand and come on stage! 
+
+Ask your other questions here: slido.com with #2731651 
+
+:pikahello: See You Soon Here On Discord! 
+Leon — 02/01/2023 21:31
+Hey @everyone 
+
+🎉 Happy New Year! Super excited to kick off the new year with standup today at 6:00pm ET here: https://live.remo.co/e/100devs-standup (we'll do Q&A since we are just returning from break before going deeper with recursion tomorrow!) 
+
+Remember you can get daily standup reminders by clicking the 🎃 here: https://discord.com/channels/735923219315425401/1029499655874170910/1032022733057425490
+
+We will have standup every day this week and #JOBUARY will officially start on Monday Jan. 9th! I want folx to have more time to make wave002 and to give companies a little more time to be back "in office". Expect a stream, talk, or event every day next week starting a little earlier at 5pm ET! 
+
+:ricflair: Wave001 is now complete with all the certs, letters, job board invites, and freelancer signups having gone out plus follow up emails if you were missing anything!
+
+:letmein: Wave002 is now open and the due date is extended until midnight PST on Friday Jan 6th: https://forms.gle/SJRaYGYZQB6uKCT98
+(If you would like a shiny completion cert (to burn for warmth), a letter of support from me highlighting your achievements during your time at 100Devs, access to our exclusive job board (more companies coming), access to our seeking freelancer list (were clients can post their jobs for free and hopefully you grab a few extra clients), and entrance into the cool kids club that is #📚house-turing , please fill out this form)
+
+Folx from wave001 & wave002 will be added to #📚house-turing at once wave002 completes this month. Then the game plan is to continue more waves each month! 
+
+Also, I would really appreciate you filling out these surveys if you have not done so already. I want to make 100Devs the best it can be, but I need your help! 
+
+The 2022 Feedback Survey: https://forms.gle/HRnaUa7qVtxnYSno9
+(This survey really helps me understand how the past cohort went and what things can be improved. I review each submission and would appreciate you taking the time to fill it out.)
+
+The #100Maintainers Survey: https://forms.gle/CLwEKgup5Ncrx2Ex8
+(If there is anything you would like to do to support #100Devs with your time and sweat, I would appreciate you filling out this form.)
+
+:pikahello: Thank you all for making last year so special. Pumped for what 2023 holds for all of us! See you in 90mins! 
+
+Much Love,
+Leon
+#100Devs Standup
+#HUNTOBER2022
+Google Docs
+#HUNTOBER2022 Submission Wave 002
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, do not submit fake / incomplete stuff. You are just making more work for me and it won't help.
+Image
+Google Docs
+Let's Make #100Devs Even Better!
+Thank you for taking a few minutes to fill out this survey. I'm working super hard between cohorts to make #100Devs even better and would love your insight on how things went and what you would like to see in the future!
+Image
+Google Docs
+#100Maintainers Survey
+The goal of this form is to find folx interested in contributing to make 100Devs the best it can be!
+Image
+Leon — 06/01/2023 22:30
+Hey @everyone  :kermittea: THE TEA SPILLITH In 60 mins!  :kermittea:
+
+
+Come meet @LeahTCodes🐊✨  who graduated into the pandemic, taught high schoolers, joined #100Devs, and locked down a 90K Email Developer offer with basic HTML, CSS, JS knowledge! 
+
+
+They want to SPILL ALL THE TEA! The good, the bad, and what it is like to get hired! 
+
+
+:pikahello:  We are meeting on our Discord Stage in 60 mins (6:30pm ET): https://discord.com/events/735923219315425401/1061001670487720027
+
+
+🙏🏾 Instead of checking-in, please follow this brave soul who agreed to share all the nitty gritty details: https://twitter.com/LeahTCodes
+
+Then come ask all your questions that are 🔥  TOO HOT FOR TWITCH!  🔥 
+
+
+👉🏾  Classes 53-55! Binary Upload Boom - Build A Social Network:  https://www.youtube.com/watch?v=xsKGlEemTAo 
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥 #JOBUARY EVERY DAY NEXT WEEK @ 5pm ET 🔥
+YouTube
+Leon Noel
+Let's Build A Social Network with Node, Express, MongoDB, & Cloudin...
+Image
+Leon — 07/01/2023 00:44
+Hey @everyone 
+
+
+:bigthanks:  A MAAASSSIIVVVEEE THANK YOU to @LeahTCodes🐊✨  for spilling ALL THE TEA! 
+
+
+🙏🏾  If you haven't already, please give them a follow: https://twitter.com/LeahTCodes
+👉🏾 And catch them live: https://www.twitch.tv/leahtcodes
+
+
+🔥 #JOBUARY EVERY DAY NEXT WEEK @ 5pm ET 🔥
+Twitch
+LeahTCodes - Twitch
+Image
+Leon — 09/01/2023 20:32
+Hey @everyone 
+
+🎉 :supersaiyan: 🎉 #JOBUARY STARTS TODAY AT 5pm ET on Discord 🎉 :supersaiyan: 🎉 
+
+Come Craft Your Story LIVE: https://discord.com/events/735923219315425401/1062101252617539685
+
+Crafting your story is one of the most important pieces for setting up #THEHUNT correctly! A well crafted story can tie in past experience, explain gaps, remove the early career smell, and so much more! We'll cover the basics and then bring up folx to work through their personal stories, so you can learn how to craft yours too! 
+
+The stories we crafted live last time literally helped folx land jobs, so let's do it again LIVE! 
+Leon — 10/01/2023 21:00
+Hey @everyone 
+
+:letmein:  #JOBUARY Behavioral THROW DOWN at 5pm ET on Discord ( in 60 mins) :letmein: 
+
+Come Craft Your Behavioral Questions LIVE: https://discord.com/events/735923219315425401/1062470939209637959
+
+Behavioral Questions have hands down helped the most folx GET JOBS! If you are going to be a beast at anything, it should be these 22 questions! 
+
+Come Craft Your Behavioral Answers LIVE! 
+Leon — 11/01/2023 22:00
+Hey @everyone 
+
+#JOBUARY CONTINUES! We've had two action packed days crafting stories and behavioral answers but,
+
+:stressed: NONE OF THAT MATTERS UNLESS YOU TAKE ACTION! :stressed: 
+
+So let's work on our stories and answers together here: https://live.remo.co/e/100devs-standup
+(If Remo gives you trouble, jump in a voice channel here on Discord)
+
+Let's support each other, bounce ideas, and live up to being #communitytaught
+
+We'll finish the back half of behavioral questions tomorrow, but you will get so much more out of it if you craft some of your own right now! 
+#100Devs Standup
+#HUNTOBER2022
+Leon — 12/01/2023 21:01
+Hey @everyone 
+
+:letmein:  #JOBUARY Behavioral THROW DOWN RETURNS at 5pm ET on Discord (in 60mins) :letmein: 
+
+Come Craft Your Behavioral Questions LIVE: https://discord.com/events/735923219315425401/1063195797602173078
+
+Behavioral Questions have hands down helped the most folx GET JOBS! Let's finish answering these questions!
+
+
+:angryzoom: Also, Youtube took down the BACKEND SUPER REVIEW for being too long, so I edited down by removing the breaks and we are back up! CAN'T STOP WON'T STOP! 
+
+11+ Hours! As always, would appreciate a like and letting the video play! https://youtu.be/JGFS11u1TIQ
+YouTube
+Leon Noel
+JavaScript Backend Web Development Tutorial (with Node)
+Image
+Leon — 13/01/2023 21:00
+Hey @everyone  :kermittea: THE TEA SPILLITH In 60 mins!  :kermittea:
+
+
+It's Friday the 13th, so time for a SCARILY GOOD Tea Spill (thanks @blawblawLaw )
+
+
+Come meet @Sam Sycamore who went from building cabins in the woods as a carpenter's apprentice to a 140k Dev Advocate Role!
+
+
+They want to SPILL ALL THE TEA! The good, the bad, and what it is like to get hired! 
+
+
+:pikahello:  We are meeting on our Discord Stage in 60 mins (5:00pm ET): https://discord.com/events/735923219315425401/1063538240147161128
+
+
+🙏🏾 Instead of checking-in, please follow this brave soul who agreed to share all the nitty gritty details: https://twitter.com/tanoaksam
+
+
+Then come ask all your questions that are 🔥  TOO HOT FOR TWITCH!  🔥 
+
+
+👉🏾  Our Backend Super Review: https://youtu.be/JGFS11u1TIQ
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥 #JOBUARY STANDUP Monday @ 6pm ET 🔥
+YouTube
+Leon Noel
+JavaScript Backend Web Development Tutorial (with Node)
+Image
+Leon — 13/01/2023 23:31
+Hey @everyone 
+
+
+:bigthanks:  A COLOSSALLL THANK YOU to @Sam Sycamore   for spilling ALL THE TEA! They are now tagged up with @Friends (Legends) 
+
+
+🙏🏾  If you haven't already, please give them a follow: https://twitter.com/tanoaksam
+
+
+:pikahello: Also, you heard the power of twitter! Jump in this thread and make some friends: https://twitter.com/leonnoel/status/1614017682789236736
+
+
+:eyesshaking:  Our Backend Super Review: https://youtu.be/JGFS11u1TIQ
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥  #JOBUARY STANDUP Monday @ 6pm ET 🔥
+
+
+Have a great weekend and thank you for a great first week of #JOBUARY!
+
+Leon Noel 🔥 (@leonnoel)
+It’s Friday, so what does your desk actually look like after a full week?
+
+No cleaning up! I’ll go first!
+Likes
+167
+Image
+
+Twitter•13/01/2023 21:52
+YouTube
+Leon Noel
+JavaScript Backend Web Development Tutorial (with Node)
+Image
+Leon — 20/01/2023 22:06
+Hey @everyone  :kermittea: THE TEA SPILLITH In 55 mins!  :kermittea:
+
+
+Come meet @africakenyah  who went from a career in occupational therapy, to dealing with burnout, to landing a role as an Accessibility Engineer! 
+
+
+They want to SPILL ALL THE TEA! The good, the bad, and what it is like to get hired! 
+
+
+:pikahello:  We are meeting on our Discord Stage in 60 mins (5:00pm ET): https://discord.com/events/735923219315425401/1066116219603787816
+
+
+🙏🏾 Instead of checking-in, please follow this brave soul who agreed to share all the nitty gritty details: https://twitter.com/AfricaKenyah
+
+Then come ask all your questions that are 🔥  TOO HOT FOR TWITCH!  🔥 
+
+
+🚨 How To Make Your 100 Hours Project look great (New VOD on Youtube):  https://youtu.be/zjxo_-wNZHE 
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥 #JOBUARY STANDUP Monday @ 6pm ET 🔥
+YouTube
+Leon Noel
+One Project That Will Get You Hired
+Image
+Leon — 21/01/2023 00:19
+Hey @everyone 
+
+
+:bigthanks:  A MAAAASSSIIIVVVEEE THANK YOU to @africakenyah for spilling ALL THE TEA! 
+
+
+🙏🏾  If you haven't already, please give them a follow: https://twitter.com/AfricaKenyah
+
+
+:eyesshaking:  How To Make Your 100 Hours Project look great (New VOD on Youtube):  https://youtu.be/zjxo_-wNZHE 
+Would appreciate a like and letting the video play to help the algorithm!
+
+
+🔥  #JOBUARY STANDUP Monday @ 6pm ET 🔥
+YouTube
+Leon Noel
+One Project That Will Get You Hired
+Image
+Leon — 26/01/2023 20:51
+Hey @everyone 
+
+I've come out the woods during my "week off" to ask 3 very important questions. If you could take 1 minute, to answer these questions it would mean a lot as I digest your survey feedback and think about the future of #100Devs: https://forms.gle/xfCDEX1ai9FvNvLs7
+
+
+🚨 Our Intro To React video is up on Youtube and it is struggling :bigsad:: https://youtu.be/edsuuCsiah0 
+As always, would appreciate a like and letting the video play to help the algorithm!
+
+:cattyping:  Also, I'll  be answering EVERY QUESTION you ask in the comments section! Treat it like office hours :):cattyping: 
+
+
+Much love,
+Leon
+
+🔥 #JOBUARY STANDUP MONDAY @ 6pm ET 🔥
+Google Docs
+3 Questions - Thank you
+The goal of this form is to help make 100Devs the best it can be!
+Image
+YouTube
+Leon Noel
+React JS Tutorial For Beginners
+Image
+Leon — 30/01/2023 22:02
+Hey @everyone
+
+We're back with @huntober2022 standup today at 6:00pm ET (in 60 mins)! Since we are back from a week break, it will be Q&A before we finish up our Data Structures & Algorithms! 
+
+So more folx can join, we'll do the Q&A here on Discord instead of Remo:  https://discord.com/events/735923219315425401/1069737815551787129
+
+If you have questions, please use slido.com #1904271
+
+:eyesshaking: Our Intro To React Video is up on Youtube: https://youtu.be/edsuuCsiah0 
+As always, would appreciate a like and letting the video play to help the algorithm! 
+Also, if I don't get to your question during standup, I'm answering every question in the comment section!
+
+ 🔥 STANDUP EVERY DAY THIS WEEK 🔥 
+YouTube
+Leon Noel
+React JS Tutorial For Beginners
+Image
+Leon — 02/02/2023 19:15
+Hey @everyone
+
+💰 Our How To Pass Your Technical Interviews + Data Structures & Algorithms Class is now on Youtube: https://youtu.be/FS7UxmzYF_M
+
+As always, would appreciate a like and letting the video play to help the algorithm! 
+And I'm answering every question in the comment section!
+
+
+Also, reminder our standups to practice this material happen every day at 6pm ET! 
+Click the 🎃 emoji in 🎃huntober2022-announcements to get a daily notification. 
+
+
+You can find all our past interview practice questions in 🎃huntober2022-standup and all our solutions here: https://replit.com/@leonanoel?tab=repls
+
+See you soon!
+YouTube
+Leon Noel
+How To Pass ANY Technical Interview - 300+ People Got Jobs Followin...
+Image
+replit
+leonanoel
+Run code live in your browser. Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
+Image
+Leon — 09/02/2023 19:48
+Hey @everyone
+
+💰 Your Speedrun Getting A Job Class is now on Youtube: https://youtu.be/plT838Ujxi0 
+(all the messages I would send and how I find jobs)
+
+As always, would appreciate a like and letting the video play to help the algorithm! 
+And I'm answering every question in the comment section!
+
+
+🎃huntober2022-standup today at 6pm ET! We are talking about stacks and then linked lists!
+
+
+Also, OFFICE HOURS POWER HOUR Tomorrow at 6pm ET:
+https://discord.com/events/735923219315425401/1073328211250909334
+
+See you soon!
+YouTube
+Leon Noel
+Getting A Software Engineering Job Speedrun Any% Unrestricted
+Image
+Leon — 10/02/2023 22:03
+Hey @everyone 
+
+:pikahello: OFFICE HOURS POWER HOUR IN 60 MINS!!! :pikahello: 
+
+Have questions? Use slido.com with #2665336
+
+https://discord.com/channels/735923219315425401/738891289071714388/1073329626765594688
+
+Also, Your How To Find / Network Your Way Into A Job Class is now on Youtube: https://youtu.be/plT838Ujxi0 
+(ALL the messages I would send and how I find jobs)
+
+As always,* I would appreciate a like and letting the video play to help the algorithm! *
+
+SEE YOU SOON!
+YouTube
+Leon Noel
+Getting A Software Engineering Job Speedrun Any% Unrestricted
+Image
+Leon — 10/02/2023 23:03
+Hey @everyone 
+
+Sorry, 15 minute delay! See you soon!
+Leon — 16/02/2023 22:25
+Hey @everyone
+
+💰 Your How To Network Your Way Into 30 Companies Class is now on Youtube: https://youtu.be/epKshUbcaj0
+
+As always, would appreciate a like and letting the video play to help the algorithm! 
+And I'm answering every question in the comment section!
+
+
+🎃huntober2022-standup today at 6pm ET! We are talking about linked lists and helping folx negotiate offers live!
+
+
+Also, OFFICE HOURS POWER HOUR Tomorrow at 6pm ET:  https://discord.com/events/735923219315425401/1075905477998813224
+
+
+See you soon!
+YouTube
+Leon Noel
+Networked My Way Into 30 Engineering Jobs
+Image
+Leon — 17/02/2023 22:05
+Hey @everyone 
+
+:pikahello: OFFICE HOURS POWER HOUR IN 55 MINS!!! :pikahello: 
+
+Have questions? Use slido.com with #3576538
+
+https://discord.com/events/735923219315425401/1075905477998813224
+
+:letmein: Your How To Network Your Way Into 30 Companies Class is now on Youtube: https://youtu.be/epKshUbcaj0
+(ALL the messages I would send and how I find jobs)
+
+As always, I would appreciate a like and letting the video play to help the algorithm!
+
+SEE YOU SOON! 
+YouTube
+Leon Noel
+Networked My Way Into 30 Engineering Jobs
+Image
+Leon — 17/02/2023 22:14
+Sorry, folx email went out early!!! Office Hours is at 6pm ET!
+Leon — 23/02/2023 22:25
+Hey @everyone
+
+:pikahello: Our First #100Devs Town Hall is  Tomorrow at 6pm ET:  https://discord.com/events/735923219315425401/1078439507151552542
+We are looking to tackle on boarding into the community and make significant changes esp here on Discord, but need your help to better understand what works, doesn't work, and what we want for the future!  Come up live to share your experience and participate in polls that will shape the future of #100Devs!  Excited to see you tomorrow! 
+
+
+:eyesshaking:  Also, Your How To Get Your FIRST Software Engineering Job is now on Youtube: https://youtu.be/bZf6_ld9u9A 
+
+This is EVERYTHING you need to get a job crammed into one class! Def. watch no matter where you are in your #100Devs journey! 
+
+As always, would appreciate a like and letting the video play to help the algorithm! 
+And I'm answering every question in the comment section!
+
+
+🎃huntober2022-standup  today at 6pm ET! We are helping folx negotiate offers live!
+
+
+See you soon!
+YouTube
+Leon Noel
+How To Get Your FIRST Software Engineering Job
+Image
+Leon — 24/02/2023 22:06
+Hey @everyone
+
+:pikahello: Our First #100Devs Town Hall is  55 minutes at 6pm ET:  https://discord.com/events/735923219315425401/1078439507151552542
+We are looking to tackle on boarding into the community and make significant changes esp here on Discord, but need your help to better understand what works, doesn't work, and what we want for the future!  Come up live to share your experience and participate in polls that will shape the future of #100Devs! 
+
+We'll be using Slido.com with the code #7880549 for our interactive bits tonight! 
+
+
+:eyesshaking:  Also, Your How To Get Your FIRST Software Engineering Job is now on Youtube: https://youtu.be/bZf6_ld9u9A 
+
+This is EVERYTHING you need to get a job crammed into one class! Def. watch no matter where you are in your #100Devs journey! 
+
+As always, would appreciate a like and letting the video play to help the algorithm! 
+And I'm answering every question in the comment section!
+
+
+
+See you soon!
+YouTube
+Leon Noel
+How To Get Your FIRST Software Engineering Job
+Image
+Leon — 06/03/2023 22:17
+Hey @everyone 
+
+🚨 🚧🚨 DISCORD MAINTENANCE SUNDAY MARCH 12TH 🚨 🚧🚨 
+
+The mod team is rolling out the first wave of changes based on our Town Hall. Expect things to break and be a little wonky all day Sunday as we have lots of system/bots that we are updating! Thank you for your patience and we'll ask for bug reports once we are done! 
+
+Our @huntober2022 standup will happen on Discord Today @ 6pm ET: https://discord.com/events/735923219315425401/1082422764457185380
+
+Q&A since we were away Th/F use Slido.com with the code
+#1904498 for #THEHUNT / Jobs related questions only please!
+
+
+:supersaiyan:  Also, Your Last Class of Cohort 002 is now on Youtube: https://youtu.be/KWLVCn53P3I
+
+As always, would appreciate a like and letting the video play to help the algorithm!
+And I'm answering every question in the comment section!
+
+
+:pikahello: See you at standup!
+YouTube
+Leon Noel
+Our Last Class - #100devs
+Image
+Leon — 11/03/2023 00:06
+Hey @everyone 
+
+🚨 🚧🚨 DISCORD MAINTENANCE SUNDAY MARCH 12TH 🚨 🚧🚨 
+
+The mod team is rolling out the first wave of changes based on our Town Hall. Expect things to break and be a little wonky all day Sunday as we have lots of system/bots that we are updating! Thank you for your patience and we'll ask for bug reports once we are done! 
+
+
+🚀 Having trouble crafting your story? I would like to find a few folx interested in having their story crafted live and then sharing the video across social media to help others. If you are interested, please fill out this form: https://forms.gle/kJEw5cKe5aSYdjJj9 
+(I'll pick a few folx and reach out to them early next week, thanks!) 
+
+
+:supersaiyan:  Also, Your Last Class of Cohort 002 is now on Youtube: https://youtu.be/KWLVCn53P3I
+
+As always, would appreciate a like and letting the video play to help the algorithm!
+And I'm answering every question in the comment section!
+
+
+:pikahello: Have a great weekend and see you at standup on Monday!
+Google Docs
+Crafting Story Survey
+The goal of this form is to find folx interested in having their story crafted and shared publicly
+Image
+YouTube
+Leon Noel
+Our Last Class - #100devs
+Image
+Leon — 17/03/2023 20:38
+Hey @everyone 
+
+My dear friend and founder of the non-profit I've helped build for the past 5+ years just put out a book called
+
+What We Build With Power
+
+It puts out the call to help disrupt the tech industry & build a more equitable workforce. It highlights the lessons we learned, and gives a deep dive into my pedagogy / the reason I do the things I do here at 100Devs. Ya boy shows up a few times through out the book and it would mean a lot if you helped me spread the word about our mission at Resilient Coders.
+
+🔥 Here is my tweet about the book: https://twitter.com/leonnoel/status/1636822856599478274
+(If you could like and retweet, I would really appreciate it. Also, I'll be purchasing and giving away 10 copies next week because WE'LL BE BACK LIVE ON TWITCH more to come...)
+
+Also,
+
+Leon Noel 🔥 (@leonnoel)
+I just got my copy of What We Build With Power!
+
+@delmarsenties founder of @resilientcoders puts out the call to help disrupt the tech industry & build a more equitable workforce
+
+It's a beautiful dive into our fight for economic justice
+
+✊🏾 Get it here: https://t.co/dft92y8ZIt
+
+
