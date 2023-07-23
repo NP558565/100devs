@@ -1,0 +1,83 @@
+Leon — 20/12/2022 22:33
+Hey @everyone
+
+
+Come join us for a PostgreSQL Class! During #THEHUNT you will run into SQL challenges & questions! Come learn the basics with @Mayanwolfe (Stream Team) and I'm raffling off some free exclusive merch to start! #COMMUNITYTAUGHT
+
+Looking forward to being back on Twitch! You are missed! 
+
+
+:pikahello:  Class-70 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
+
+
+💰 Help us #FUNDTHEAGENCY by joining our Microsoft Sponsored Stream THURSDAY @ 6:30pm ET 💰 
+
+
+:letmein: Want Daily Standup Notifications for #HUNTOBER2022? Please click the 🎃  in 🎃huntober2022-announcements 
+
+
+:kermittea: TEA SPILL FRIDAY 6pm ET :kermittea: 
+
+
+👉🏾 Classes 53 - 55! Building Our Social Network! https://www.youtube.com/watch?v=xsKGlEemTAo
+Would appreciate a like and letting the video play to help the algorithm!
+Leon — 21/12/2022 00:12
+Hey @everyone 
+
+@Mayanwolfe (Stream Team) is live right now diving into PostgreSQL! https://www.twitch.tv/mayanwolfe
+
+Come add an amazing skill to your tool belt and pump up that resume! 
+
+✅  Check-in / help us spread the word: https://twitter.com/leonnoel/status/1605353649609510912
+
+Slides: https://docs.google.com/presentation/d/12I3yDe_Yy_0OipC38REuweKQw7Y7L6OR3vTqP4_cH9I/edit?usp=sharing
+
+#COMMUNITYTAUGHT 
+Twitch
+Mayanwolfe - Twitch
+Image
+
+Leon Noel 🔥 (@leonnoel)
+Hey #100Devs we are diving into PostgreSQL tonight with @mayanwolfe
+
+🚨 Live right now: https://t.co/1fnHQxLCNX
+
+#communitytaught
+
+Twitter•21/12/2022 00:05
+Google Docs
+Intro to PostgreSQL
+Intro to PostgreSQL Structured Query Language
+Image
+Leon — 22/12/2022 05:55
+Hey @everyone 
+
+Super pumped for our Microsoft Sponsored Stream tomorrow (Thursday) at 6:30pm ET! 
+
+A few surveys as promised:
+
+The 2022 Feedback Survey: https://forms.gle/HRnaUa7qVtxnYSno9
+(This survey really helps me understand how the past cohort went and what things can be improved. I review each submission and would appreciate you taking the time to fill it out.)
+
+The #100Maintainers Survey: https://forms.gle/CLwEKgup5Ncrx2Ex8
+(If there is anything you would like to do to support #100Devs with your time and sweat, I would appreciate you filling out this form.)
+
+The #HUNTOBER2022 Wave 002 Survey (open until Jan 3rd 2023): https://forms.gle/SJRaYGYZQB6uKCT98
+(If you would like a shiny completion cert (to burn for warmth), a letter of support from me highlighting your achievements during your time at 100Devs, access to our exclusive job board (more companies coming), access to our seeking freelancer list (were clients can post their jobs for free and hopefully you grab a few extra clients), and entrance into the cool kids club that is #📚house-turing, please fill out this form)
+
+Wave 001 is still being processed and will take an extra day! Everyone should receive a response by eod tomorrow.
+
+💰 Sponsored Stream Tomorrow 💰 
+
+:kermittea: Tea Spill & Agency Site Going Live Friday :kermittea:
+Google Docs
+Let's Make #100Devs Even Better!
+Thank you for taking a few minutes to fill out this survey. I'm working super hard between cohorts to make #100Devs even better and would love your insight on how things went and what you would like to see in the future!
+Image
+Google Docs
+#100Maintainers Survey
+The goal of this form is to find folx interested in contributing to make 100Devs the best it can be!
+Image
+Google Docs
+#HUNTOBER2022 Submission Wave 002
+Please make sure all links are correct and viewable by all in your permissions if a google doc! Also, do not submit fake / incomplete stuff. You are just making more work for me and it won't help.
