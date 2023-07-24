@@ -1,7 +1,8 @@
 #100Devs 30 week software Engineering training Agency.<br>
 #Course files, homeworks and Projects.
 
-If you're new to #100Devs these are the main links you'll need to get started. Class is live on Twitch Tuesdays and Thursdays at 11:30pm GMT and usually runs about 3 hours.
+If you're new to #100Devs these are the main links you'll need to get started. Class are live on Twitch Tuesdays and Thursdays at 11:30pm GMT and usually runs about 3 hours.<br>
+If you have missed the class lecture, then you can catch up via youtube VOD, classes are added to you tube the following day.
 
 Discord is where everything gets posted and where you can go and ask questions and hang out. Drop in, say hi, and poke around.
 
