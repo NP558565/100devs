@@ -1,4 +1,4 @@
-#100Devs 30 week software Engineering bootcamp.
+#100Devs 30 week software Engineering training Agency.
 #Course files, homeworks and Projects.
 
 If you're new to #100Devs these are the main links you'll need to get started. Class is live on Twitch Tuesdays and Thursdays at 11:30pm GMT and usually runs about 3 hours.
