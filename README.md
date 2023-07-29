@@ -747,3 +747,18 @@ Learn with Leon Office hours(general chat Q & A)] https://www.twitch.tv/videos/1
   </li>
 </ol>
 
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+Choose an Open Source License
+Markdown Guide
+GitHub Emoji Cheat Sheet
+Malven's Flexbox Cheatsheet
+Malven's Grid Cheatsheet
+Img Shields
+Awesome Badges for README's
+GitHub Pages
+Font Awesome
+React Icons
+Beginner's Guide to Discord
+Another #100Devs follow-along Site for the Catchup Crew
+
