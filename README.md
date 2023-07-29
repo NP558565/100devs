@@ -747,5 +747,20 @@ Learn with Leon Office hours(general chat Q & A)] https://www.twitch.tv/videos/1
   </li>
 </ol>
 
+Use this space to list resources you find helpful. I've included a few of my favorites,
+
+- [Choose an Open Source License](https://choosealicense.com)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Img Shields](https://shields.io)
+- [Awesome Badges for README's](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
+- [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
+- [Another #100Devs follow-along Site for the Catchup Crew](https://100devsfollowalong.netlify.app/)
+
 
 
